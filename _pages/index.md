@@ -6,7 +6,7 @@ permalink: /
 ---
 ## Brandon Spiess
 
-# Down the Rabbit Hole!
+# Welcome to my Digital Garden!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
