@@ -4,7 +4,7 @@ title: Laws of the Universe
 
 ### Introduction 
 
-Like Newton’s law of universal gravitation, there are immutable laws of the universe that govern our reality and life experience. When you understand these laws, you can shift your life in a very powerful way.
+Like [Newton’s law of universal gravitation](https://www.physicsclassroom.com/class/circles/Lesson-3/Newton-s-Law-of-Universal-Gravitation), there are immutable laws of the universe that govern our reality and life experience. When you understand these laws, you can shift your life in a very powerful way.
 
 ## Oneness 
 - everything is connected to everything else. What we think, say, do and believe will have a corresponding effect on others and the universe around us.
