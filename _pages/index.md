@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Brandon Spiess
+title:
 id: home
 permalink: /
 ---
-# What is a Digital Garden?
+# Welcome to my Digital Garden!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Hello World]</span> to get started on your exploration.
