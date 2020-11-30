@@ -4,6 +4,7 @@ title: Brandon Spiess
 id: home
 permalink: /
 ---
+## Brandon Spiess
 
 # Down the Rabbit Hole! 🌱
 
