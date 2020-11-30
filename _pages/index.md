@@ -28,17 +28,31 @@ Additional reading on digital gardens:
   Take a look at <span style="font-weight: bold">[[books]]</span> to get started on your exploration.
 </p>
 
-# Links to Notes
+# Index
   - [[Books]]
+  - [[Buckmister Fuller]]
   - [[Creativity]]
+  - [[Decision Making]]
   - [[GameB]]
   - [[Health]]
   - [[Ideas]]
   - [[Mental Models]]
-  - [[Politics]]
   - [[Philosophy]]
+  - [[Politics]]
   - [[Productivity]]
   - [[Technology]]
+  - [[Life is a Pardox]]
+  - [[Politics]]
+  - [[Laws of the Universe]]
+  - [[Narrative on Work]]
+  - [[The Butterfly Effect]]
+  - [[Online-Offline]]
+  - [[Gig-Economy]]
+  - [[Future]]
+  - [[Decision-Making]]
+  - [[Esoteric Observation]]
+  -
+  
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
