@@ -13,7 +13,7 @@ The practice of sitting down to write is far from a new endavor for me, but I am
 This project began with a simple idea of condensing some of the greatest learnings and [[mental models]] from my life into a single document to reference in the coming years. 
 
 
-### Let there be light
+###
 
 Notice in the "Notes mentioning this note" section that there is another note linking to this note. This is a bi-directional link, and those are automatically created when you create links to other notes
 
