@@ -6,7 +6,7 @@ permalink: /
 ---
 ## Brandon Spiess
 
-# Welcome to my Digital Garden!
+# What is a Digital Garden!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
@@ -14,7 +14,7 @@ permalink: /
 
 This is a digital garden. I share articles, notes, and thoughts on things I am pondering. Generally speaking, this digital garden will be sharing thoughts on startups, technology, philosophy, personal development, and future predictions. 
 
-The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/). If you have exciting ideas, my [DMs are open on Twitter (@brandonspiess)](https://twitter.com/brandonspiess). Say hi! 👋
+The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/).
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Additional Research <span style="font-weight: bold">[[health]]</span> to get started.
