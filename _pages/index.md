@@ -4,8 +4,6 @@ title: Brandon Spiess
 id: home
 permalink: /
 ---
-## Brandon Spiess
-
 # What is a Digital Garden!
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
