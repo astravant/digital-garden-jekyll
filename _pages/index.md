@@ -17,7 +17,7 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Additional Research <span style="font-weight: bold">[[future]]</span> to get started.
-  </p>
+ </p>
 <style>
   .wrapper {
     max-width: 46em;
