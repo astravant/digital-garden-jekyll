@@ -5,6 +5,6 @@ permalink: /about
 ---
 *About Page*
 
-We are always pursuing labels, merely constructs of the human mind. I am certainly guilty of this. 
+We are always pursuing labels, merely constructs of the human mind.
 
-> Best-Selling Author, CEO, Entrepreneur, Activist, Philanthropist, Public Figure, Billionaire, Executive, Partner
+> Best-Selling Author, CEO, Entrepreneur, Activist, Billionaire, Philanthropist, Public Figure, Partner
