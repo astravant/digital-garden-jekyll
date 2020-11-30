@@ -5,7 +5,7 @@ id: home
 permalink: /
 ---
 
-# Down the Rabbit Hole! 🌱 <span class="iconify" data-icon="mdi-rabbit" data-inline="false"></span>
+# Down the Rabbit Hole! 🌱 background: url('https://api.iconify.design/mdi-rabbit.svg') no-repeat center center / contain;
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
