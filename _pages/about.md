@@ -3,10 +3,8 @@ layout: page
 title: About
 permalink: /about
 ---
-*About Page*
+We are always pursuing labels, constructs of the human mind.
 
-We are always pursuing labels, merely constructs of the human mind.
-
-> Best-Selling Author, CEO, Entrepreneur, Activist, Billionaire, Philanthropist, Public Figure, Partner
+> Best-Selling Author, CEO, Activist, Billionaire, Philanthropist, Public Figure
 
 The two things we have in this life are *time* and *energy.*
