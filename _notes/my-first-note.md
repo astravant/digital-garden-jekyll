@@ -6,7 +6,7 @@ title: Hello World!
 
 This is my first note. Welcome to my website. You are reading my first post in this digital garden.
 
-###Introduction
+### Introduction
 
 The practice of sitting down to write is not a new endavor for me, but I am excited to begin sharing my thoughts more openly.
 To link to another note, you can use Roam/wiki-style link syntax by wrapping a note's title (as defined in the note's front matter) in double brackets, like this: [[a note about cats]]. You may also use the note's filename without the extension in the brackets, like this: [[cats]]. If the Roam-style link does not point to a valid note's title, the double brackets will still be shown, like this: [[there is no note with this title]].
