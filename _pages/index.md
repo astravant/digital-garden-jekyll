@@ -21,12 +21,8 @@ Additional reading on digital gardens:
 - [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Additional Research <span style="font-weight: bold">[[health]]</span> to get started.
+  Here are my most recent <span style="font-weight: bold">[[ideas]]</span> to get a feel for the space.
  </p>
- 
- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[books]]</span> to get started on your exploration.
-</p>
 
 # Index
   - [[Books]]
