@@ -10,7 +10,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Hello World]]</span> to get started on your exploration. Have fun!
 </p>
 
-Welcome to a digital garden! This is my online space at the intersection of a notebook and a blog. A multi-year project of information sensemaking. Generally speaking, this space will discuss thoughts on technology, productivity, philosophy, and startups. It will use bi-directional linking - a lot of internal links - to connect notes together. Dive in!
+Welcome to a digital garden! This is my online space at the intersection of a notebook and a blog. A multi-year project of information sensemaking. Generally speaking, this space will discuss thoughts on technology, productivity, philosophy, and startups. It will use bi-directional linking - a lot of internal links - to connect notes together. Feel free to connect with me on Twitter [here](https://twitter.com/brandonspiess).
 
 The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by [Tom Critchlow](https://tomcritchlow.com/).
 
@@ -20,7 +20,7 @@ Additional reading on digital gardens:
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden
 
-For me, writing has made a huge difference in learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge. Feel free to connect with me on a more short form platfrom [here](https://twitter.com/brandonspiess).
+For me, writing has made a huge difference in learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Here are my most recent <span style="font-weight: bold">[[ideas]]</span> to get a feel for the space.
