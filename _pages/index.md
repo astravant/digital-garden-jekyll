@@ -15,16 +15,16 @@ This is my digital garden where I share articles, notes, and thoughts on things 
 
 The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you have exciting ideas, my [DMs are open on Twitter (@brandonspiess)](https://twitter.com/brandonspiess). Say hi! 👋
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #80BAFF; border-radius: 4px;">
   Additional Research <span style="font-weight: bold">[[future]]</span> to get started.
  </p>
  
- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+ <p style="padding: 3em 1em; background: #E3BEFF; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
 </p>
 
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+<p style="padding: 3em 1em; background: #B659FF; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
 </p>
 <style>
