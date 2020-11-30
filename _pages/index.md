@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Home
+title: Brandon Spiess
 id: home
 permalink: /
 ---
@@ -18,6 +18,15 @@ The easiest way to get started is to read this [step-by-step guide explaining ho
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Additional Research <span style="font-weight: bold">[[future]]</span> to get started.
  </p>
+ 
+ <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
+</p>
+
+
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
+</p>
 <style>
   .wrapper {
     max-width: 46em;
