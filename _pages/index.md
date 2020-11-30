@@ -18,7 +18,6 @@ Getting started with digital gardens:
 
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
-- List element C
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Additional Research <span style="font-weight: bold">[[health]]</span> to get started.
@@ -27,6 +26,15 @@ Getting started with digital gardens:
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[books]]</span> to get started on your exploration.
 </p>
+
+# Links to Notes
+  - [[Creativity]]
+  - [[Books]]
+  - [[Ideas]]
+  - [[Mental Models]]
+  - [[Technology]]
+  - [[Politics]]
+  - [[Health]]
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
