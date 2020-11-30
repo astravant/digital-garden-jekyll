@@ -20,7 +20,7 @@ Additional reading on digital gardens:
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - [The Swale: Weaving between Garden and Stream](https://bonkerfield.org/2020/05/swale-garden-stream/) by Will Stedden
 
-For me, writing has made a huge difference in learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge.
+For me, writing has made a huge difference in learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge. I'm excited to begin sharing thoughts and observations more publicly.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Here are my most recent <span style="font-weight: bold">[[ideas]]</span> to get a feel for the space.
