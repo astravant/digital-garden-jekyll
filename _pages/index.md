@@ -18,8 +18,8 @@ The best way to get started on understanding digital gardens is to read this [Of
 
 Getting started with digital gardens:
 
--[How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/)
-- List element B
+- [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
+- [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
 - List element C
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
