@@ -2,8 +2,6 @@
 title: Laws of the Universe
 ---
 
-# Laws of the Universe
-
 ### Introduction 
 
 Like Newton’s law of universal gravitation, there are immutable laws of the universe that govern our reality and life experience. When you understand these laws, you can shift your life in a very powerful way.
