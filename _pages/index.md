@@ -44,7 +44,6 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
   - [[Laws of the Universe]]
   - [[Narrative on Work]]
   - [[The Butterfly Effect]]
-  - [[Online vs. Offline]]
   - [[Gig Economy]]
   - [[Future]]
   - [[Esoteric Observation]]
