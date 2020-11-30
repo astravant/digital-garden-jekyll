@@ -30,7 +30,7 @@ Additional reading on digital gardens:
 
 # Index
   - [[Books]]
-  - [[Buckmister Fuller]]
+  - [[Buckminster Fuller]]
   - [[Creativity]]
   - [[Decision Making]]
   - [[GameB]]
@@ -41,17 +41,16 @@ Additional reading on digital gardens:
   - [[Politics]]
   - [[Productivity]]
   - [[Technology]]
-  - [[Life is a Pardox]]
+  - [[Life is a Paradox]]
   - [[Politics]]
   - [[Laws of the Universe]]
   - [[Narrative on Work]]
   - [[The Butterfly Effect]]
   - [[Online-Offline]]
-  - [[Gig-Economy]]
+  - [[Gig Economy]]
   - [[Future]]
-  - [[Decision-Making]]
   - [[Esoteric Observation]]
-  -
+
   
 
 
