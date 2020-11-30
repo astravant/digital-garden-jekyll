@@ -7,7 +7,7 @@ permalink: /
 # What is a Digital Garden?
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[my first note]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[[Hello World]</span> to get started on your exploration.
 </p>
 
 This is a digital garden. I share articles, notes, and thoughts on things I am pondering. Generally speaking, this digital garden will be sharing thoughts on startups, technology, philosophy, personal development, and future predictions. 
