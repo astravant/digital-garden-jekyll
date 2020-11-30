@@ -28,13 +28,16 @@ Getting started with digital gardens:
 </p>
 
 # Links to Notes
-  - [[Creativity]]
   - [[Books]]
+  - [[Creativity]]
+  - [[GameB]]
+  - [[Health]]
   - [[Ideas]]
   - [[Mental Models]]
-  - [[Technology]]
   - [[Politics]]
-  - [[Health]]
+  - [[Philosophy]]
+  - [[Productivity]]
+  - [[Technology]]
 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
