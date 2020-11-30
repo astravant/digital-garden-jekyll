@@ -3,7 +3,8 @@ layout: page
 title: About
 permalink: /about
 ---
+*About Page*
 
-*This is an about page.*
+We are always pursuing labels, merely constructs of the human mind. I am certainly guilty of this. 
 
-Feel free to tell the world about what you love! 😍
+> Best-Selling Author, CEO, Entrepreneur, Activist, Philanthropist, Public Figure, Billionaire, Executive, Partner
