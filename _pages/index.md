@@ -46,7 +46,7 @@ Additional reading on digital gardens:
   - [[Laws of the Universe]]
   - [[Narrative on Work]]
   - [[The Butterfly Effect]]
-  - [[Online-Offline]]
+  - [[Online vs. Offline]]
   - [[Gig Economy]]
   - [[Future]]
   - [[Esoteric Observation]]
