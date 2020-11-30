@@ -14,7 +14,7 @@ This is a digital garden. I share articles, notes, and thoughts on things I am p
 
 The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by [Tom Critchlow](https://tomcritchlow.com/).
 
-Getting started with digital gardens:
+Additional reading on digital gardens:
 
 - [How the Blog Broke the Web](https://stackingthebricks.com/how-blogs-broke-the-web/) by Amy Hoy
 - [My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden) by Joel Hooks
