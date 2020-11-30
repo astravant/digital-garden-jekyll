@@ -10,7 +10,7 @@ permalink: /
   Take a look at <span style="font-weight: bold">[[Hello World]]</span> to get started on your exploration. Have fun!
 </p>
 
-Welcome to a digital garden! This is my online space at the intersection of a notebook and a blog. A multi-year project of information sensemaking. Generally speaking, this space will discuss thoughts on technology, productivity, philosophy, and startups. I will use bi-directional linking -a lot of internal links- to connect notes together.
+Welcome to a digital garden! This is my online space at the intersection of a notebook and a blog. A multi-year project of information sensemaking. Generally speaking, this space will discuss thoughts on technology, productivity, philosophy, and startups. It will use bi-directional linking - a lot of internal links - to connect notes together.
 
 The best way to get started on understanding digital gardens is to read this [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/) by [Tom Critchlow](https://tomcritchlow.com/).
 
