@@ -17,6 +17,22 @@ We will begin moving more and more of our lives to the virtual world just as we 
 
 - the idea of a [metaverse](https://en.wikipedia.org/wiki/Metaverse)
 
+## Passing a Law
+
+- How does a bill become law? 
+	- every law starts with an idea- contact elected officials to share the idea
+	- if they like the idea, they will write a bill
+	- A bill can start in either house of congress when it's introduced by its primary sponsor -- a senator or representative 
+	- Representatives or senators meet in a small group to research, talk about, and make changes to the bill before sending it to: 
+	- the House of Senate floor for debate or to a subcommittee for further research. 
+	- Congress debates and votes
+	- Both houses have to agree on the same version of the final bill before it goes to the President. 
+	- [Link to more research](http://www.nationalmodelcongress.org/uploads/2/6/7/3/26736439/nmc_bill_writing_guide.pdf)
+
+# idea = taxes, how they're allocated, more transparency, charities, blockchain
+- restrucuture the tax system in America
+
+
 ## Evolution
 
 - if you are not growing, you are dying. 
