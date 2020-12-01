@@ -17,12 +17,20 @@ We will begin moving more and more of our lives to the virtual world just as we 
 
 - the idea of a [metaverse](https://en.wikipedia.org/wiki/Metaverse)
 
+## Biocentrism
+- Concepts such as time, space, and even causality are increasingly being demonstrated as meaningless.
+- All of science is based on information passing through our consciousness but science hasn’t the foggiest idea what consciousness is, and it can’t explain the linkage between subatomic states and observation by conscious observers. 
+- Science describes life as a random occurrence in a dead universe but has no real understanding of how life began or why the universe appears to be exquisitely designed for the emergence of life.
+
 ## Random
 - Very important to recognize the motives driving the actions of individuals and society
 - Be willing to take a different path - reverse engineer your desires and motives to get at the root of what really interests you and what you believe is important to the future of humanity and invest time and energy every day towards building this as your form of creative expression. 
 - accept that the path for you will likely be dissimilar to the path pursued by the masses
 - the path being followed by the masses is not always the right path, find the right path for you. 
 - compare yourself to where you were yesterday, not to where someone else is today. 
+
+- Too many of our smartest minds are working on trivial tasks and spending their time in corporations where they feel invisible.
+- Looking like you're being productive is often a better strategy for career advancement than actually being productive.
 
 ## Autonomous Driving
 -  industry will likely submit to natural geographic monoplies due to the amount of location-specific driving data necessary to launch and have a winning platform. 
@@ -50,8 +58,12 @@ We will begin moving more and more of our lives to the virtual world just as we 
 	- Both houses have to agree on the same version of the final bill before it goes to the President. 
 	- [Link to more research](http://www.nationalmodelcongress.org/uploads/2/6/7/3/26736439/nmc_bill_writing_guide.pdf)
 
-### idea = taxes, how they're allocated, more transparency, charities, blockchain
+### idea = on taxes, how they're allocated, transparency, charities, blockchain
 - restrucuture the tax system in America
+- a new tax system built on transparency
+- taxpayers can see where the money is going 
+- a percentage of taxes can be given to organizations of the taxpayers choice
+- a list is created by the gov't of acceptable orgs
 
 
 ## Evolution
