@@ -14,6 +14,8 @@ This project began with a simple idea of condensing some of the greatest learnin
 
 In the past, I have not published much of my writing due to the feeling that I needed to edit and perfect it before I published it. The reason I like the idea of a digital garden is because it removes that filter. I can write about what is on my mind at any particular moment and just publish it, without worrying if it's 'up to par' or good enough. For me, a digital garden is a great way to spread half-baked ideas that you're still thinking through internally. The goal of this space is to offer a portal into my mind. 
 
+I reflect on some of the great minds of humanity and think about how great it would be if we had a space like this that they curated and shared their thoughts. 
+
 > You can't use up creativity. The more you use the more you have.
 
 
