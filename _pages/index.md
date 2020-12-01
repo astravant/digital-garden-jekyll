@@ -31,9 +31,11 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
 # Recent Reading
 - [A Journey To GameB](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - [There Could Be a Real Solution to Our Broken Economy. It’s Called ‘Universal Basic Assets.’](https://medium.com/institute-for-the-future/universal-basic-assets-abb08ca2f0fc)
-- [The One Word That Explains Why Economics Professors Are Not Billionaires](https://medium.com/rich-culture/the-one-word-that-explains-why-economics-professors-are-not-billionaires-e7754a606ef4)
 - [Defund (and redesign) everything.](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d)
-- [How I set and execute 50-year goals](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
+- [Smart Contracts: Building Blocks for Digital Markets](https://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html) by Nick Szabo
+- [Ethereum Whitepaper](https://ethereum.org/en/whitepaper/)
+- [The Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf) by James Baldwin
+- [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
 # Garden Index
   - [[Books]]
