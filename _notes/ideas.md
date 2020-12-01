@@ -37,7 +37,6 @@ A brief list of the writers, leaders, thinkers, entrepreneurs, investors I am fo
 - Marc Andressen 
 - Naval Ravikant
 - Muhammad Yunus
-- Peter Thiel 
 - Yuval Noah Harari
 - Reid Hoffman
 - Aubrey de Grey
