@@ -5,7 +5,7 @@ title: Online vs. Offline
 ### idea: A contrarian outlook on the age of social media - building offline connections are more important than online connections. 
 - this idea ties into Reid Hoffman's idea of the [darknet](https://www.incognitoartists.com/blog/power-dark-net/).
 - darknet = information that is not searchable online, in any book, in any classroom, and never will be
-  - people will share ideas and thoughts they would not share online 
+  - offline,  people will share ideas and thoughts they would not share online 
 -  plus, while offline you are able to ask very specific questions derived from your current situation which lead to better answers. 
 
 ### idea: 1 great contact is worth 100 mediocre contacts  
