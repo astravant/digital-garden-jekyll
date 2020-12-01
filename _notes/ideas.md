@@ -58,7 +58,6 @@ We will begin moving more and more of our lives to the virtual world just as we 
 	- Both houses have to agree on the same version of the final bill before it goes to the President. 
 	- [Link to more research](http://www.nationalmodelcongress.org/uploads/2/6/7/3/26736439/nmc_bill_writing_guide.pdf)
 
-### idea = on taxes, how they're allocated, transparency, charities, blockchain
 - restrucuture the tax system in America
 - a new tax system built on transparency
 - taxpayers can see where the money is going 
