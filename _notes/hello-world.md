@@ -13,14 +13,8 @@ The practice of sitting down to write is far from a new endavor for me, but I am
 This project began with a simple idea of condensing some of the greatest learnings and [[mental models]] from my life into a single document to reference in the coming years. 
 
 
-###
-
-
-```
-
 > You can't use up creativity. The more you use the more you have.
 
-And of course, images look great:
 
 <img src="/assets/image.jpg"/>
 
