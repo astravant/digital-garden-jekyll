@@ -28,15 +28,14 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
   Here are my most recent <span style="font-weight: bold">[[ideas]]</span> to get a feel for the space.
  </p>
 
-# Thought Provoking
-- [The One Word That Explains Why Economics Professors Are Not Billionaires](https://medium.com/rich-culture/the-one-word-that-explains-why-economics-professors-are-not-billionaires-e7754a606ef4)
-- [While Everyone Is Distracted By Social Media, Successful People Double Down On An Underrated Skill](https://medium.com/accelerated-intelligence/while-everyone-is-distracted-by-social-media-successful-people-double-down-on-a-totally-underrated-5a86701e9a27)
+# Recent Reading
 - [A Journey To GameB](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - [There Could Be a Real Solution to Our Broken Economy. It’s Called ‘Universal Basic Assets.’](https://medium.com/institute-for-the-future/universal-basic-assets-abb08ca2f0fc)
+- [The One Word That Explains Why Economics Professors Are Not Billionaires](https://medium.com/rich-culture/the-one-word-that-explains-why-economics-professors-are-not-billionaires-e7754a606ef4)
 - [Defund (and redesign) everything.](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d)
 - [How I set and execute 50-year goals](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
 
-# Index
+# Garden Index
   - [[Books]]
   - [[Buckminster Fuller]]
   - [[Creativity]]
