@@ -1,5 +1,6 @@
 ---
 title: Online vs. Offline
+---
 
 ### idea: A contrarian outlook on the age of social media - building offline connections are more important than online connections. 
 - this idea ties into Reid Hoffman's idea of the [darknet](https://www.incognitoartists.com/blog/power-dark-net/).
