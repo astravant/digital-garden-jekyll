@@ -17,6 +17,27 @@ We will begin moving more and more of our lives to the virtual world just as we 
 
 - the idea of a [metaverse](https://en.wikipedia.org/wiki/Metaverse)
 
+## Random
+- Very important to recognize the motives driving the actions of individuals and society
+- Be willing to take a different path - reverse engineer your desires and motives to get at the root of what really interests you and what you believe is important to the future of humanity and invest time and energy every day towards building this as your form of creative expression. 
+- accept that the path for you will likely be dissimilar to the path pursued by the masses
+- the path being followed by the masses is not always the right path, find the right path for you. 
+- compare yourself to where you were yesterday, not to where someone else is today. 
+
+## Autonomous Driving
+-  industry will likely submit to natural geographic monoplies due to the amount of location-specific driving data necessary to launch and have a winning platform. 
+- first movers will be able to collect more data thus increasing the likliehood of having a better platform. 
+- Nio = tesla of China
+	- stock up 700% in 2020
+	
+## Estonia
+- Estonia, a tiny Baltic nation with a population of only ~1.3 million people, is considered one of the most digitally advanced countries in the world.
+- The world’s first e-government
+- The first country to launch a Digital Nomad Visa
+- The first country to offer digital residency to non-Estonians living anywhere in world
+- The first country to hold nationwide elections using electronic voting 
+- The first country that Ikea first entered digitally before establishing a physical presence
+
 ## Passing a Law
 
 - How does a bill become law? 
