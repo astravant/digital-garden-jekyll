@@ -68,7 +68,6 @@ We will begin moving more and more of our lives to the virtual world just as we 
 ## Evolution
 
 - if you are not growing, you are dying. 
-- I fear we may be dying
 - If you want something to become stronger - you must challenge it. 
 - Just as how pain and suffering build character 
 
@@ -86,10 +85,10 @@ A brief list of the writers, leaders, thinkers, entrepreneurs, investors I am fo
 - Naval Ravikant
 - Muhammad Yunus
 - Yuval Noah Harari
-- Reid Hoffman
+- Kara Swisher
 - Aubrey de Grey
 - Peter Diamandis
-- Tim Ferriss
+- Rana el Kaliouby
 - Ben Greenfield
 - Eric Weinstein
 - Daniel Schmachtenberger
