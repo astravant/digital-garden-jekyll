@@ -1,16 +1,7 @@
 ---
+title: Health and Mental Performance
 ---
-
-Move your body every day. Benefits include:
-
-- Improved sleep quality
-- Less risk of chronic disease
-- Increased productivity
-- Reduced anxiety
-
-The "every day" part is important, because [[consistency]] is key to most things worth doing.
-
-Week 1: Cognitive Performance 
+Cognitive Performance 
 
 Objective: Tactics and resources for personal routine to enhance performance
 
