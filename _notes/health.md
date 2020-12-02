@@ -79,11 +79,11 @@ Objective: Tactics and resources for personal routine to enhance performance
   - Clear long term vision 
   - Reverse engineer 
   - Annual, quarterly, weekly, daily goals 
-  - https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f
+  - [Good article on goal setting](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
 - Supplements 
-  - Lion’s Mane - mushroom extract, https://us.foursigmatic.com/
+  - Lion’s Mane - mushroom extract, https://us.foursigmatic.com/ Update: experimenting with Genius brand
   - Neem https://www.mapi.com/
-  - Lithium 4.6mg elemental lithium 2-4per/day https://www.amazon.com/NCI-Advanced-Research-Lithium-Orotate/dp/B000VHCU8M 
+  - [Lithium 4.6mg elemental lithium 2-4per/day](https://www.amazon.com/NCI-Advanced-Research-Lithium-Orotate/dp/B000VHCU8M) 
   - B12, Fiber vitamins 
   - Probiotics 
   - Modafinil, Adderall - cognitive enhancement 
