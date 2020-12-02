@@ -16,15 +16,15 @@ Objective: Tactics and resources for personal routine to enhance performance
 
 
 ## Self-Awareness 
-1.Each individual is different; learn what works for you  
-2)Journey begins with knowledge, treat life as an experiment 
+1. Each individual is different; learn what works for you  
+2) Journey begins with knowledge, treat life as an experiment 
 3)How to Build Self-Awareness
   - Hexaco Personality Test https://hexaco.org/hexaco-online 
   - Myers Briggs https://www.16personalities.com/free-personality-test
   - Dark Triad https://openpsychometrics.org/tests/SD3/
   - Sleep Chronotype, Dr. Michael Breus https://thepowerofwhenquiz.com/ 
   - Mastery Book: https://www.amazon.com/Mastery-Robert-Greene/
-##Routine 
+## Routine 
 - Wake up around the same time daily, optimize sleep chronotype 
 - Make the first 30minutes-1hr. of your day ‘me time’ 
   - This will prep your mind and body for productivity the rest of the day 
