@@ -12,7 +12,7 @@ In life and in business, it is absolutely critical to develop mental models and 
 - Beginning to understand how societies function, operate, and why humans do the things they do is very critical if you hope to have any success in life. 
 - In startups, we must build products and services which seamlessly integrate with human nature, not against it. 
 
-### Side note: ife is situational - more important than learning the mental models, it is critical to learn which mental models and principles to exercise in a given context. Life is rarely black and white, it’s important to learn how to navigate the gray area. Knowledge of the proper applied use cases of mental models is acquired with 1) experience 2) mentors.
+### Side note: Life is situational - more important than learning the mental models, it is critical to learn which mental models and principles to exercise in a given context. Life is rarely black and white, it’s important to learn how to navigate the gray area. Knowledge of the proper applied use cases of mental models is acquired with 1) experience 2) mentors.
 
 Parkinson’s Law: states that work expands to fill the time available for its completion. 
 
