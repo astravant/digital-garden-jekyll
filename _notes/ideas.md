@@ -22,6 +22,13 @@ We will begin moving more and more of our lives to the virtual world just as we 
 - All of science is based on information passing through our consciousness but science hasn’t the foggiest idea what consciousness is, and it can’t explain the linkage between subatomic states and observation by conscious observers. 
 - Science describes life as a random occurrence in a dead universe but has no real understanding of how life began or why the universe appears to be exquisitely designed for the emergence of life.
 
+# Future Thoughts
+- The future is going to be different than the present, but it will be rooted in the present. The future can be seen as a set of potential outcomes, each with a different probability of becoming base reality based on our actions as a society and individually. 
+- Some potential paths - an AI controlled human race or a distributed, decentralized future. 
+- Idea: you walk into a what is essentially a phone booth (portal) and your consciousness is transported to a bio-mechanical entity in your “living room” in Alaska or on Mars
+- The future of work will consist of creative thought and humans will work in conjunction with machines to execute strategies for delivering the fruits of an idea.
+- we need to get more people working on the sciences and building a world that works for more of humanity. We must free up the world to work on the conversion problems that exist. Working for others is working for yourself. 
+
 ## Random
 - Very important to recognize the motives driving the actions of individuals and society
 - Be willing to take a different path - reverse engineer your desires and motives to get at the root of what really interests you and what you believe is important to the future of humanity and invest time and energy every day towards building this as your form of creative expression. 
