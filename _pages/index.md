@@ -37,7 +37,7 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
 - [The Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf) by James Baldwin
 - [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
-# Books
+# [[Books]]
 
 - [How the Internet Happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078/ref=sr_1_1?crid=10T6751ZJB6H1&dchild=1&keywords=how+the+internet+happened&qid=1606881076&sprefix=how+the+inter%2Caps%2C206&sr=8-1) by Brian McCullough
 - [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=sr_1_1?crid=28IVIRI77PSAG&dchild=1&keywords=the+beginning+of+infinity&qid=1606881119&sprefix=the+begi%2Caps%2C224&sr=8-1) by David Deutsch
