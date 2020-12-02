@@ -67,7 +67,6 @@ A brief list of the writers, leaders, thinkers, entrepreneurs, investors I am fo
 - Yuval Noah Harari
 - Kara Swisher
 - Aubrey de Grey
-- Peter Diamandis
 - Rana el Kaliouby
 - Ben Greenfield
 - Eric Weinstein
