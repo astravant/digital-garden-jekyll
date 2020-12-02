@@ -109,6 +109,7 @@ Objective: Tactics and resources for personal routine to enhance performance
   - Phone, block websites, no social media 
   - Turn off notifications 
   - Sync Slack with Google Calendar - people can see when you’re in a meeting
+  
 ## Miscellaneous 
 - Read...A LOT 
 - Low # high IQ decisions
