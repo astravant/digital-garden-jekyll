@@ -2,6 +2,50 @@
 title: Daily Notes
 ---
 
+# November 2, 2020
+- [[Kanye West]]
+derivation: JRE epsiode # 1554
+- “We enjoy music that has multiple instruments, so when I talk it’s not a rant, it’s a symphony of ideas”
+- “God is using me and he has a calling in my life to make the world better for all people”
+- “Money is just a tool”
+- “The longest moments in our lives are our memories and our imagination”
+
+- Thoughts on healthcare
+- a focus on holistic and modern medicine 
+- we live in a capitalistic society, so the healthcare companies have an incentive for keeping people sick so they can make money off of patients. 
+- we need to focus on preventing illnesses in the first place 
+
+- “When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.”
+
+- Frameworks for Entrepreneurs
+- Instead of making a to-do list, ask what is the one highest impact thing I could do today?
+- Prioritize the rest of your tasks based on impact and urgency
+- What’s the most important thing you can be working on right now
+
+- Set clear measurable goals that are both ambitious and realistic
+- Then set your anti-goals, the things you don’t want to happen along the way
+- Run quick calculations on what it will take to succeed, then spring into action
+
+- Be impatient with action and patient with results
+
+- Always take action when you make a decision, get 1 hour of momentum
+	- For instance, talk to a customer or send a cold email 
+
+- Become a person that just does the work
+- amateurs focus on outcomes, professionals focus on the process and strategy
+- motivation is the result of process, not the cause. 
+- example; the most successful entrepreneurs are not focused on 'grinding' or 'hustling' they are just doing what they do - they are focused on the process
+
+- as a CEO, the ultimate goal is to build a strategic machine that successfully accomplishes the outcomes and objectives of the organization 
+	- recruiting 
+	- building culture 
+	- growth strategy 
+	- operations 
+	- customer, client, user conversations
+	- accounting 
+	- funding 
+	- development 
+
 # November 1, 2020
 - [[Elon Musk]]
   - goal is to extend human consciousness as far as possible into the future so we can understand more about consciousness
@@ -25,7 +69,7 @@ title: Daily Notes
 	  - corporations are run this way as well, hierarchies 
   - democracies and republics typically follow a period of [[cultural enlightenment]]
 	  - the people in the society are all educated and understand how the society works
-	  - this creates the ability to collectively sensmake. 
+	  - this creates the ability to collectively sensemake. 
 
 
 # October 23, 2020
