@@ -34,7 +34,7 @@ title: Daily Notes
 # November 26, 2020
 - This thing we call [[consiousness]] seems to me to be so fragile. In that, we can sit quietly and clear our minds for 30 minutes via meditation or ingest small amounts of a substance and our identity, worldview, and perceptions can be drastically altered. 
 - So much so, we expand our identity to become almost a different person - in the way we speak and observe the events around us for a period of time. 
-- Making the hypothesis,  most notably to my knowledge, by Buckmister Fuller - that at some point in the future we'll be able to transfer ourselves/consiousness to far away places. This seems on-base to me if consciouness is this fragile. Just a bunch of atoms. 
+- Making the hypothesis,  most notably to my knowledge, by [[Buckmister Fuller]] - that at some point in the future we'll be able to transfer ourselves/consiousness to far away places. This seems on-base to me if consciouness is this fragile. Just a bunch of atoms. 
 
 - An observation I have been pondering recently is how signigicant an impact the ideas, and theories one has at my current stage 18-25, reflects and predicts the time and energy investment of that person in the following years of their life. 
 - On the contrary, it is unfortunate many people do not continue to follow these things. 
