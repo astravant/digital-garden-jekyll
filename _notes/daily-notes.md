@@ -168,17 +168,17 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 8, 2020
 
-# Revolution 
+- Revolution 
 - The [[Cultural Revolution]] was launched in China in 1966
 	- Communist leader Mao Zedong
 - To encourage the personality cult that sprang up around [[Mao Zedong]] during the first phase of the [[Cultural Revolution]], Defense Minister Lin Biao saw that the now-famous "Little Red Book" of Mao's quotations was printed and distributed by the millions throughout China.
 	- important to control media, the narrative, and ideologies to accomplish goals 
 - The population was urged to rid itself of the “Four Olds”: Old customs, old culture, old habits, and old ideas.
 
-# Socialism 
-- Socialism promises equality, security, and prosperity - this is why it sounds good. 
+- Socialism 
+	- Socialism promises equality, security, and prosperity - this is why it sounds good. 
 	- we should have equality of opportunity, not of outcome 
-- Socialism does not work because it is not consistent with the principles of human nature - it is a system that ignores incentives 
+	- Socialism does not work because it is not consistent with the principles of human nature - it is a system that ignores incentives 
 
 - come up with more of my own ideas and theories
 	- alternatives to current political, economic, and social structures
