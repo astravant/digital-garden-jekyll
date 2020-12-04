@@ -8,7 +8,6 @@ title: Daily Notes
 
 # November 30, 2020
 - I am interested in social engineering, social entrepreneurship
-- how would you look at yourself if you were an investor? 
 
 - in the beginning, great technologies are complicated and attractive to a small group of people, typically the 'rebels' of society - or people interested in freedom of speech and freedom in general 
 	- think personal computers or the internet 
