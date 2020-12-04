@@ -29,7 +29,7 @@ title: Daily Notes
 - I think it is important to be paranoid - the lack of paranoia and foresight to consider 2nd and 3rd order consequences is what has led to the current climate in politics and economics. 
 - I am concerned about a small number of corporations owning all of the algorithms that will result in an even larger accumulation of capital by a small number of people, and the algorithms will have inherent biases and will control even more of our lives than today. 
 
-- the answer is to create a more distributed world, help more people accumulate capital, I do like the idea of everyone working for the common good but this is not inherent to human nature - this is why capitalism has worked to increase standard of living via technoloy and innovation. 
+- A possible answer is to create a more distributed world, help more people accumulate capital, I do like the idea of everyone working for the common good but this is not inherent to human nature - this is why capitalism has worked to increase standard of living via technoloy and innovation. 
 
 # November 26, 2020
 - This thing we call [[consiousness]] seems to me to be so fragile. In that, we can sit quietly and clear our minds for 30 minutes via meditation or ingest small amounts of a substance and our identity, worldview, and perceptions can be drastically altered. 
