@@ -38,14 +38,14 @@ title: Daily Notes
 
 - An observation I have been pondering recently is how signigicant an impact the ideas, and theories one has at my current stage 18-25, reflects and predicts the time and energy investment of that person in the following years of their life. 
 - On the contrary, it is unfortunate many people do not continue to follow these things. 
-- But, I think back to Elon's list of the 5 biggest areas he thinks will have the most impact on the future of humnaity and he has been dedicating his life to these ideas every since. 
+- But, I think back to Elon's list of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas every since. 
 	- he first postulated on these ideas when he was around 20, in college. 
 
 - What I mean, personally I am very interested in metaverse/virtual worlds, mind-uploading, gameb, startups, and technology - it is likely the following decades of my life will consist of these things - via working in startups/solving problems that correlate to these ideas.
 
 - Technology and startups feel like they're moving so fast, but any important companies or products take 10+ years to build. 
 	- all big things start small, all good things take time. 
-	- everything important takes a long time thinking, long term thinking 
+	- everything important takes long term thinking 
 
 - I like to frame ideas in questions sometimes
 - I like to look for solutions/ideas by asking questions
