@@ -47,25 +47,21 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
 
 # Garden Index
   - [[Books]]
-  - [[Buckminster Fuller]]
   - [[Creativity]]
+  - [[Daily Notes]]
   - [[Decision Making]]
   - [[GameB]]
   - [[Health]]
   - [[Ideas]]
   - [[Mental Models]]
-  - [[Philosophy]]
-  - [[Politics]]
-  - [[Productivity]]
   - [[Technology]]
-  - [[Life is a Paradox]]
   - [[Politics]]
   - [[Laws of the Universe]]
-  - [[Narrative on Work]]
   - [[The Butterfly Effect]]
   - [[Gig Economy]]
   - [[Future]]
-  - [[Esoteric Observation]]
+  - [[Philosophy]]
+  - [[Productivity]]
 
 
 <style>
