@@ -2,6 +2,44 @@
 title: Daily Notes
 ---
 
+# December 9, 2020
+- [[The 4-Hour Body]] Summary 
+- "The perfect method you follow is better than the perfect method you quit."
+- Mens sana in corpore sano. That’s Latin for “a healthy body holds a healthy mind.”
+
+- No white carbs, such as bread, white and brown rice, cereal, potatoes, pasta, tortillas and everything that’s fried.
+	- Eat the same few meals over and over again. Assemble them only from main proteins (beef, chicken, etc.), legumes (beans, lentils), and vegetables.
+	- Drink only water, tea and coffee without milk or sugar.
+	- No fruits.
+	- Have a cheat day once a week on which you can eat as much as you want of whatever you want.
+
+- One of management guru Peter Drucker’s most famous lines is “what gets measured gets managed.” 
+- [[Ice Therapy]]: Scientific research has found that the body burns more energy when subjected to cold temperatures.
+
+
+# December 8, 2020
+- We have the ability to be more intelligent than any other generation of humans that has come before us. 
+- simply because of the access to general knowledge and specialized knowledge at scale we have at our fingertips.
+- we can access the ideas, theories, and thoughts of the best minds living today at the click of a button.
+- we can access college courses, podcasts, youtube, all of this was not available even just a few years ago. 
+- Perhaps, if Dan Carlin was right and we are not smart enough to solve the problems we have created for ourselves...
+	- we can become smarter in the coming decades to come up with solutions to these problems. 
+
+- topics to research 
+	- cypherpunk
+	- smart contracts 
+	- blockchain
+
+# December 7, 2020
+- [Via Ben Greenfield blog](https://bengreenfieldfitness.com/article/brain-articles/what-is-qualia/)
+- Daniel Schmachtenberger describes how many “smart drugs” work by artificially increasing one chemical in the brain by overriding its natural function. Problem is, this can cause depletion or neglect of other things, causing imbalances and negative consequences like dependency or a post-smart drug “crash.” 
+- Recent research suggests that the notion of a single intelligence quotient vastly oversimplifies intelligence, which is in fact composed of various aspects of what is called “multiple intelligences,” such as verbal intelligence, problem-solving, spatial reasoning, etc.
+- This is all based on a theory proposed by Howard Gardner which states that intelligence is not unified, but rather multiple, consisting of a set of relatively independent intelligences including linguistic intelligence, mathematical intelligence, spatial intelligence, musical intelligence, kinesthetic intelligence, interpersonal intelligence, intrapersonal intelligence, naturalist intelligence, and even based on more recent research, the addition of spiritual intelligence and emotional intelligence.
+
+# December 6, 2020
+- On Hiring 
+	- "So the way to compete against the giants is not with money. Google will outbid you. They have oil derrick that spits out $30bn in search revenue every year. To win, you need to tell a story about cogs. At Google, you’re a cog. Whereas with me, you’re an instrumental piece of this great thing that we’ll build together. Articulate the vision. Don’t even try to pay well. Meet people’s cash flow needs. Pay them so they can cover their rent and go out every once in awhile. It’s not about cash. It’s about breaking through the wall of cynicism. It’s about making 1% of this new thing way more exciting than a couple hundred grand and a cubicle at Google."
+
 # December 4, 2020
 - A government that collects money from all its citizens and businesses each year has never built a system to distribute money to us when it’s needed most.
 > If the work you’re doing isn’t either leading to something being built or taking care of people directly, we’ve failed you, and we need to get you into a position, an occupation, a career where you can contribute to building. There are always outstanding people in even the most broken systems — we need to get all the talent we can on the biggest problems we have, and on building the answers to those problems.
