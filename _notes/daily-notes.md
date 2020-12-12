@@ -2,7 +2,7 @@
 title: Daily Notes
 ---
 
-# December , 2020
+# December 10, 2020
 
 Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
 - First let us postulate that the computer scientists succeed in developing intelligent machines that can do all things better than human beings can do them. In that case presumably all work will be done by vast, highly organized systems of machines and no human effort will be necessary. 
