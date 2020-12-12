@@ -4,7 +4,7 @@ title: Daily Notes
 
 # December , 2020
 
-Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
+Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
 - First let us postulate that the computer scientists succeed in developing intelligent machines that can do all things better than human beings can do them. In that case presumably all work will be done by vast, highly organized systems of machines and no human effort will be necessary. 
 - As society and the problems that face it become more and more complex and machines become more and more intelligent, people will let machines make more of their decisions for them, simply because machine-made decisions will bring better results than man-made ones.
 - Eventually a stage may be reached at which the decisions necessary to keep the system running will be so complex that human beings will be incapable of making them intelligently. At that stage the machines will be in effective control. People won't be able to just turn the machines off, because they will be so dependent on them that turning them off would amount to suicide.
