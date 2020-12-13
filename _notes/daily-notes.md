@@ -8,15 +8,12 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - First let us postulate that the computer scientists succeed in developing intelligent machines that can do all things better than human beings can do them. In that case presumably all work will be done by vast, highly organized systems of machines and no human effort will be necessary. 
 - As society and the problems that face it become more and more complex and machines become more and more intelligent, people will let machines make more of their decisions for them, simply because machine-made decisions will bring better results than man-made ones.
 - Eventually a stage may be reached at which the decisions necessary to keep the system running will be so complex that human beings will be incapable of making them intelligently. At that stage the machines will be in effective control. People won't be able to just turn the machines off, because they will be so dependent on them that turning them off would amount to suicide.
-- control over large systems of machines will be in the hands of a tiny elite—just as it is today, but with two differences. Due to improved techniques the elite will have greater control over the masses; and because human work will no longer be necessary the masses will be superfluous, a useless burden on the system. If the elite is ruthless they may simply decide to exterminate the mass of humanity. If they are humane they may use propaganda or other psychological or biological techniques to reduce the birth rate until the mass of humanity becomes extinct, leaving the world to the elite.
-- Of course, life will be so purposeless that people will have to be biologically or psychologically engineered either to remove their need for the power process or make them "sublimate" their drive for power into some harmless hobby.
 - Moravec's view is that the robots will eventually succeed us—that humans clearly face extinction.
-- Roddenberry's vision of the centuries to come was one with strong moral values, embodied in codes like the Prime Directive: to not interfere in the development of less technologically advanced civilizations.
+- [Roddenberry's](https://en.wikipedia.org/wiki/Gene_Roddenberry) vision of the centuries to come was one with strong moral values, embodied in codes like the [Prime Directive](https://www.youtube.com/watch?v=3kMiL1LBDvo): to not interfere in the development of less technologically advanced civilizations.
 - In The Agony and the Ecstasy, Irving Stone's biographical novel of Michelangelo, Stone described vividly how Michelangelo released the statues from the stone, "breaking the marble spell," carving from the images in his mind. 4 In my most ecstatic moments, the software in the computer emerged in the same way. Once I had imagined it in my mind I felt that it was already there in the machine, waiting to be released. Staying up all night seemed a small price to pay to free it—to give the ideas concrete form.
 - Failing to understand the consequences of our inventions while we are in the rapture of discovery and innovation seems to be a common fault of scientists and technologists.
-- But now, with the prospect of human-level computing power in about 30 years, a new idea suggests itself: that I may be working to create tools which will enable the construction of the technology that may replace our species.
 - The dream of robotics is, first, that intelligent machines can do our work for us, allowing us lives of leisure, restoring us to Eden.
-- in his history of such ideas, Darwin Among the Machines, George Dyson warns: "In the game of life and evolution there are three players at the table: human beings, nature, and machines. I am firmly on the side of nature. But nature, I suspect, is on the side of the machines." As we have seen, Moravec agrees, believing we may well not survive the encounter with the superior robot species.
+- In his history of such ideas, [Darwin Among the Machines](https://www.amazon.com/Darwin-among-Machines-Evolution-Intelligence/dp/0465031625), George Dyson warns: "In the game of life and evolution there are three players at the table: human beings, nature, and machines. I am firmly on the side of nature. But nature, I suspect, is on the side of the machines." As we have seen, Moravec agrees, believing we may well not survive the encounter with the superior robot species.
 
 
 
@@ -41,7 +38,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - we can access the ideas, theories, and thoughts of the best minds living today at the click of a button.
 - we can access college courses, podcasts, youtube, all of this was not available even just a few years ago. 
 - Perhaps, if Dan Carlin was right and we are not smart enough to solve the problems we have created for ourselves...
-	- we can become smarter in the coming decades to come up with solutions to these problems. 
+	- we can become smarter in the coming decades to design solutions to our most complex problems. 
 
 - topics to research 
 	- cypherpunk
@@ -63,9 +60,8 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 > If the work you’re doing isn’t either leading to something being built or taking care of people directly, we’ve failed you, and we need to get you into a position, an occupation, a career where you can contribute to building. There are always outstanding people in even the most broken systems — we need to get all the talent we can on the biggest problems we have, and on building the answers to those problems.
 
 # November 30, 2020
-- I am interested in social engineering, social entrepreneurship
 
-- in the beginning, great technologies are complicated and attractive to a small group of people, typically the 'rebels' of society - or people interested in freedom of speech and freedom in general 
+- In the beginning, great technologies are complicated and attractive to a small group of people, typically the 'rebels' of society - or people interested in freedom of speech pr freedom in general 
 	- think personal computers or the internet 
 	- what is this now? blockchain, crypto, ideas of decentralization 
 	- this started in the 1990s
@@ -94,10 +90,10 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 - An observation I have been pondering recently is how signigicant an impact the ideas, and theories one has at my current stage 18-25, reflects and predicts the time and energy investment of that person in the following years of their life. 
 - On the contrary, it is unfortunate many people do not continue to follow these things. 
-- But, I think back to Elon's list of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas every since. 
+- But, I think back to [Elon's list](https://www.businessinsider.com.au/elon-musk-on-startalk-with-neil-degrasse-tyson-2015-4) of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas every since. 
 	- he first postulated on these ideas when he was around 20, in college. 
 
-- What I mean, personally I am very interested in metaverse/virtual worlds, mind-uploading, gameb, startups, and technology - it is likely the following decades of my life will consist of these things - via working in startups/solving problems that correlate to these ideas.
+- Personally, I am very interested in the future of work/education, biotechnology, blockchain/decentralization, metaverse/virtual worlds, gameb, startups, and technology - it is likely the following decades of my life will consist of these things - via working in startups/solving problems that correlate to these ideas.
 
 - Technology and startups feel like they're moving so fast, but any important companies or products take 10+ years to build. 
 	- all big things start small, all good things take time. 
@@ -107,8 +103,8 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - I like to look for solutions/ideas by asking questions
 - Question perceived truths and paradigms
 	- if biz owners could use 1 algorithm to run their entire business, would they? 
-	- Is the current workplace/employment model going to last 5 more years? What does the new model look like? Why will it or won't it last? 
-	- What is the best way to solve these quesitons? Technological innovation 
+	- Is the current workplace/employment model going to last 5 more years? What does the new model look like? Why will it or won't it last? (what emerging technologies and trends would shape a shift?)
+	- What is the best way to solve these questions? Technological innovation 
 	- What does the workforce of tomorrow look like? 
 
 # November 25, 2020
@@ -131,11 +127,10 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 	- rising inflation concerns due to gov't stimulus 
 	- growing mistrust of authority 
 	- PayPal, on October 21st, began facilitating the buying and selling of crypto 
-	- bitcoin is up 40% since 
 
 - surround yourself with smarter, more mature minds. The smartest people you can find. 
 - Surround yourself with people who challenge you and teach you. 
-- entrepreneurs must be willing to be misunderstood for long periods of time. 
+- Entrepreneurs must be willing to be misunderstood for long periods of time. 
 - As a company grows, everything needs to scale, including the size of your failed experiments. 
 - Breakthrough in aging 
 	- Tel Aviv University found a form of oxygen therapy - hyperbaric oxygen chamber can be used to reverse two key indicators of biologicla aging: telomere length and senescent cells 
@@ -155,16 +150,15 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 19, 2020
 - Be in a hurry to learn, not in a hurry to get validation. — Evan Williams
-- All we have in this life are time and energy, it is up to us to choose how we would like to invest each of these. 
+- All we have in this life is time and energy, it is up to us to choose how we would like to invest each of these. 
 
 # November 16, 2020
 - Everybody has a worldview, a unique way of looking at the world. We see opportunities based on this worldview. Where you see nothing, someone else may see an amazing opportunity. 
-- I like to think of it as a light specturm - you see you vertical part of the spectrum - and you will live your life based on that perspective, where someone else sees a different world because they have a different perspective. 
-- To me, it's exciting to think about the entire spectrum - all of the opportunities, businesses, ideas, etc that exist - and how you only see a fraction of them with your current perspective. 
+- I like to think of it as a light specturm - you see a vertical slice of the spectrum - and you will live your life based on that perspective, where someone else sees a different world because they have a different slice. 
+- To me, it's exciting to think about the entire spectrum - all of the opportunities, trends, ideas, etc that exist - and how you only see a fraction of them with your current perspective. 
 - and realize that you can begin to explore, be curious, and expand that perspective to increase the number of opportunities you see. 
 - The world is full of opportunities. 
 - You can increase your perspective to optimize.
-- I should make a blog post on this - look into building a digital garden
 
 # November 11, 2020
 - Thoughts at the gym
