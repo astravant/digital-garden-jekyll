@@ -2,6 +2,75 @@
 title: Daily Notes
 ---
 
+# December 16, 2020
+
+- In its bid to conquer every aspect of shopping, including where we buy our clothes, Amazon today launched a new program called “Made for You” that lets its US customers order a t-shirt made to their measurements.
+- Users provide their height, weight, and body style, and take two photos of themselves using the Amazon app.
+- The resulting shirt costs $25
+
+
+# December 15, 2020
+
+- equity is more expensive than debt 
+	- most governments allow interest on debt to be written off on taxes
+
+- tech companies are trading at 24x revenue 
+- Roblox and affirm delayed IPOs, they'll likely attempt to raise a lot more money 
+
+- New technologies 
+	- quantum computing, battery chemistry/tech, neural interfaces, autonomy
+	- drones, internet of things, wearable, robotics, esports, 3D printing, VR
+	- machine learning, crypto, 5g, cloud
+	- AR glasses 
+	- [More reading](https://www.ben-evans.com/benedictevans/2020/12/13/what-comes-after-smartphones?utm_source=angellist)
+- There’s an old saying that the first fifty years of the car industry were about creating car companies and working out what cars should look like, and the second fifty years were about what happened once everyone had a car - they were about McDonalds and Walmart, suburbs and the remaking of the world around the car, for good and of course bad. The innovation in cars became everything around the car. One could suggest the same today about smartphones - now the innovation comes from everything else that happens around them. 
+
+- FDA approves genetically engineered pigs
+- The pigs, developed by medical company Revivicor, could be used in the production of drugs, to provide organs and tissues for transplants, and to produce meat that’s safe to eat for people with meat allergies.
+- The pigs are called GalSafe pigs 
+- they lack a molecule called alpha-gal sugar, which can trigger allergic reactions
+
+# December 14, 2020
+- Notes on blockchain
+	- As tokenised virtual assets increase in value, they can be traded, insured, and securitised. In the right circumstances, users might also be able to obtain loans from their NFTs and to lease their NFTs if they don’t use them often. And if NFTs and other virtual assets are in high demand, users would want to buy and sell them on trusted platforms for other virtual assets, cryptocurrencies, or real money. 
+	- By the same logic, the NFT market has the potential to skyrocket if a small number of blockchain-based apps can reach mainstream status and have a potential knock-on effect for other NFT assets. 
+	- By creating an open developer platform, in combination with a free market-based economic system and a high number of users, Decentraland can provide substantial incomes to investors and potentially entrepreneurs within the platform, first through real estate transactions, and subsequently through virtual goods. 
+	
+- [opensea](https://opensea.io/) = a marketplace for virtual goods, they do millions in transaction volume 
+
+
+# December 13, 2020
+
+- Blockchain is Silicon Valley raising the pirate flag again and doing something interesting and slightly dangerous and subversive.
+	- via Chris Dixon
+
+
+# December 12, 2020
+[Notes via Barack Obama Medium article](https://barackobama.medium.com/how-i-approach-the-toughest-decisions-dc1b165cdf2d)
+- the world rarely consists of black and white, devleop mental models to think about the world and make decisons. 
+- develop a process for making decision
+	- listen to close advisors and your team
+	- ask for the feedback of people smarter and more knowledgable than you are
+	- build your dark net. Reid Hoffman reference 
+	- develop a group of advisors who think differently 
+	- it is not diversity when everyone looks different but thinks the same. 
+	- have at least one contrarian 
+- take time to recharge and decompress 
+
+Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
+- And even if we scatter to the stars, isn't it likely that we may take our problems with us or find, later, that they have followed us? The fate of our species on Earth and our fate in the galaxy seem inextricably linked.
+- Aristotle opened his Metaphysics with the simple statement: "All men by nature desire to know."
+- If open access to and unlimited development of knowledge henceforth puts us all in clear danger of extinction, then common sense demands that we reexamine even these basic, long-held beliefs.
+- It is this further danger that we now fully face—the consequences of our truth-seeking. The truth that science seeks can certainly be considered a dangerous substitute for God if it is likely to lead to our extinction.
+- Thoreau also said that we will be "rich in proportion to the number of things which we can afford to let alone." We each seek to be happy, but it would seem worthwhile to question whether we need to take such a high risk of total destruction to gain yet more knowledge and yet more things; common sense says that there is a limit to our material needs—and that certain knowledge is too dangerous and is best forgone.
+
+- What is terraforming = process of modifying the atmosphere, temperature, ecology, etc of a planet or moon to be similar to the earth, to make it inhabitable 
+
+- think about knowledge and memory as a semantic tree or the internet
+	- you have a web of knowledge, links, an intranet. 
+	- continue to link pages together and you will better be able to recall information 
+
+
 # December 10, 2020
 
 Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
