@@ -26,9 +26,9 @@ title: Daily Notes
 - There’s an old saying that the first fifty years of the car industry were about creating car companies and working out what cars should look like, and the second fifty years were about what happened once everyone had a car - they were about McDonalds and Walmart, suburbs and the remaking of the world around the car, for good and of course bad. The innovation in cars became everything around the car. One could suggest the same today about smartphones - now the innovation comes from everything else that happens around them. 
 
 - FDA approves genetically engineered pigs
-- The pigs, developed by medical company Revivicor, could be used in the production of drugs, to provide organs and tissues for transplants, and to produce meat that’s safe to eat for people with meat allergies.
-- The pigs are called GalSafe pigs 
-- they lack a molecule called alpha-gal sugar, which can trigger allergic reactions
+	- The pigs, developed by medical company Revivicor, could be used in the production of drugs, to provide organs and tissues for transplants, and to produce meat that’s safe to eat for people with meat allergies.
+	- The pigs are called GalSafe pigs 
+	- they lack a molecule called alpha-gal sugar, which can trigger allergic reactions
 
 # December 14, 2020
 - Notes on blockchain
