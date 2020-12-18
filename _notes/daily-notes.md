@@ -188,6 +188,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 - Nixon ended the gold standard in 1971 - our dollar is not backed by anything.
 	- These monetary dislocations have impacted several areas of our society. Consumer health relies on heavily inflated asset prices, not the health of the real economy. With price stability dissipating, rampant inflation has lifted consumer prices, lowering our standard of living. As we lose 2% of our purchasing power leaving our money in the bank, we must throw our savings into an overvalued stock market fueled by speculation and greed — not a booming economy that we desperately need. Since we have to work 300% harder to buy the same stock, we’re always busy, tired, and broke. We take shortcuts, bolstering the disastrous American diet. Our lust for fast food has created a simultaneous mental health and obesity crisis.
+- [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
 	- The rise of blockchain technology has revolutionized how we think about money in the 21st-century. It’s the first time in history where money can be transferred peer to peer without passing through a central authority, the first decentralized network to enable the financially savvy, from hardcore Cypherpunks to GenZ libertarians, to break free from the tyrannical forces of the modern financial system.
 
 # November 23, 2020
