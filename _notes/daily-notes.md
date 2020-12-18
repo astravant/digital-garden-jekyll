@@ -87,7 +87,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 
 # December 9, 2020
-- [[The 4-Hour Body]] Summary 
+- [The 4-Hour Body](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0307704610) Summary 
 - "The perfect method you follow is better than the perfect method you quit."
 - Mens sana in corpore sano. That’s Latin for “a healthy body holds a healthy mind.”
 
