@@ -2,6 +2,39 @@
 title: Daily Notes
 ---
 
+
+# December 16, 2020
+
+
+
+# December 16, 2020
+
+
+# December 16, 2020
+
+# December 18, 2020
+
+
+
+# December 17, 2020
+
+- Amazon's Satellite Internet Service Starts to Take Shape With Antenna Prototype
+	- Amazon gave an update on its own system: Project Kuiper. The e-commerce company is still a ways behind SpaceX’s own Starlink program, which is already serving beta customers in the northern US. However, Project Kuiper could make things more competitive.
+
+## Why are people still starving in an age of abundance?
+- Last year, according to the UN, 688 million people went hungry on a regular basis, up from 628.9 million in 2014. 
+- In his 2019 book Food or War, the Australian journalist and author Julian Cribb describes the physical process of starvation in excruciating detail.
+- The body, he explains, devours itself in the hunt for sustenance, depleting energy levels and producing side effects like anemia and fluid build-up. 
+- "In short, starvation is one of the most agonizing ways to die, both physically and mentally."
+
+## Europe and Big Tech
+	- 2 proposed bills are meant to regulate tech
+	- The Digital Services Act would require tech players that reach 10% of the EU’s population to “actively look for and mitigate risks” available on their platform.
+	- The Digital Markets Act would ban behavior by “gatekeeper” tech companies (such as forced bundling of services) and create obligations to smaller competitors (such as price transparency)
+	- Violator's can be hit with fines of 6% to 10% of annual worldwide revenue
+- Europe's Influence
+	- Countries in the European Union have a combined population of ~450m people and a GDP of ~$20T, right up there with China and the US.
+
 # December 16, 2020
 
 - In its bid to conquer every aspect of shopping, including where we buy our clothes, Amazon today launched a new program called “Made for You” that lets its US customers order a t-shirt made to their measurements.
@@ -15,7 +48,7 @@ title: Daily Notes
 	- most governments allow interest on debt to be written off on taxes
 
 - tech companies are trading at 24x revenue 
-- Roblox and affirm delayed IPOs, they'll likely attempt to raise a lot more money 
+- Roblox and affirm delayed IPOs, they'll likely attempt to raise a lot more money.
 
 - New technologies 
 	- quantum computing, battery chemistry/tech, neural interfaces, autonomy
