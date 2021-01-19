@@ -3,18 +3,6 @@ title: Daily Notes
 ---
 
 
-# December 16, 2020
-
-
-
-# December 16, 2020
-
-
-# December 16, 2020
-
-# December 18, 2020
-
-
 
 # December 17, 2020
 
@@ -492,7 +480,11 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
   - I do not intend to build a personal brand at the moment. 
   - However, I do believe it to be critical for certain discussions in society to take place.
   - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I thinnk urgently need to be spread. 
+  
 
+# August 6, 2020
+
+  
 # August 5, 2020
 
 <img src="/assets/20200804.5DS_1721.8688 x 4887.jpg"/>
@@ -509,116 +501,98 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 
 
+# September 26, 2018
 
-# June 26, 2020
+> I wasn't interested in making a lot of money but I was interested in making a lot of living. Dale Carnegie
+- Everyday is a new life to a wise man.
+- Don't expect anything from anyone.
+- Focus on actionable goals. What can you do today? 
+- Be contrarian. Do what others aren't doing. 
 
+- There should be fires - be worried if things are going perfect. 
+- God gives the toughest battles to the strongest of his people.
 
+# September 18, 2018
 
+- People don't value what they don't fight for.
+1. Love is everything 
+2. The secret to living is giving (to give you have to keep growing)
+3.  When your suffering you're obsessing about yourself, how you have less or lost love or a material thing. All suffering is about self, so shift your view and start appreciating things outside yourself. 
+> Some people are praying for the things you take for granted. 
 
+- Manage expectations 
+- Do things right - and if you make a mistake learn from it. Experience comes from bad decisions. 
+- Find a need and focus on it - solve peoples problems. 
+- Travel often
 
 
+# September 15, 2018
 
+- Follow what excites you. 
+- Everyone works when they're motivated, it takes a true champion to work when they're not motivated. 
+- Act like the person you want to become, the best version of yourself already exists inside of you, go on a journey to bring that person to life. The exact person you want to become and the life you want to live already exists, just put yourself on that level, grow to a higher vibration. 
+- "Those who most need to do something are the least likely to do it. Those who are overweight are the least likely to exercise and eat healthily. Those who are poor are the least likely to learn about their finances and growing income."
+	- is this paradigm accurate? 
+	- if it is true, why? 
+- Progress = Happiness 
+- Life is about growth and giving. 
+	
 
-# June 26, 2020
+# September 11, 2018
 
+## Thoughts on Life
 
+- Core components of making a dream come true: having a clear vision, making actionable goals, leveraging your connections, and getting out of your comfort zone to make that dream come true. 
+- Take MASSIVE action.
+- Risks aren't that scary once you take them. 
+> "I am an old man and have known a great many troubles, but most of them never happened."- Mark Twain
+- We as humans fear the unknown and the "not yet." Live simply and be happy in the moment.
+- What we most fear doing is what we most need to do. Your success in life is determined by the number of uncomfortable situations your willing to put yourself into. Do one thing every day that you fear. 
+- 99% of people in the world are convinced that they are incapable of achieving great things so they aim for mediocre. The level of competition is thus fiercest for realistic goals. It is easier to raise $1M than $100K, it is easier to pick up the one 10 in a bar than the five 8s. If you're insecure, the rest of the world is too.
 
-# June 26, 2020
+# September 4, 2018
 
+- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. So yeah I’ve got these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day I just love the process.
+- My life is dedicated to teaching people how to create freedom and happiness and stability in their lives. Escape the status quo. Say fuck you to the system. 
 
 
+# September 1, 2018
 
-# June 26, 2020
+## Thoughts 
 
+- Every success book talks about the same things. It’s a list of 15-20 principles and habits of focus, work ethic, associating yourself with the right people.
+- Success and successful people go in a cycle. Some become successful and share “secrets” and then a small majority of the next generation becomes successful and then teaches the same thing. It’s a cycle. Over and over again the same things happen. Especially if you grow up in a small town rural environment and there’s isn’t a lot of money, chances are you are going to be the same. 
+- How can we change that? Create a way for more people to become successful. A tool that people can utilize. 
+- Few will act for the many, but many will act for the one. (Find one person or your family that you’re doing it for) 
 
 
+# March 25, 2018
 
-# June 26, 2020
+## Random Thoughts
 
+- Qualify leads first - see if they are in the market for what you're selling. 
+- Your self worth doesn't come from what you earn, it comes from what you create. Create something - don't just own something. 
+- Always be who you are. Never give up your identity to fit into society. 
+- Stay crazy - it's the crazy ones who change the world. 
+- Intellectual curiosity - never stop learning. 
+- Find happiness inside you. Be at peace with yourself. 
+- Learn to navigate the gray. Life is full of black and white, new and different situations. It's ok to not know the answers, make the decision you think is best and feels right to you. This means you are growing.
+- Stay close to anything that makes you glad you are alive. 
+- If your motivations can't get your ass to work, let your worst nightmares motivate you. 
 
+# March 22, 2018
 
+## Advice and Habits 
 
-# June 26, 2020
-
-
-# June 26, 2020
-
-
-
-# June 26, 2020
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-# June 26, 2020
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-# June 26, 2020
-
-
-
-
-
-# August 12, 2019
-
-#
+- Do what others don't - be contrarian, if you want a life other people don't have you must do things other people don't do. 
+- FOCUS - make actionable goals and work on them everyday - don't get involved in too many projects. Focus + master one and then diversify. 
+- Relationships - leverage connections and meet people, surround yourself with people who support you and are doing the things you want to do. 
+- Get out of your comfort zone - stay weird 
+- Follow what excites you, be willing to step out of your comfort zone and share those experiences with others. 
+- Don't focus on the past and don't give a fuck about what anyone thinks of you. 
+- Read books, get a mentor. 
+- Love 'fires': if things are going smoothly something is usually wrong. Learn from problems and challenges and thrive with them. 
+- Everything happens for you, not to you. 
 
 
 
