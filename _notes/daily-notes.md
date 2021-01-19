@@ -3,9 +3,9 @@ title: Daily Notes
 ---
 
 
-
 # December 17, 2020
 
+## Project Kuiper
 - Amazon's Satellite Internet Service Starts to Take Shape With Antenna Prototype
 	- Amazon gave an update on its own system: Project Kuiper. The e-commerce company is still a ways behind SpaceX’s own Starlink program, which is already serving beta customers in the northern US. However, Project Kuiper could make things more competitive.
 
@@ -25,10 +25,10 @@ title: Daily Notes
 
 # December 16, 2020
 
+## Amazon 'Made for You'
 - In its bid to conquer every aspect of shopping, including where we buy our clothes, Amazon today launched a new program called “Made for You” that lets its US customers order a t-shirt made to their measurements.
 - Users provide their height, weight, and body style, and take two photos of themselves using the Amazon app.
 - The resulting shirt costs $25
-
 
 # December 15, 2020
 
@@ -38,13 +38,13 @@ title: Daily Notes
 - tech companies are trading at 24x revenue 
 - Roblox and affirm delayed IPOs, they'll likely attempt to raise a lot more money.
 
-- New technologies 
-	- quantum computing, battery chemistry/tech, neural interfaces, autonomy
-	- drones, internet of things, wearable, robotics, esports, 3D printing, VR
-	- machine learning, crypto, 5g, cloud
-	- AR glasses 
-	- [More reading](https://www.ben-evans.com/benedictevans/2020/12/13/what-comes-after-smartphones?utm_source=angellist)
-- There’s an old saying that the first fifty years of the car industry were about creating car companies and working out what cars should look like, and the second fifty years were about what happened once everyone had a car - they were about McDonalds and Walmart, suburbs and the remaking of the world around the car, for good and of course bad. The innovation in cars became everything around the car. One could suggest the same today about smartphones - now the innovation comes from everything else that happens around them. 
+## New technologies 
+- quantum computing, battery chemistry/tech, neural interfaces, autonomy
+- drones, internet of things, wearable, robotics, esports, 3D printing, VR
+- machine learning, crypto, 5g, cloud
+- AR glasses 
+> There’s an old saying that the first fifty years of the car industry were about creating car companies and working out what cars should look like, and the second fifty years were about what happened once everyone had a car - they were about McDonalds and Walmart, suburbs and the remaking of the world around the car, for good and of course bad. The innovation in cars became everything around the car. One could suggest the same today about smartphones - now the innovation comes from everything else that happens around them.
+- [More reading](https://www.ben-evans.com/benedictevans/2020/12/13/what-comes-after-smartphones?utm_source=angellist)
 
 - FDA approves genetically engineered pigs
 	- The pigs, developed by medical company Revivicor, could be used in the production of drugs, to provide organs and tissues for transplants, and to produce meat that’s safe to eat for people with meat allergies.
@@ -52,18 +52,17 @@ title: Daily Notes
 	- they lack a molecule called alpha-gal sugar, which can trigger allergic reactions
 
 # December 14, 2020
-- Notes on blockchain
-	- As tokenised virtual assets increase in value, they can be traded, insured, and securitised. In the right circumstances, users might also be able to obtain loans from their NFTs and to lease their NFTs if they don’t use them often. And if NFTs and other virtual assets are in high demand, users would want to buy and sell them on trusted platforms for other virtual assets, cryptocurrencies, or real money. 
-	- By the same logic, the NFT market has the potential to skyrocket if a small number of blockchain-based apps can reach mainstream status and have a potential knock-on effect for other NFT assets. 
-	- By creating an open developer platform, in combination with a free market-based economic system and a high number of users, Decentraland can provide substantial incomes to investors and potentially entrepreneurs within the platform, first through real estate transactions, and subsequently through virtual goods. 
+## Notes on blockchain
+- As tokenised virtual assets increase in value, they can be traded, insured, and securitised. In the right circumstances, users might also be able to obtain loans from their NFTs and to lease their NFTs if they don’t use them often. And if NFTs and other virtual assets are in high demand, users would want to buy and sell them on trusted platforms for other virtual assets, cryptocurrencies, or real money. 
+- By the same logic, the NFT market has the potential to skyrocket if a small number of blockchain-based apps can reach mainstream status and have a potential knock-on effect for other NFT assets. 
+- By creating an open developer platform, in combination with a free market-based economic system and a high number of users, Decentraland can provide substantial incomes to investors and potentially entrepreneurs within the platform, first through real estate transactions, and subsequently through virtual goods. 
 	
 - [opensea](https://opensea.io/) = a marketplace for virtual goods, they do millions in transaction volume 
 
 
 # December 13, 2020
 
-- Blockchain is Silicon Valley raising the pirate flag again and doing something interesting and slightly dangerous and subversive.
-	- via Chris Dixon
+> Blockchain is Silicon Valley raising the pirate flag again and doing something interesting and slightly dangerous and subversive. - Chris Dixon
 
 
 # December 12, 2020
@@ -87,6 +86,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 - What is terraforming = process of modifying the atmosphere, temperature, ecology, etc of a planet or moon to be similar to the earth, to make it inhabitable 
 
+## Knowledge
 - think about knowledge and memory as a semantic tree or the internet
 	- you have a web of knowledge, links, an intranet. 
 	- continue to link pages together and you will better be able to recall information 
@@ -94,7 +94,8 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # December 10, 2020
 
-Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
+## Notes & Quotes 
+- via [Why the Future Doesn't Need Us](https://www.wired.com/2000/04/joy-2/)
 - First let us postulate that the computer scientists succeed in developing intelligent machines that can do all things better than human beings can do them. In that case presumably all work will be done by vast, highly organized systems of machines and no human effort will be necessary. 
 - As society and the problems that face it become more and more complex and machines become more and more intelligent, people will let machines make more of their decisions for them, simply because machine-made decisions will bring better results than man-made ones.
 - Eventually a stage may be reached at which the decisions necessary to keep the system running will be so complex that human beings will be incapable of making them intelligently. At that stage the machines will be in effective control. People won't be able to just turn the machines off, because they will be so dependent on them that turning them off would amount to suicide.
@@ -123,17 +124,19 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 
 # December 8, 2020
+## The Smartest Generation
 - We have the ability to be more intelligent than any other generation of humans that has come before us. 
-- simply because of the access to general knowledge and specialized knowledge at scale we have at our fingertips.
-- we can access the ideas, theories, and thoughts of the best minds living today at the click of a button.
-- we can access college courses, podcasts, youtube, all of this was not available even just a few years ago. 
-- Perhaps, if Dan Carlin was right and we are not smart enough to solve the problems we have created for ourselves...
+	- simply because of the access to general knowledge and specialized knowledge at scale we have at our fingertips.
+	- we can access the ideas, theories, and thoughts of the best minds living today at the click of a button.
+	- we can access college courses, podcasts, youtube, all of this was not available even just a few years ago. 
+	- Perhaps, if Dan Carlin was right and we are not smart enough to solve the problems we have created for ourselves...
 	- we can become smarter in the coming decades to design solutions to our most complex problems. 
 
-- topics to research 
-	- cypherpunk
-	- smart contracts 
-	- blockchain
+## Topics to research 
+- cryptography 
+- cypherpunk
+- smart contracts 
+- blockchain
 
 # December 7, 2020
 - [Via Ben Greenfield blog](https://bengreenfieldfitness.com/article/brain-articles/what-is-qualia/)
@@ -142,8 +145,8 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - This is all based on a theory proposed by Howard Gardner which states that intelligence is not unified, but rather multiple, consisting of a set of relatively independent intelligences including linguistic intelligence, mathematical intelligence, spatial intelligence, musical intelligence, kinesthetic intelligence, interpersonal intelligence, intrapersonal intelligence, naturalist intelligence, and even based on more recent research, the addition of spiritual intelligence and emotional intelligence.
 
 # December 6, 2020
-- On Hiring 
-	- "So the way to compete against the giants is not with money. Google will outbid you. They have oil derrick that spits out $30bn in search revenue every year. To win, you need to tell a story about cogs. At Google, you’re a cog. Whereas with me, you’re an instrumental piece of this great thing that we’ll build together. Articulate the vision. Don’t even try to pay well. Meet people’s cash flow needs. Pay them so they can cover their rent and go out every once in awhile. It’s not about cash. It’s about breaking through the wall of cynicism. It’s about making 1% of this new thing way more exciting than a couple hundred grand and a cubicle at Google."
+## On Hiring 
+- "So the way to compete against the giants is not with money. Google will outbid you. They have oil derrick that spits out $30bn in search revenue every year. To win, you need to tell a story about cogs. At Google, you’re a cog. Whereas with me, you’re an instrumental piece of this great thing that we’ll build together. Articulate the vision. Don’t even try to pay well. Meet people’s cash flow needs. Pay them so they can cover their rent and go out every once in awhile. It’s not about cash. It’s about breaking through the wall of cynicism. It’s about making 1% of this new thing way more exciting than a couple hundred grand and a cubicle at Google."
 
 # December 4, 2020
 - A government that collects money from all its citizens and businesses each year has never built a system to distribute money to us when it’s needed most.
@@ -156,7 +159,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 	- what is this now? blockchain, crypto, ideas of decentralization 
 	- this started in the 1990s
 
-- money is always being recycled 
+## Currency is always being recycled 
 - think corporations, they invest and spend money, consumers take the money and spend it and it goes right back to the same corporations 
 - via investments, employees, etc. 
 
@@ -174,7 +177,8 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - A possible answer is to create a more distributed world, help more people accumulate capital, I do like the idea of everyone working for the common good but this is not inherent to human nature - this is why capitalism has worked to increase standard of living via technoloy and innovation. 
 
 # November 26, 2020
-- This thing we call [[consiousness]] seems to me to be so fragile. In that, we can sit quietly and clear our minds for 30 minutes via meditation or ingest small amounts of a substance and our identity, worldview, and perceptions can be drastically altered. 
+## Consciousness
+- This thing we call [[consciousness]] seems to me to be so fragile. In that, we can sit quietly and clear our minds for 30 minutes via meditation or ingest small amounts of a substance and our identity, worldview, and perceptions can be drastically altered. 
 - So much so, we expand our identity to become almost a different person - in the way we speak and observe the events around us for a period of time. 
 - Making the hypothesis,  most notably to my knowledge, by [[Buckmister Fuller]] - that at some point in the future we'll be able to transfer ourselves/consiousness to far away places. This seems on-base to me if consciouness is this fragile. Just a bunch of atoms. 
 
@@ -198,38 +202,41 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 	- What does the workforce of tomorrow look like? 
 
 # November 25, 2020
-- The video game Roblox is eye-ing an $8B+ IPO	
-	- Kids under the age of 13, who make up 54% of the game’s 36m daily active users.
-	- Roblox empowers kids to build their own games and learn to code using the in-house visual design tool.
-	- This year, Roblox will pay out $250m to its (largely preteen) developers, up from $110m in 2019.
-	- Bookings were up 200% YoY, to ~$497m (revenue is recognized over a 23-month period)
-	- Daily active users were up 97%, to ~36m
-	- Hours of usage were up 134%, to 8.7B
-	- A recent Lil Nas X in-game concert drew a virtual crowd of 33m, suggesting the game is on the (Old Town) road there.
 
-- Nixon ended the gold standard in 1971 - our dollar is not backed by anything.
-	- These monetary dislocations have impacted several areas of our society. Consumer health relies on heavily inflated asset prices, not the health of the real economy. With price stability dissipating, rampant inflation has lifted consumer prices, lowering our standard of living. As we lose 2% of our purchasing power leaving our money in the bank, we must throw our savings into an overvalued stock market fueled by speculation and greed — not a booming economy that we desperately need. Since we have to work 300% harder to buy the same stock, we’re always busy, tired, and broke. We take shortcuts, bolstering the disastrous American diet. Our lust for fast food has created a simultaneous mental health and obesity crisis.
+## Roblox is eye-ing an $8B+ IPO	
+- Kids under the age of 13, who make up 54% of the game’s 36m daily active users.
+- Roblox empowers kids to build their own games and learn to code using the in-house visual design tool.
+- This year, Roblox will pay out $250m to its (largely preteen) developers, up from $110m in 2019.
+- Bookings were up 200% YoY, to ~$497m (revenue is recognized over a 23-month period)
+- Daily active users were up 97%, to ~36m
+- Hours of usage were up 134%, to 8.7B
+- A recent Lil Nas X in-game concert drew a virtual crowd of 33m, suggesting the game is on the (Old Town) road there.
+
+### Nixon ended the gold standard in 1971 - our dollar is not backed by anything.
+- These monetary dislocations have impacted several areas of our society. Consumer health relies on heavily inflated asset prices, not the health of the real economy. With price stability dissipating, rampant inflation has lifted consumer prices, lowering our standard of living. As we lose 2% of our purchasing power leaving our money in the bank, we must throw our savings into an overvalued stock market fueled by speculation and greed — not a booming economy that we desperately need. Since we have to work 300% harder to buy the same stock, we’re always busy, tired, and broke. We take shortcuts, bolstering the disastrous American diet. Our lust for fast food has created a simultaneous mental health and obesity crisis.
+- The rise of blockchain technology has revolutionized how we think about money in the 21st-century. It’s the first time in history where money can be transferred peer to peer without passing through a central authority, the first decentralized network to enable the financially savvy, from hardcore Cypherpunks to GenZ libertarians, to break free from the tyrannical forces of the modern financial system.
 - [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
-	- The rise of blockchain technology has revolutionized how we think about money in the 21st-century. It’s the first time in history where money can be transferred peer to peer without passing through a central authority, the first decentralized network to enable the financially savvy, from hardcore Cypherpunks to GenZ libertarians, to break free from the tyrannical forces of the modern financial system.
 
 # November 23, 2020
 - BTC has gained ~160% in 2020
 	- Why? 
-	- rising inflation concerns due to gov't stimulus 
-	- growing mistrust of authority 
+	- Rising inflation concerns due to gov't stimulus 
+	- Growing mistrust of authority 
 	- PayPal, on October 21st, began facilitating the buying and selling of crypto 
+## Lessons
 
-- surround yourself with smarter, more mature minds. The smartest people you can find. 
+- Surround yourself with smarter, more mature minds. The smartest people you can find. 
 - Surround yourself with people who challenge you and teach you. 
 - Entrepreneurs must be willing to be misunderstood for long periods of time. 
 - As a company grows, everything needs to scale, including the size of your failed experiments. 
-- Breakthrough in aging 
-	- Tel Aviv University found a form of oxygen therapy - hyperbaric oxygen chamber can be used to reverse two key indicators of biologicla aging: telomere length and senescent cells 
-	- what are telomeres = telomeres are the protective caps on the end of chromosomes 
-	- what are senescent cells = cells that are older and worn out 
-	- [ link to article](https://www.independent.co.uk/life-style/gadgets-and-tech/anti-ageing-reverse-treatment-telomeres-b1748067.html)
 
-> “There’s people who change the world, and then there’s people who criticize them.”
+## Breakthrough in aging 
+- Tel Aviv University found a form of oxygen therapy - hyperbaric oxygen chamber - can be used to reverse two key indicators of biologicla aging: telomere length and senescent cells 
+- what are telomeres = telomeres are the protective caps on the end of chromosomes 
+- what are senescent cells = cells that are older and worn out 
+- [ link to article](https://www.independent.co.uk/life-style/gadgets-and-tech/anti-ageing-reverse-treatment-telomeres-b1748067.html)
+
+> There’s people who change the world, and then there’s people who criticize them.
 - Don't have an issue with valid criticism. 
 
 # November 20, 2020
@@ -240,7 +247,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - Many exist, with Oz we are focusing on the employment and workplace model. 
 
 # November 19, 2020
-- Be in a hurry to learn, not in a hurry to get validation. — Evan Williams
+> Be in a hurry to learn, not in a hurry to get validation. — Evan Williams
 - All we have in this life is time and energy, it is up to us to choose how we would like to invest each of these. 
 
 # November 16, 2020
@@ -254,36 +261,35 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 # November 13, 2020
 
 <img src="/assets/cavecreekatv.jpg"/>
-
-<img src="/assets/cavecreek2.jpg"/>
+**Cave Creek, AZ ATV**
 
 # November 11, 2020
-- Thoughts at the gym
-	- we currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
-	- Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success 
-	- *Let the spirtual guide the individual*
-	- So much fear and doubt - resulting in procrastination - exists in my life because I am a proponent of decentralization and power to the people so I want to work on projects which insert these ideas and types of ventures at a societal scale
-	- But, as I am learning, it is difficult in today's world to reach a critical mass of people with these ideas
-	- So, is the interim answer to pursue Game A projects in the near term - accumulate capital and power i.e. a vehicle (connections, reputation, capital) and then use this platform/vehicle to pursue projects I am passionate about?
-	
-- [[work]]
-	- work is SO fascinating to me 
-	- we spend a third or more of our lives on something whether we like it or not, most people hate it, or tolerate it at best, and this is all in the name of what? 
-	- perpetuating a system that we are slaves to - to accomplish things we have been programmed to 'want to' accomplish 
-	- work is such an interesting concept to me - boring to most people 
-	- but i think it unlocks the keys to the the future/universe - bc if we restructure the work model we unlock so much time 
-	- time to then invest into new ideas, technologies, the sciences, etc. 
-	- all stems back to one of my core axioms that the ultimate product of the human mind is to create and build - so what is preventing humanity from doing more of this? what do we spend our time doing? WORK
-- we need to reform the work model - this will have political, economic, and social implications 
 
+## Thoughts at the gym
+- we currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
+- Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success 
+- *Let the spirtual guide the individual*
+- So much fear and doubt - resulting in procrastination - exists in my life because I am a proponent of decentralization and power to the people so I want to work on projects which insert these ideas and types of ventures at a societal scale
+- But, as I am learning, it is difficult in today's world to reach a critical mass of people with these ideas
+- So, is the interim answer to pursue Game A projects in the near term - accumulate capital and power i.e. a vehicle (connections, reputation, capital) and then use this platform/vehicle to pursue projects I am passionate about?
+	
+## Work
+- work is SO fascinating to me 
+- we spend a third or more of our lives on something whether we like it or not, most people hate it, or tolerate it at best, and this is all in the name of what? 
+- perpetuating a system that we are slaves to - to accomplish things we have been programmed to 'want to' accomplish 
+- work is such an interesting concept to me - boring to most people 
+- but i think it unlocks the keys to the the future/universe - bc if we restructure the work model we unlock so much time 
+- time to then invest into new ideas, technologies, the sciences, etc. 
+- all stems back to one of my core axioms that the ultimate product of the human mind is to create and build - so what is preventing humanity from doing more of this? what do we spend our time doing? WORK
+- we need to reform the work model - this will have political, economic, and social implications 
 - also, many do not find work interesting 
 
 
 # November 10, 2020
--  many people waste much of their time on pointless, low-quality activities that don’t help them reach their true goals — their mission.
--  many people could be making a fortune (if they used their time well)…but instead, they give away their time in unproductive ways that leave them broke, unhappy, and stuck.
+-  Many people waste much of their time on pointless, low-quality activities that don’t help them reach their true goals — their mission.
+-  Many people could be making a fortune (if they used their time well)…but instead, they give away their time in unproductive ways that leave them broke, unhappy, and stuck.
 -  “Busyness” Isn’t a Badge of Honor, it’s a Sign of Weakness
-	-  “Being busy is a form of mental laziness.” -Tim Ferriss
+	> Being busy is a form of mental laziness. -Tim Ferriss
 - For world-class performers, busyness and stress are the enemy. They’re a sign you’re off-track. It means you’ve been lazy and undisciplined, and have let too many unimportant tasks take you away from what really matters.
 - “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
 
@@ -307,32 +313,33 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 	- A person who reads without pausing to think and reflect won’t remember nor apply anything they read.
 	- Articulate what you read, write down key points, ask questions, explain it to someone.
 	
-< Truth is one, the wise call it by different names. 
+> Truth is one, the wise call it by different names. 
 
-- Assume you are wrong- always seek the truth, listen to the bad news. 
+- Assume you are wrong - always seek the truth, listen to the bad news. 
 - It is very difficult to remain moral and ethical in a game theoretical world. 
 	- even if you want to do the right thing, and choose not to do something, you will be beaten in Game A terms by someone who is willing to do the things you are not. 
 
 # November 8, 2020
 
-- Revolution 
+## Revolution 
 - The [[Cultural Revolution]] was launched in China in 1966
 	- Communist leader Mao Zedong
 - To encourage the personality cult that sprang up around [[Mao Zedong]] during the first phase of the [[Cultural Revolution]], Defense Minister Lin Biao saw that the now-famous "Little Red Book" of Mao's quotations was printed and distributed by the millions throughout China.
 	- important to control media, the narrative, and ideologies to accomplish goals 
 - The population was urged to rid itself of the “Four Olds”: Old customs, old culture, old habits, and old ideas.
 
-- Socialism 
-	- Socialism promises equality, security, and prosperity - this is why it sounds good. 
-	- we should have equality of opportunity, not of outcome 
-	- Socialism does not work because it is not consistent with the principles of human nature - it is a system that ignores incentives 
+## Socialism 
+- Socialism promises equality, security, and prosperity - this is why it sounds good. 
+- we should have equality of opportunity, not of outcome 
+- Socialism does not work because it is not consistent with the principles of human nature - it is a system that ignores incentives 
 
 - come up with more of my own ideas and theories
 	- alternatives to current political, economic, and social structures
 	- economic theory that doesn't capitalize every thing and idea
-	- poitical stucture where groups are in charge 
+	- poitical stucture where groups are in charge (is this possible?)
 
 # November 3, 2020
+
 [[Parkinson's Law]]
 - Work expands so as to fill the time available for its completion.
 	- A New Zealand firm tested a 4-day workweek and found that it actually boosted productivity, creativity, and job satisfaction.
@@ -349,21 +356,21 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 
 # November 2, 2020
-- [[Kanye West]]
+## Kanye West
 derivation: JRE epsiode # 1554
 	- “We enjoy music that has multiple instruments, so when I talk it’s not a rant, it’s a symphony of ideas”
 	- “God is using me and he has a calling in my life to make the world better for all people”
 	- “Money is just a tool”
 	- “The longest moments in our lives are our memories and our imagination”
 
-- Thoughts on healthcare
+## Thoughts on healthcare
 	- a focus on holistic and modern medicine 
 	- we live in a capitalistic society, so the healthcare companies have an incentive for keeping people sick so they can make money off of patients. 
 	- we need to focus on preventing illnesses in the first place 
 
-- “When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.”
+> When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.
 
-- Frameworks for Entrepreneurs
+## Frameworks for Entrepreneurs
 	- Instead of making a to-do list, ask what is the one highest impact thing I could do today?
 	- Prioritize the rest of your tasks based on impact and urgency
 	- What’s the most important thing you can be working on right now
@@ -392,23 +399,24 @@ derivation: JRE epsiode # 1554
 	- funding 
 	- development 
 
-- [[Fiscal Illusion]]
-	- Term coined by Amilcare Puviani in 1903
-	- fiscal illusion theorizes that the ruling class intentionally misleads the public by exaggerating the benefits of public services and obscuring the total tax burden.
-	- theory was developed and popularized by economist James Buchanan in the 1960s as a way to better understand tax policies and outcomes.
+## Fiscal Illusion
+- Term coined by Amilcare Puviani in 1903
+- fiscal illusion theorizes that the ruling class intentionally misleads the public by exaggerating the benefits of public services and obscuring the total tax burden.
+- theory was developed and popularized by economist James Buchanan in the 1960s as a way to better understand tax policies and outcomes.
 	
-- [[Chamath Palihapitiya]]
-	- on [[money]] 
-	- Whatever it is now, it will be zero when I am no longer alive. I think I am fortunate enough to say this but I am merely a custodian of money. That money, while it is with me, should be used as a tool for change and progress. After that, it should be redistributed/reallocated to others who will do the same.
+## Chamath Palihapitiy
+- on [[money]] 
+- Whatever it is now, it will be zero when I am no longer alive. I think I am fortunate enough to say this but I am merely a custodian of money. That money, while it is with me, should be used as a tool for change and progress. After that, it should be redistributed/reallocated to others who will do the same.
 	
-- For prioritizing projects 
+## For prioritizing projects 
 1) Is this task still important, or has the situation changed? Often we commit to tasks or projects that are important at the time, but become less important as situations evolve.
 2) Am I really the only person who can do this? Many top performers think that doing something on their own is easier than teaching someone else how to do it. Trust your colleagues, and give them the chance to surprise you.
 3) Is this the most important thing right now? Or am I using it to avoid something else? Deep down, you know when you’re doing this.
 4) If this was the only thing I completed today, would I be satisfied with my day’s work? Part of avoiding burnout is focusing on work that will give us a sense of accomplishment.
 
 # November 1, 2020
-- [[Elon Musk]]
+
+## Elon Musk
   - goal is to extend human consciousness as far as possible into the future so we can understand more about consciousness
   - to do so, we cannot stay on earth
 - question: why can we not stay on earth
@@ -416,12 +424,12 @@ derivation: JRE epsiode # 1554
   - Elon's answer is to become a multi-planetary species and build cities on [[Mars]]
   - Other potential solutions to this problem include taking a look at physics
   
-- [[biocentrism]] 
+## Biocentrism
   - Concepts such as time, space, and even causality are increasingly being demonstrated as meaningless.
   - All of science is based on information passing through our consciousness but science hasn’t the foggiest idea what consciousness is, and it can’t explain the linkage between subatomic states and observation by conscious observers. 
   - Science describes life as a random occurrence in a dead universe but has no real understanding of how life began or why the universe appears to be exquisitely designed for the emergence of life.
 
-- [[Daniel Schmachtenberger]]
+## Daniel Schmachtenberger
   - Maximum polarization on both political sides
 	  - ea. side believes if the other wins it will be the end of the republic of America
 	  - we believe what feels true and what those around us choose to believe 
@@ -434,21 +442,24 @@ derivation: JRE epsiode # 1554
 
 
 # October 23, 2020
-- [[podcasting]] 
-  - spotify and apple increasing data available to advertisers
+
+## Podcasting
+  - Spotify and Apple increasing data available to advertisers
 	- listen time, downloads, etc. 
 	- podcasting has soared in 2020 
 	- Why Spotify likes podcasting? They don't have to hand huge chunks of revenue over to record labels. 
   
-- [[autonomous driving]] industry will likely submit to natural geographic monoplies due to the amount of location-specific driving data necessary to launch and have a winning platform. 
-  - first movers will be able to collect more data thus increasing the likliehood of having a better platform. 
+ ## Autonomous Driving 
+ - industry will likely submit to natural geographic monoplies due to the amount of location-specific driving data necessary to launch and have a winning platform. 
+ - first movers will be able to collect more data thus increasing the likliehood of having a better platform. 
   
-- [[Maxine]], a new AI powered video conferencing platform from [[Nvidia]]
+## Maxine
+- A new AI powered video conferencing platform from [[Nvidia]]
   - how does it work? 
   - idea: transmit only key facial features instead of entire frames which uses only a tenth of the bandwidth 
   - use [[GAN's]] or [[Generative Adversarial Networks]] to convert the sparse facial features into photorealistic renderings.  
   
-- [[Estonia]]
+## Estonia
   - Estonia, a tiny Baltic nation with a population of only ~1.3 million people, is considered one of the most digitally advanced countries in the world.
   - The world’s first e-government 🇪🇪
   - The first country to launch a Digital Nomad Visa
@@ -456,17 +467,18 @@ derivation: JRE epsiode # 1554
   - The first country to hold nationwide elections using electronic voting 
   - The first country that Ikea first entered digitally before establishing a physical presence
   
-- [[Genies]] has created an agency named [[Avatar Agency]] to represent the interests of celebrity digital doubles
+## Genies
+-  Created an agency named [[Avatar Agency]] to represent the interests of celebrity digital doubles
   - Avatars don’t get tired, can “travel” anywhere, and are available 24 hours a day.
-  - idea As the next generation of consumers spend increasingly more of their lives in some form of a digital realm, 3D avatars will likely be everywhere.
-  - idea Avatars are the next medium of expression, and 3D allows you to effectively operate and command virtual beings.
+  - idea: As the next generation of consumers spend increasingly more of their lives in some form of a digital realm, 3D avatars will likely be everywhere.
+  - idea: Avatars are the next medium of expression, and 3D allows you to effectively operate and command virtual beings.
 
 question: How big is the digital goods opportunity?
 idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B in avatar skins.
 
 
-
 # October 21, 2020
+
 - Very important to recognize the motives driving the actions of individuals and society
 - Be willing to take a different path
   - reverse engineer your desires and motives to get at the root of what interests you and what you believe is important for the future of humanity. 
@@ -502,11 +514,13 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 # November 21, 2019
 
 <img src="/assets/thedigitalsocietybrandonspiess.jpg"/>
+**The Digital Society in Las Vegas**
 
 
 # September 12, 2019
 
 <img src="/assets/newyorkview.jpg"/>
+**New York City, sleeping in the car on top floor of a parking garage.**
 
 # January 17, 2019
 
@@ -529,14 +543,15 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 # Questions
 - How/why do you keep going? 
-(I’ve realized it’s not about the money, that’s what you hear all the time but when you’re broke that’s typically your main motivator and focus. Once you have it, it’s not the goal anymore.) 
-- Money does not make you happy, but not having money makes you unhappy.
+(I’ve realized it’s not about the money, that’s what you hear all the time but when you’re broke that’s typically your primary motivator and focus. Once you have it, it’s not the goal anymore.) 
+- Money does not make you happy, but not having money can make you unhappy.
 - When were you happiest in life? Now or younger with less responsibilities? 
 - If you could not pass any money to your kids, what 3 strategies or tips would you give them? 
 
 # September 26, 2018
 
-> I wasn't interested in making a lot of money but I was interested in making a lot of living. Dale Carnegie
+> I wasn't interested in making a lot of money but I was interested in making a lot of living. - Dale Carnegie
+
 - Everyday is a new life to a wise man.
 - Don't expect anything from anyone.
 - Focus on actionable goals. What can you do today? 
