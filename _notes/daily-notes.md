@@ -487,6 +487,10 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
   - However, I do believe it to be critical for certain discussions in society to take place.
   - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I thinnk urgently need to be spread. 
 
+# August 5, 2020
+
+<img src="/assets/20200804.5DS_1721.8688 x 4887.jpg"/>
+
 
 # July 18, 2020
 
