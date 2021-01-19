@@ -263,6 +263,12 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - The world is full of opportunities. 
 - You can increase your perspective to optimize.
 
+# November 13, 2020
+
+<img src="/assets/cavecreekatv.jpg"/>
+
+<img src="/assets/cavecreek2.jpg"/>
+
 # November 11, 2020
 - Thoughts at the gym
 	- we currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
@@ -495,4 +501,14 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 # July 18, 2020
 
 <img src="/assets/movingday.jpg"/>
+
+
+# June 26, 2020
+
+<img src="/assets/bsmeditate.jpg"/>
+
+
+
+
+
   
