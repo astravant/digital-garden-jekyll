@@ -508,6 +508,31 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 <img src="/assets/newyorkview.jpg"/>
 
+# January 17, 2019
+
+## Shower Thoughts 
+- Often when I am in the shower, I think about all the kids, people, etc who don't have warm showers or clean water. My life is dedicated to helping these people. I'm not so focused on getting myself a bigger or better shower as I am on helping the less fortunate attain the basic necessities. 
+- Imagine the impact this will have on the world i.e. global productivty, creativity, happines, etc. 
+
+# January 13, 2019
+
+> It would be a sin to not share what is inside of your head with the world. The creativty you share will make the world a more productive and happier place. Don't rob the world of your gifts.
+
+# January 9, 2019
+
+- If you are driven by materialistic items and buying shit i.e. working for a new watch or new car (selfish goals that benefit you and you alone) you will never be truly fulfilled, no matter how many things you accumulate. 
+- Successful people are driven by fulfilling a mission and helping/serving. Something much bigger than themselves. Selfless goals that benefit humanity. (They may reward themselves with material items, but that is not their primary motivator, rather a by-product). 
+
+> Happiness comes from setting life goals for yourself and progressing and improving as a person as you work towards them and being able to celebrate those achievements with those closest to you. 
+
+# January 6, 2019
+
+# Questions
+- How/why do you keep going? 
+(I’ve realized it’s not about the money, that’s what you hear all the time but when you’re broke that’s typically your main motivator and focus. Once you have it, it’s not the goal anymore.) 
+- Money does not make you happy, but not having money makes you unhappy.
+- When were you happiest in life? Now or younger with less responsibilities? 
+- If you could not pass any money to your kids, what 3 strategies or tips would you give them? 
 
 # September 26, 2018
 
