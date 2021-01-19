@@ -505,7 +505,7 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 # June 26, 2020
 
-<img src="/assets/bsmeditate.jpg"/>
+<img src="/assets/bsmeditate.JPG"/>
 
 
 
