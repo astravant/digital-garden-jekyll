@@ -223,6 +223,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 	- Rising inflation concerns due to gov't stimulus 
 	- Growing mistrust of authority 
 	- PayPal, on October 21st, began facilitating the buying and selling of crypto 
+	- We will likely see a continuation of this trend as more institutional investors enter the space. 
 ## Lessons
 
 - Surround yourself with smarter, more mature minds. The smartest people you can find. 
@@ -260,7 +261,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 13, 2020
 
-<img src="/assets/cavecreekatv.jpg"/>
+<img src="/assets/cavecreek2.jpg"/>
 **Cave Creek, AZ ATV**
 
 # November 11, 2020
@@ -521,6 +522,81 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 <img src="/assets/newyorkview.jpg"/>
 **New York City, sleeping in the car on top floor of a parking garage.**
+
+# April 23, 2019
+## Creativity
+Take ideas from one place and applying them to another. Even if it's totally different context. Study things that may seem totally unrelated to what you're currently doing. 
+
+It's easier to be a critic than a creator. 
+
+Creativity isn't about creating something totally new. It's about refashioning something that already exists. So - to be more creative read a lot of things in different contexts 
+
+What valuable market is no one going after?
+
+# April 15, 2019
+
+## We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're gonna make money, if you're gonna go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and used to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
+
+# April 12, 2019
+
+- It's always going to feel like there is more to do. 
+> Your dream dies tomorrow. 
+- Create a software that can complete tasks on outsourcing websites like Fiverr.
+- The planet has existed for 13.8 billion years. We have the opportunity to change what life has been like forever. The greatest change since the beginning of mankind. Creating something that has not existed in billions of years. 
+- Focus on something bigger. Focus on changing the universe forever. All of humanity as we know it. 
+Make a better Google. Everything is searchable. Education content. Email. Articles. Everything on one platform. Social media. 
+
+
+# April 5, 2019
+
+## Scaling Ideas
+- Everything around us was once an idea in someone's head, but they're not the one who carries it out once the idea gets going.
+- An idea, once implemented, takes on a life of its own. 
+- This is why it is so important to share your ideas with the world. Because of what happens once they are out in the world.
+
+# March 9, 2019
+
+- Always work hard on something that is uncomfortably exciting. 
+
+
+# March 1, 2019
+
+> If you feel lost, remember it gets better with time. 
+- We often are compelled to help those in a phase of their life that we personally went through and grew the most. 
+- Understand this, and learn what motivates individuals and what their ultimate purpose is - where they receive fulfillment. 
+
+- To change the digital agency world, I must understand it. To greatly change the way an industry operates, you must understand it. Master it. 
+
+- I want to implement some form of universal basic income/assets so peoples basic needs are taken care of and they can focus time on innovations and seeking fulfillment. 
+# February 27, 2019
+## The Digital Society Accelerator
+- Help people launch businesses and document the process
+
+## Thought
+- Lots of funding and talent flowing to e-learning/courses
+- Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning.
+
+
+# February 20, 2019
+
+## Idea
+- "content autopilot" - a software that creates your email list or social media content and send it out to your subscribers and followers automatically. 
+- People do not pay you because you have likes and followers, they pay because you serve them and provide value. 
+- What if social media didn't exist? 
+
+# February 19, 2019
+
+- The mind is capable of absolutely anything. We can all be chosen ones, It is all in your mind. 
+- It is a process of rewiring your mind. You can rewire your mind to optimize for whatever you want. 
+- Material items are the byproduct of focus, work ethic, and mission. 
+
+
+# February 4, 2019
+
+- One of the hardest parts of running a business in knowing what to do and what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
+- Lack of knowledge or resources typically isn't the problem - it's just not knowing where to start. There's no shortage of information. 
+- If I had someone look at my life, my goals, and what I want to accomplish and told me exactly what I have to do to get there. Like a day by day schedule. That would change me. 
+- Imagine you work with a coach who looks at your life, helps set clear goals. And maps out a day by day schedule to help you get there and shows you the way and provides resources to help make that process easier. 
 
 # January 17, 2019
 
