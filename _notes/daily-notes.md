@@ -28,9 +28,9 @@ title: Daily Notes
 - "In short, starvation is one of the most agonizing ways to die, both physically and mentally."
 
 ## Europe and Big Tech
-	- 2 proposed bills are meant to regulate tech
-	- The Digital Services Act would require tech players that reach 10% of the EU’s population to “actively look for and mitigate risks” available on their platform.
-	- The Digital Markets Act would ban behavior by “gatekeeper” tech companies (such as forced bundling of services) and create obligations to smaller competitors (such as price transparency)
+- 2 proposed bills are meant to regulate tech
+- The Digital Services Act would require tech players that reach 10% of the EU’s population to “actively look for and mitigate risks” available on their platform.
+- The Digital Markets Act would ban behavior by “gatekeeper” tech companies (such as forced bundling of services) and create obligations to smaller competitors (such as price transparency)
 	- Violator's can be hit with fines of 6% to 10% of annual worldwide revenue
 - Europe's Influence
 	- Countries in the European Union have a combined population of ~450m people and a GDP of ~$20T, right up there with China and the US.
@@ -486,3 +486,8 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
   - I do not intend to build a personal brand at the moment. 
   - However, I do believe it to be critical for certain discussions in society to take place.
   - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I thinnk urgently need to be spread. 
+
+
+# July 18, 2020
+
+  
