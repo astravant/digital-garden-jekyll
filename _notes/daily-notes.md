@@ -2,6 +2,97 @@
 title: Daily Notes
 ---
 
+# January 25, 2021
+
+- Are you a producer or a consumer 
+- Are you a consumer or an owner? 
+
+> "We're drowning in information and starving for wisdom." Tony Robbins 
+> "Life supports what supports more of life." Tony Robbins 
+
+# January 24, 2021
+
+## Offense vs. Defense 
+- The paths one goes through can be perceived as offense and defense. 
+- Defense being primarily reading, researching, and preparation. Time pondering and plotting your next moves. 
+- Looking at trends, market forces, emerging technologies and ideologies. 
+- Based on the information you begin to formulate your plans and projects. 
+- To bring these projects to fruition and wide-scale adoption you must enter the offense phase. 
+- Offense can be described as building; this often takes the form of recruiting, team building, launching products, raising capital for your ventures, marketing/advertising and focusing on users.
+
+# January 14, 2021
+
+- [Decentralized Autonomous Organizations](https://blockchainhub.net/dao-decentralized-autonomous-organization/)
+
+# January 14, 2021
+
+## James Altucher Excercises in Tools of Titans by Tim Ferriss 
+
+- 10 ridiculous things I would invent
+- 10 books I can write 
+- 10 people I can send ideas to 
+- 10 industries where I can remove the middleman 
+- 10 things I disagree with that everyone else assumes is religion (college, home ownership, voting, doctors)
+- 10 people I want to be friends with 
+- 10 things I learned today/yesterday 
+- 10 ways I can save time 
+
+
+# January 10, 2021
+
+>  “Lasting peace and harmony inherently requires differentiation. A stable society is a differentiated one.”
+- **Be aware of the self-serving bias: We tend to attribute good things to our own skill, and we tend to attribute bad things that happen to us to luck**
+
+
+# January 3, 2021
+
+- Any product that has a social component baked in has fundamental advantages over competing non-social products: better growth loops, better engagement, better retention, better defensibility. 
+- These advantages accumulate over time 
+- [Social+ Businesses](https://a16z.com/2020/12/07/social-strikes-back-social-plus/?utm_source=angellist)
+
+# January 1, 2021
+
+## Thoughts on Time + Energy Investment
+- Most spend high amounts of time on things where input is low energy. 
+- 80/20 - 80% of tasks we invest 20% of our energy (low energy); 20% of tasks take 80% of our energy 
+- The goal is to align high amounts of time investment with high levels of energy. You will accomplish significantly more. 
+
+# December 31, 2020
+
+- During this time of year, I find it important to revist objectives, goals, and what you are investing your time into. 
+
+## Some Questions for Goal Setting
+- What are my values?
+- What are my 12 month goals? 
+- How can I accomplish these 12 month goals in 3 months? 
+- Am I being ambitious enough? 
+- Too ambitious? 
+- What should I be investing my time into, given these goals? 
+- What should my routine look like?
+	- do your actions match your goals?  
+- What should I stop doing? 
+	- what podcasts, reading, escapism, low-value tasks, etc. 
+- How can I optimize accomplishing these goals? 
+	- location, routine, surroundings, etc. 
+	- what are all of the options available? 
+	
+## Habits of World-Class Performers
+- A clear mission/vision
+- Exercise 
+- Clear daily routine 
+- Meditation/Journal
+- Read often 
+- Relentless learning
+- Conversations with intelligent, high-level individuals 
+- Supplements, vitamins, nootropics
+- Sauna, cryo/cold plunge
+- Outsource low-value tasks 
+- Say 'no' often 
+
+
+# December 18, 2020
+
+- it is worth the bet to get onto new platforms early, build a biz on top of new platforms 
 
 # December 17, 2020
 
@@ -183,7 +274,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - Making the hypothesis,  most notably to my knowledge, by [[Buckmister Fuller]] - that at some point in the future we'll be able to transfer ourselves/consiousness to far away places. This seems on-base to me if consciouness is this fragile. Just a bunch of atoms. 
 
 - An observation I have been pondering recently is how signigicant an impact the ideas, and theories one has at my current stage 18-25, reflects and predicts the time and energy investment of that person in the following years of their life. 
-- On the contrary, it is unfortunate many people do not continue to follow these things. 
+- On the contrary, it is unfortunate many people do not continue to follow these things. (this is due to a number of reasons)
 - But, I think back to [Elon's list](https://www.businessinsider.com.au/elon-musk-on-startalk-with-neil-degrasse-tyson-2015-4) of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas every since. 
 	- he first postulated on these ideas when he was around 20, in college. 
 
@@ -240,9 +331,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 > There’s people who change the world, and then there’s people who criticize them.
 - Don't have an issue with valid criticism. 
 
-# November 20, 2020
-- We are focused on the wrong things, we invest our time and energy into the wrong things. 
-- We can't fault anyone for it, they are just playing the game the way it was setup and the only way they know how to. 
+# November 20, 2020 
 - As with many things in life, we are restricted by knowledge and awareness.
 - I ask, what are the bottlenecks that exist preventing the transition to accelerated growth and innovation? 
 - Many exist, with Oz we are focusing on the employment and workplace model. 
@@ -278,17 +367,13 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - work is SO fascinating to me 
 - we spend a third or more of our lives on something whether we like it or not, most people hate it, or tolerate it at best, and this is all in the name of what? 
 - perpetuating a system that we are slaves to - to accomplish things we have been programmed to 'want to' accomplish 
-- work is such an interesting concept to me - boring to most people 
-- but i think it unlocks the keys to the the future/universe - bc if we restructure the work model we unlock so much time 
+- I think it unlocks the keys to the the future/universe - bc if we restructure the work model we unlock so much time 
 - time to then invest into new ideas, technologies, the sciences, etc. 
 - all stems back to one of my core axioms that the ultimate product of the human mind is to create and build - so what is preventing humanity from doing more of this? what do we spend our time doing? WORK
 - we need to reform the work model - this will have political, economic, and social implications 
 - also, many do not find work interesting 
 
-
 # November 10, 2020
--  Many people waste much of their time on pointless, low-quality activities that don’t help them reach their true goals — their mission.
--  Many people could be making a fortune (if they used their time well)…but instead, they give away their time in unproductive ways that leave them broke, unhappy, and stuck.
 -  “Busyness” Isn’t a Badge of Honor, it’s a Sign of Weakness
 	> Being busy is a form of mental laziness. -Tim Ferriss
 - For world-class performers, busyness and stress are the enemy. They’re a sign you’re off-track. It means you’ve been lazy and undisciplined, and have let too many unimportant tasks take you away from what really matters.
@@ -341,13 +426,13 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 3, 2020
 
-[[Parkinson's Law]]
+## Parkinson's Law
 - Work expands so as to fill the time available for its completion.
 	- A New Zealand firm tested a 4-day workweek and found that it actually boosted productivity, creativity, and job satisfaction.
 	- In 2019, Microsoft Japan closed their offices every Friday, and saw a ~39% increase in YoY sales per employee.
 	- A 23-month study in Sweden found that nurses who worked a 6-hour workday had higher productivity levels and lower absentee rates than those with a longer workday
-	
-- [[The Streisand Effect]]: try to remove something from the internet publicly, more people will view it.
+
+## The Streisand Effect: try to remove something from the internet publicly, more people will view it.
 
 - “Williams James knew that every man is “ready to be savage in some cause.” The distinction, he said, between good people and bad people is “the choice of the cause.”” (89)
 - “The essential trait of the successful man is not only perseverance but almost a perverse expectation of how difficult it is going to be. It is having redundancies on top of redundancies, so you can absorb the losses you eventually incur. One must not just steel one’s heart but also one’s spirit so that there is no such thing as an obstacle – just information. The earlier you spot and anticipate setbacks, the less demoralizing they will be. We want things to be easy. We want them to be clean. They rarely are.” (126)
@@ -365,16 +450,16 @@ derivation: JRE epsiode # 1554
 	- “The longest moments in our lives are our memories and our imagination”
 
 ## Thoughts on healthcare
-	- a focus on holistic and modern medicine 
-	- we live in a capitalistic society, so the healthcare companies have an incentive for keeping people sick so they can make money off of patients. 
-	- we need to focus on preventing illnesses in the first place 
+- a focus on holistic and modern medicine 
+- we live in a capitalistic society, so the healthcare companies have an incentive for keeping people sick so they can make money off of patients. 
+- we need to focus on preventing illnesses in the first place 
 
 > When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.
 
 ## Frameworks for Entrepreneurs
-	- Instead of making a to-do list, ask what is the one highest impact thing I could do today?
-	- Prioritize the rest of your tasks based on impact and urgency
-	- What’s the most important thing you can be working on right now
+- Instead of making a to-do list, ask what is the one highest impact thing I could do today?
+- Prioritize the rest of your tasks based on impact and urgency
+- What’s the most important thing you can be working on right now
 
 - Set clear measurable goals that are both ambitious and realistic
 	- Then set your anti-goals, the things you don’t want to happen along the way
@@ -404,10 +489,6 @@ derivation: JRE epsiode # 1554
 - Term coined by Amilcare Puviani in 1903
 - fiscal illusion theorizes that the ruling class intentionally misleads the public by exaggerating the benefits of public services and obscuring the total tax burden.
 - theory was developed and popularized by economist James Buchanan in the 1960s as a way to better understand tax policies and outcomes.
-	
-## Chamath Palihapitiy
-- on [[money]] 
-- Whatever it is now, it will be zero when I am no longer alive. I think I am fortunate enough to say this but I am merely a custodian of money. That money, while it is with me, should be used as a tool for change and progress. After that, it should be redistributed/reallocated to others who will do the same.
 	
 ## For prioritizing projects 
 1) Is this task still important, or has the situation changed? Often we commit to tasks or projects that are important at the time, but become less important as situations evolve.
@@ -443,22 +524,11 @@ derivation: JRE epsiode # 1554
 
 
 # October 23, 2020
-
-## Podcasting
-  - Spotify and Apple increasing data available to advertisers
-	- listen time, downloads, etc. 
-	- podcasting has soared in 2020 
-	- Why Spotify likes podcasting? They don't have to hand huge chunks of revenue over to record labels. 
   
  ## Autonomous Driving 
  - industry will likely submit to natural geographic monoplies due to the amount of location-specific driving data necessary to launch and have a winning platform. 
  - first movers will be able to collect more data thus increasing the likliehood of having a better platform. 
-  
-## Maxine
-- A new AI powered video conferencing platform from [[Nvidia]]
-  - how does it work? 
-  - idea: transmit only key facial features instead of entire frames which uses only a tenth of the bandwidth 
-  - use [[GAN's]] or [[Generative Adversarial Networks]] to convert the sparse facial features into photorealistic renderings.  
+ 
   
 ## Estonia
   - Estonia, a tiny Baltic nation with a population of only ~1.3 million people, is considered one of the most digitally advanced countries in the world.
@@ -477,7 +547,6 @@ derivation: JRE epsiode # 1554
 question: How big is the digital goods opportunity?
 idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B in avatar skins.
 
-
 # October 21, 2020
 
 - Very important to recognize the motives driving the actions of individuals and society
@@ -495,9 +564,6 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
   - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I thinnk urgently need to be spread. 
   
 
-# August 6, 2020
-
-  
 # August 5, 2020
 
 <img src="/assets/20200804.5DS_1721.8688 x 4887.jpg"/>
@@ -512,16 +578,6 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 <img src="/assets/brandonspiess.JPG"/>
 
-# November 21, 2019
-
-<img src="/assets/thedigitalsocietybrandonspiess.jpg"/>
-**The Digital Society in Las Vegas**
-
-
-# September 12, 2019
-
-<img src="/assets/newyorkview.jpg"/>
-**New York City, sleeping in the car on top floor of a parking garage.**
 
 # April 23, 2019
 ## Creativity
@@ -535,13 +591,12 @@ What valuable market is no one going after?
 
 # April 15, 2019
 
-## We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're gonna make money, if you're gonna go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and used to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
+### We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're gonna make money, if you're gonna go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and used to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
 
 # April 12, 2019
 
 - It's always going to feel like there is more to do. 
 > Your dream dies tomorrow. 
-- Create a software that can complete tasks on outsourcing websites like Fiverr.
 - The planet has existed for 13.8 billion years. We have the opportunity to change what life has been like forever. The greatest change since the beginning of mankind. Creating something that has not existed in billions of years. 
 - Focus on something bigger. Focus on changing the universe forever. All of humanity as we know it. 
 Make a better Google. Everything is searchable. Education content. Email. Articles. Everything on one platform. Social media. 
@@ -565,9 +620,6 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - We often are compelled to help those in a phase of their life that we personally went through and grew the most. 
 - Understand this, and learn what motivates individuals and what their ultimate purpose is - where they receive fulfillment. 
 
-- To change the digital agency world, I must understand it. To greatly change the way an industry operates, you must understand it. Master it. 
-
-- I want to implement some form of universal basic income/assets so peoples basic needs are taken care of and they can focus time on innovations and seeking fulfillment. 
 # February 27, 2019
 ## The Digital Society Accelerator
 - Help people launch businesses and document the process
@@ -575,12 +627,12 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 ## Thought
 - Lots of funding and talent flowing to e-learning/courses
 - Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning.
-
+- There still exists a necessity to learn, acquire skills, etc to apply to careers. 
 
 # February 20, 2019
 
 ## Idea
-- "content autopilot" - a software that creates your email list or social media content and send it out to your subscribers and followers automatically. 
+- "Content autopilot" - a software that creates your email list or social media content and send it out to your subscribers and followers automatically. 
 - People do not pay you because you have likes and followers, they pay because you serve them and provide value. 
 - What if social media didn't exist? 
 
@@ -590,18 +642,15 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - It is a process of rewiring your mind. You can rewire your mind to optimize for whatever you want. 
 - Material items are the byproduct of focus, work ethic, and mission. 
 
-
 # February 4, 2019
 
 - One of the hardest parts of running a business in knowing what to do and what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
 - Lack of knowledge or resources typically isn't the problem - it's just not knowing where to start. There's no shortage of information. 
-- If I had someone look at my life, my goals, and what I want to accomplish and told me exactly what I have to do to get there. Like a day by day schedule. That would change me. 
-- Imagine you work with a coach who looks at your life, helps set clear goals. And maps out a day by day schedule to help you get there and shows you the way and provides resources to help make that process easier. 
 
 # January 17, 2019
 
 ## Shower Thoughts 
-- Often when I am in the shower, I think about all the kids, people, etc who don't have warm showers or clean water. My life is dedicated to helping these people. I'm not so focused on getting myself a bigger or better shower as I am on helping the less fortunate attain the basic necessities. 
+- Often when I am in the shower, I think about all the people who don't have warm showers or clean water. My life is dedicated to helping these people. I'm not so focused on getting myself a bigger or better shower as I am on helping the less fortunate attain the basic necessities. 
 - Imagine the impact this will have on the world i.e. global productivty, creativity, happines, etc. 
 
 # January 13, 2019
@@ -610,7 +659,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 # January 9, 2019
 
-- If you are driven by materialistic items and buying shit i.e. working for a new watch or new car (selfish goals that benefit you and you alone) you will never be truly fulfilled, no matter how many things you accumulate. 
+- If you are driven by materialistic items and buying things i.e. working for a new watch or new car (selfish goals that benefit you and you alone) you will never be truly fulfilled, no matter how many things you accumulate. 
 - Successful people are driven by fulfilling a mission and helping/serving. Something much bigger than themselves. Selfless goals that benefit humanity. (They may reward themselves with material items, but that is not their primary motivator, rather a by-product). 
 
 > Happiness comes from setting life goals for yourself and progressing and improving as a person as you work towards them and being able to celebrate those achievements with those closest to you. 
@@ -623,6 +672,8 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Money does not make you happy, but not having money can make you unhappy.
 - When were you happiest in life? Now or younger with less responsibilities? 
 - If you could not pass any money to your kids, what 3 strategies or tips would you give them? 
+
+- Book on money [Thou Shall Prosper: Ten Commandments for Making Money](https://www.amazon.com/Thou-Shall-Prosper-Commandments-Making/dp/0470485884).
 
 # September 26, 2018
 
@@ -654,17 +705,13 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 - Follow what excites you. 
 - Everyone works when they're motivated, it takes a true champion to work when they're not motivated. 
-- Act like the person you want to become, the best version of yourself already exists inside of you, go on a journey to bring that person to life. The exact person you want to become and the life you want to live already exists, just put yourself on that level, grow to a higher vibration. 
 - "Those who most need to do something are the least likely to do it. Those who are overweight are the least likely to exercise and eat healthily. Those who are poor are the least likely to learn about their finances and growing income."
 	- is this paradigm accurate? 
 	- if it is true, why? 
 - Progress = Happiness 
 - Life is about growth and giving. 
-	
 
 # September 11, 2018
-
-## Thoughts on Life
 
 - Core components of making a dream come true: having a clear vision, making actionable goals, leveraging your connections, and getting out of your comfort zone to make that dream come true. 
 - Take MASSIVE action.
@@ -676,23 +723,17 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 # September 4, 2018
 
-- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. So yeah I’ve got these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day I just love the process.
-- My life is dedicated to teaching people how to create freedom and happiness and stability in their lives. Escape the status quo. Say fuck you to the system. 
+- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. I have these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day I just love the process.
+- My life is dedicated to teaching people how to create freedom and happiness and stability in their lives. Escape the status quo.
 
 
 # September 1, 2018
 
 ## Thoughts 
 
-- Every success book talks about the same things. It’s a list of 15-20 principles and habits of focus, work ethic, associating yourself with the right people.
-- Success and successful people go in a cycle. Some become successful and share “secrets” and then a small majority of the next generation becomes successful and then teaches the same thing. It’s a cycle. Over and over again the same things happen. Especially if you grow up in a small town rural environment and there’s isn’t a lot of money, chances are you are going to be the same. 
-- How can we change that? Create a way for more people to become successful. A tool that people can utilize. 
 - Few will act for the many, but many will act for the one. (Find one person or your family that you’re doing it for) 
 
-
 # March 25, 2018
-
-## Random Thoughts
 
 - Qualify leads first - see if they are in the market for what you're selling. 
 - Your self worth doesn't come from what you earn, it comes from what you create. Create something - don't just own something. 
@@ -702,7 +743,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Find happiness inside you. Be at peace with yourself. 
 - Learn to navigate the gray. Life is full of black and white, new and different situations. It's ok to not know the answers, make the decision you think is best and feels right to you. This means you are growing.
 - Stay close to anything that makes you glad you are alive. 
-- If your motivations can't get your ass to work, let your worst nightmares motivate you. 
+- If your motivations can't get you to work, let your worst nightmares motivate you. 
 
 # March 22, 2018
 
@@ -710,13 +751,11 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 - Do what others don't - be contrarian, if you want a life other people don't have you must do things other people don't do. 
 - FOCUS - make actionable goals and work on them everyday - don't get involved in too many projects. Focus + master one and then diversify. 
-- Relationships - leverage connections and meet people, surround yourself with people who support you and are doing the things you want to do. 
-- Get out of your comfort zone - stay weird 
+- Relationships - build connections and meet people, surround yourself with people who support you and are doing the things you want to do. 
+- Get out of your comfort zone. Life begins at the end of your comfort zone. 
 - Follow what excites you, be willing to step out of your comfort zone and share those experiences with others. 
-- Don't focus on the past and don't give a fuck about what anyone thinks of you. 
+- Don't focus on the past. Don't focus on things you cannot control. 
 - Read books, get a mentor. 
-- Love 'fires': if things are going smoothly something is usually wrong. Learn from problems and challenges and thrive with them. 
-- Everything happens for you, not to you. 
 
 
 
