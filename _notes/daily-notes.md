@@ -7,13 +7,13 @@ title: Daily Notes
 - Are you a producer or a consumer 
 - Are you a consumer or an owner? 
 
-> "We're drowning in information and starving for wisdom." Tony Robbins 
+> "We're drowning in information and starving for wisdom."
 > "Life supports what supports more of life." Tony Robbins 
 
 # January 24, 2021
 
 ## Offense vs. Defense 
-- The paths one goes through can be perceived as offense and defense. 
+- The phases one experiences can be perceived as offense and defense. 
 - Defense being primarily reading, researching, and preparation. Time pondering and plotting your next moves. 
 - Looking at trends, market forces, emerging technologies and ideologies. 
 - Based on the information you begin to formulate your plans and projects. 
@@ -47,7 +47,7 @@ title: Daily Notes
 # January 3, 2021
 
 - Any product that has a social component baked in has fundamental advantages over competing non-social products: better growth loops, better engagement, better retention, better defensibility. 
-- These advantages accumulate over time 
+- These advantages accumulate over time.
 - [Social+ Businesses](https://a16z.com/2020/12/07/social-strikes-back-social-plus/?utm_source=angellist)
 
 # January 1, 2021
@@ -79,20 +79,20 @@ title: Daily Notes
 ## Habits of World-Class Performers
 - A clear mission/vision
 - Exercise 
+- Outsource low-value tasks 
+- Say 'no' often 
 - Clear daily routine 
+- Deep work
 - Meditation/Journal
 - Read often 
 - Relentless learning
 - Conversations with intelligent, high-level individuals 
 - Supplements, vitamins, nootropics
 - Sauna, cryo/cold plunge
-- Outsource low-value tasks 
-- Say 'no' often 
-
 
 # December 18, 2020
 
-- it is worth the bet to get onto new platforms early, build a biz on top of new platforms 
+- It is worth the bet to get onto new platforms early, build a biz on top of new platforms 
 
 # December 17, 2020
 
