@@ -4,11 +4,11 @@ title: Daily Notes
 
 # January 25, 2021
 
-- Are you a producer or a consumer 
+- Are you a producer or a consumer?
 - Are you a consumer or an owner? 
 
 > "We're drowning in information and starving for wisdom."
-> "Life supports what supports more of life." Tony Robbins 
+> "Life supports what supports more of life." - Tony Robbins 
 
 # January 24, 2021
 
