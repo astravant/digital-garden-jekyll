@@ -8,6 +8,7 @@ title: Daily Notes
 - Are you a consumer or an owner? 
 
 > "We're drowning in information and starving for wisdom."
+
 > "Life supports what supports more of life." - Tony Robbins 
 
 # January 24, 2021
@@ -114,13 +115,6 @@ title: Daily Notes
 - Europe's Influence
 	- Countries in the European Union have a combined population of ~450m people and a GDP of ~$20T, right up there with China and the US.
 
-# December 16, 2020
-
-## Amazon 'Made for You'
-- In its bid to conquer every aspect of shopping, including where we buy our clothes, Amazon today launched a new program called “Made for You” that lets its US customers order a t-shirt made to their measurements.
-- Users provide their height, weight, and body style, and take two photos of themselves using the Amazon app.
-- The resulting shirt costs $25
-
 # December 15, 2020
 
 - equity is more expensive than debt 
@@ -200,15 +194,6 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 
 # December 9, 2020
-- [The 4-Hour Body](https://www.amazon.com/4-Hour-Body-Uncommon-Incredible-Superhuman/dp/0307704610) Summary 
-- "The perfect method you follow is better than the perfect method you quit."
-- Mens sana in corpore sano. That’s Latin for “a healthy body holds a healthy mind.”
-
-- No white carbs, such as bread, white and brown rice, cereal, potatoes, pasta, tortillas and everything that’s fried.
-	- Eat the same few meals over and over again. Assemble them only from main proteins (beef, chicken, etc.), legumes (beans, lentils), and vegetables.
-	- Drink only water, tea and coffee without milk or sugar.
-	- No fruits.
-	- Have a cheat day once a week on which you can eat as much as you want of whatever you want.
 
 - One of management guru Peter Drucker’s most famous lines is “what gets measured gets managed.” 
 - [[Ice Therapy]]: Scientific research has found that the body burns more energy when subjected to cold temperatures.
@@ -245,7 +230,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 30, 2020
 
-- In the beginning, great technologies are complicated and attractive to a small group of people, typically the 'rebels' of society - or people interested in freedom of speech pr freedom in general 
+- In the beginning, great technologies are complicated and attractive to a small group of people, typically the 'rebels' of society - or people interested in freedom of speech or freedom in general 
 	- think personal computers or the internet 
 	- what is this now? blockchain, crypto, ideas of decentralization 
 	- this started in the 1990s
@@ -253,12 +238,6 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 ## Currency is always being recycled 
 - think corporations, they invest and spend money, consumers take the money and spend it and it goes right back to the same corporations 
 - via investments, employees, etc. 
-
-# November 29, 2020
-- being built on blockchain gives us a sense of UBA
-- also [[network effects]] in two ways
-	- one, as more users and customers join the platform the more tasks and socialization there is
-	- and two, the more users that join the platform the more valuable the platform becomes and the more capital that users holding the currency accumulate. 
 
 
 # November 28, 2020
@@ -294,27 +273,13 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 25, 2020
 
-## Roblox is eye-ing an $8B+ IPO	
-- Kids under the age of 13, who make up 54% of the game’s 36m daily active users.
-- Roblox empowers kids to build their own games and learn to code using the in-house visual design tool.
-- This year, Roblox will pay out $250m to its (largely preteen) developers, up from $110m in 2019.
-- Bookings were up 200% YoY, to ~$497m (revenue is recognized over a 23-month period)
-- Daily active users were up 97%, to ~36m
-- Hours of usage were up 134%, to 8.7B
-- A recent Lil Nas X in-game concert drew a virtual crowd of 33m, suggesting the game is on the (Old Town) road there.
-
 ### Nixon ended the gold standard in 1971 - our dollar is not backed by anything.
 - These monetary dislocations have impacted several areas of our society. Consumer health relies on heavily inflated asset prices, not the health of the real economy. With price stability dissipating, rampant inflation has lifted consumer prices, lowering our standard of living. As we lose 2% of our purchasing power leaving our money in the bank, we must throw our savings into an overvalued stock market fueled by speculation and greed — not a booming economy that we desperately need. Since we have to work 300% harder to buy the same stock, we’re always busy, tired, and broke. We take shortcuts, bolstering the disastrous American diet. Our lust for fast food has created a simultaneous mental health and obesity crisis.
 - The rise of blockchain technology has revolutionized how we think about money in the 21st-century. It’s the first time in history where money can be transferred peer to peer without passing through a central authority, the first decentralized network to enable the financially savvy, from hardcore Cypherpunks to GenZ libertarians, to break free from the tyrannical forces of the modern financial system.
 - [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
 
 # November 23, 2020
-- BTC has gained ~160% in 2020
-	- Why? 
-	- Rising inflation concerns due to gov't stimulus 
-	- Growing mistrust of authority 
-	- PayPal, on October 21st, began facilitating the buying and selling of crypto 
-	- We will likely see a continuation of this trend as more institutional investors enter the space. 
+
 ## Lessons
 
 - Surround yourself with smarter, more mature minds. The smartest people you can find. 
@@ -348,14 +313,9 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - The world is full of opportunities. 
 - You can increase your perspective to optimize.
 
-# November 13, 2020
-
-<img src="/assets/cavecreek2.jpg"/>
-**Cave Creek, AZ ATV**
-
 # November 11, 2020
 
-## Thoughts at the gym
+## Thoughts
 - we currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
 - Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success 
 - *Let the spirtual guide the individual*
@@ -407,19 +367,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 8, 2020
 
-## Revolution 
-- The [[Cultural Revolution]] was launched in China in 1966
-	- Communist leader Mao Zedong
-- To encourage the personality cult that sprang up around [[Mao Zedong]] during the first phase of the [[Cultural Revolution]], Defense Minister Lin Biao saw that the now-famous "Little Red Book" of Mao's quotations was printed and distributed by the millions throughout China.
-	- important to control media, the narrative, and ideologies to accomplish goals 
-- The population was urged to rid itself of the “Four Olds”: Old customs, old culture, old habits, and old ideas.
-
-## Socialism 
-- Socialism promises equality, security, and prosperity - this is why it sounds good. 
-- we should have equality of opportunity, not of outcome 
-- Socialism does not work because it is not consistent with the principles of human nature - it is a system that ignores incentives 
-
-- come up with more of my own ideas and theories
+- come up with more ideas and theories
 	- alternatives to current political, economic, and social structures
 	- economic theory that doesn't capitalize every thing and idea
 	- poitical stucture where groups are in charge (is this possible?)
@@ -442,17 +390,6 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 
 # November 2, 2020
-## Kanye West
-derivation: JRE epsiode # 1554
-	- “We enjoy music that has multiple instruments, so when I talk it’s not a rant, it’s a symphony of ideas”
-	- “God is using me and he has a calling in my life to make the world better for all people”
-	- “Money is just a tool”
-	- “The longest moments in our lives are our memories and our imagination”
-
-## Thoughts on healthcare
-- a focus on holistic and modern medicine 
-- we live in a capitalistic society, so the healthcare companies have an incentive for keeping people sick so they can make money off of patients. 
-- we need to focus on preventing illnesses in the first place 
 
 > When you unprogram yourself, you see that there’s other forms of currency. Like relationships are a more important currency than money itself and that’s what we really sought.
 
@@ -756,9 +693,3 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Follow what excites you, be willing to step out of your comfort zone and share those experiences with others. 
 - Don't focus on the past. Don't focus on things you cannot control. 
 - Read books, get a mentor. 
-
-
-
-
-
-  
