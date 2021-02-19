@@ -22,10 +22,10 @@ Additional reading on digital gardens:
 
 > The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
 
-For me, writing has made a huge difference in learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge.
+Writing has the ability to make a massive impact on learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a decades-spanning public project to curate, connect, and explore knowledge.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Here are my most recent <span style="font-weight: bold">[[daily notes]]</span> to get a feel for the space.
+  Here are the most recent <span style="font-weight: bold">[[daily notes]]</span> to get a feel for the space.
  </p>
 
 # Recent Reading
@@ -58,9 +58,7 @@ For me, writing has made a huge difference in learning, reflecting, peace of min
   - [[Mental Models]]
   - [[Startups]]
   - [[Technology]]
-  - [[Gig Economy]]
   - [[Future]]
-  - [[Politics]]
   - [[Philosophy]]
   - [[Productivity]]
 
