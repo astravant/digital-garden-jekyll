@@ -1,6 +1,16 @@
 ---
 title: Daily Notes
 ---
+
+# March 15, 2021
+- The whole universe is a computer. A cosmic information processing machine. 
+
+> The universe computes its own destiny.
+
+The laws of physics are the algorithms. 
+
+> History is the story of information becoming aware of itself. 
+
 # February 18, 2021
 
 > Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society Is to be as advanced as possible.
