@@ -57,7 +57,6 @@ Writing has the ability to make a massive impact on learning, reflecting, peace 
   - [[Ideas]]
   - [[Mental Models]]
   - [[Startups]]
-  - [[Technology]]
   - [[Future]]
   - [[Philosophy]]
   - [[Productivity]]
