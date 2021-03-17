@@ -39,13 +39,13 @@ Writing has the ability to make a massive impact on learning, reflecting, peace 
 
 # [[Books]]
 
-- [How the Internet Happened](https://www.amazon.com/How-Internet-Happened-Netscape-iPhone/dp/1631493078/ref=sr_1_1?crid=10T6751ZJB6H1&dchild=1&keywords=how+the+internet+happened&qid=1606881076&sprefix=how+the+inter%2Caps%2C206&sr=8-1) by Brian McCullough
+- [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?crid=2IDMYTLNEJ71D&dchild=1&keywords=the+innovators+walter+isaacson&qid=1615951892&s=books&sprefix=the+innov%2Cstripbooks%2C249&sr=1-1) by Walter Isaacson
 - [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=sr_1_1?crid=28IVIRI77PSAG&dchild=1&keywords=the+beginning+of+infinity&qid=1606881119&sprefix=the+begi%2Caps%2C224&sr=8-1) by David Deutsch
 - [Creating a World Without Poverty](https://www.amazon.com/Creating-World-Without-Poverty-Capitalism/dp/1586486675/ref=sr_1_1?crid=1YJBEULRHNQH1&dchild=1&keywords=creating+a+world+without+poverty&qid=1606881162&sprefix=creating+a+world+wi%2Caps%2C211&sr=8-1) by Muhammad Yunus
-- [The Parasitic Mind](https://www.amazon.com/Parasitic-Mind-Infectious-Killing-Common/dp/162157959X/ref=sr_1_3?crid=OB8E140V9XUC&dchild=1&keywords=the+parasitic+mind&qid=1606881189&sprefix=the+paras%2Caps%2C246&sr=8-3) by Gad Saad
 - [Grunch of Giants](https://www.amazon.com/Grunch-Giants-R-Buckminster-Fuller/dp/1607027593/ref=sr_1_2?crid=2EZGQMDGZDSA9&dchild=1&keywords=grunch+of+giants&qid=1606881227&sprefix=grunch+of+%2Caps%2C207&sr=8-2) by Buckminster Fuller
 - [The End of Power](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694/ref=sr_1_1?dchild=1&keywords=the+end+of+power&qid=1609530007&sr=8-1) by Moisés Naím
 - [Life After Google](https://www.amazon.com/Life-After-Google-Blockchain-Economy/dp/1621575764/ref=sr_1_1?crid=2ED89QCOK825T&dchild=1&keywords=life+after+google&qid=1609530109&sprefix=life+after+google%2Caps%2C220&sr=8-1) by George Gilder
+- [The Information: A History, A Theory, A Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) by James Gleick
 
 # Garden Index
   - [[Books]]
