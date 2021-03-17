@@ -1,6 +1,52 @@
 ---
 title: Daily Notes
 ---
+# February 18, 2021
+
+> Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society Is to be as advanced as possible.
+
+# February 12, 2021
+- Mission should not change; ideas can change, process can change - and these two should change. You should always be seeking to build a more effective and efficient machine for achieving the objectives of the organization.
+	- This is your goal as CEO or leader of an organization - build a machine that outputs the objectives as effectively and efficiently as possible. 
+
+
+# February 9, 2021
+
+> “Talk depletes us. Talking and doing fight for the same resources. Research shows that while goal visualization is important, after a certain point, our mind begins to confuse it with actual progress.” – Ryan Holiday
+
+- Have a bias toward action — let’s see something happen now. You can break that big plan into small steps and take the first step right away. — Indira Gandhi
+
+> The superior man acts before he speaks and afterward speaks according to his action. - Confucius
+
+- When we don’t act we create burdens for ourselves. Unaccomplished goals and ideas are like having too many programs running on your computer. It slows you down.
+- Once you get rolling, momentum will keep you moving. Action creates more action. Momentum will help you to move ahead more quickly.
+- Motion makes you feel like you’re getting things done. But really, you’re just preparing to get something done. And when preparation becomes a form of procrastination, you need to change something.
+
+# February 8, 2021
+
+## Ikigai 
+The convergence of four primary elements:
+-   What you love (your passion)
+-   What the world needs (your mission)
+-   What you are good at (your vocation)
+-   What you can get paid for (your profession)
+-   [Ikigai: The Japanese Secret to a Long and Happy Life Might Just Help You Live a More Fulfilling Life](https://medium.com/thrive-global/ikigai-the-japanese-secret-to-a-long-and-happy-life-might-just-help-you-live-a-more-fulfilling-9871d01992b7)
+
+# February 7, 2021 
+- "The best Founders we see at NFX know when to rethink the assumptions that they and everybody else have made about an area, technology, or market. This unlocks breakthrough thinking in order to make the seemingly impossible, possible." via [Anti-Patterns of 10x Thinking](https://www.nfx.com/post/anti-patterns-of-10x-thinking/?utm_medium=email&_hsmi=109515401&utm_content=109515401&utm_source=hs_email)
+
+## Questions
+- What are potential systems to increase the spread of information? Better than the internet? 
+- How can we share information more efficiently? How can we increase the quality of information? What are all the forms of information? Has this evolved over time? Or have we just created the technological capacity to quantify this information?
+
+# February 4, 2021
+- What is going to act as the base infrastructure and protocols for the metaverse?
+	- we are already fragmenting the metaverse in web3.0. 
+	- is it going to start with gaming platforms? or can we take the employment route? 
+	- what about the cryptocurrencies of each platform. Is there going to be a single accepted currency? A tool or protocol that will easily process the transaction of different currencies...
+	- build an operating system? decentralized? 
+
+> “Doubt what you know, be curious about what you don’t, and update your views based on new data.”
 
 # January 25, 2021
 
@@ -315,6 +361,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 10, 2020
 -  “Busyness” Isn’t a Badge of Honor, it’s a Sign of Weakness
+- [How to Avoid the Busy Trap (and Other Misuses of Your Time)](https://tim.blog/2016/03/21/avoid-the-busy-trap/)
 	> Being busy is a form of mental laziness. -Tim Ferriss
 - For world-class performers, busyness and stress are the enemy. They’re a sign you’re off-track. It means you’ve been lazy and undisciplined, and have let too many unimportant tasks take you away from what really matters.
 - “Busyness and exhaustion should be your enemy. If you’re chronically stressed and up late working, you’re doing something wrong. Do less. But do what you do with complete, hard focus. Then when you’re done be done, and go enjoy the rest of your day.”
@@ -322,7 +369,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 9, 2020
 - Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
-- the Hindu [[Vedas]] teach that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
+- the Hindu [Vedas](https://en.wikipedia.org/wiki/Vedas) teach that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
 	- Nisbet argues that ancient people saw time as cyclical, and no idea has been more important to Western Civilization than the idea of progress. 
 	- Christian theology sees time as linear. It moves away from the Garden of Eden, and toward a day of judgement, justice, and the establishment of a divine, peace-filled kingdom. 
 - To Peter Thiel, short-term thinking is the essence of sin. Like The Bible, he advises us to make plans and sacrifice the present for the future. 
@@ -333,7 +380,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 - all objects are desirable when they belong to your neighbor. Society will push you towards competition, but you shouldn’t compete with your peers or depend on them for guidance.
 
-- Nobel Prize-winning physicist [[Richard Feynman[[ (1918–1988)
+- Nobel Prize-winning physicist [Richard Feynman[[ (1918–1988)](https://en.wikipedia.org/wiki/Richard_Feynman)
 	- expert for remembering what he learned
 	- consumption does not equal learning - our brains filter and forget most of what we consume - or we wouldn't be able to operate in the world. 
 	- A person who reads without pausing to think and reflect won’t remember nor apply anything they read.
@@ -354,13 +401,13 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 
 # November 3, 2020
 
-## Parkinson's Law
+## [Parkinson's Law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
 - Work expands so as to fill the time available for its completion.
 	- A New Zealand firm tested a 4-day workweek and found that it actually boosted productivity, creativity, and job satisfaction.
 	- In 2019, Microsoft Japan closed their offices every Friday, and saw a ~39% increase in YoY sales per employee.
 	- A 23-month study in Sweden found that nurses who worked a 6-hour workday had higher productivity levels and lower absentee rates than those with a longer workday
 
-## The Streisand Effect: try to remove something from the internet publicly, more people will view it.
+## [The Streisand Effect: try to remove something from the internet publicly, more people will view it.](https://en.wikipedia.org/wiki/Streisand_effect)
 
 - “Williams James knew that every man is “ready to be savage in some cause.” The distinction, he said, between good people and bad people is “the choice of the cause.”” (89)
 - “The essential trait of the successful man is not only perseverance but almost a perverse expectation of how difficult it is going to be. It is having redundancies on top of redundancies, so you can absorb the losses you eventually incur. One must not just steel one’s heart but also one’s spirit so that there is no such thing as an obstacle – just information. The earlier you spot and anticipate setbacks, the less demoralizing they will be. We want things to be easy. We want them to be clean. They rarely are.” (126)
@@ -428,7 +475,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
   - All of science is based on information passing through our consciousness but science hasn’t the foggiest idea what consciousness is, and it can’t explain the linkage between subatomic states and observation by conscious observers. 
   - Science describes life as a random occurrence in a dead universe but has no real understanding of how life began or why the universe appears to be exquisitely designed for the emergence of life.
 
-## Daniel Schmachtenberger
+## [Daniel Schmachtenberger](https://civilizationemerging.com/)
   - Maximum polarization on both political sides
 	  - ea. side believes if the other wins it will be the end of the republic of America
 	  - we believe what feels true and what those around us choose to believe 
@@ -485,16 +532,21 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
 
 <img src="/assets/20200804.5DS_1721.8688 x 4887.jpg"/>
 
+Colorado
+
 
 # July 18, 2020
 
 <img src="/assets/movingday.jpg"/>
+
+Just arrived in Arizona.
 
 
 # June 26, 2020
 
 <img src="/assets/brandonspiess.JPG"/>
 
+Asheville, North Carolina
 
 # April 23, 2019
 ## Creativity
@@ -543,7 +595,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 ## Thought
 - Lots of funding and talent flowing to e-learning/courses
-- Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning.
+- Is there a possibility big companies (Netflix, Amazon) are making people lazier, to the point where they are not so interested in learning?
 - There still exists a necessity to learn, acquire skills, etc to apply to careers. 
 
 # February 20, 2019
@@ -563,12 +615,6 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 - One of the hardest parts of running a business in knowing what to do and what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
 - Lack of knowledge or resources typically isn't the problem - it's just not knowing where to start. There's no shortage of information. 
-
-# January 17, 2019
-
-## Shower Thoughts 
-- Often when I am in the shower, I think about all the people who don't have warm showers or clean water. My life is dedicated to helping these people. I'm not so focused on getting myself a bigger or better shower as I am on helping the less fortunate attain the basic necessities. 
-- Imagine the impact this will have on the world i.e. global productivty, creativity, happines, etc. 
 
 # January 13, 2019
 
@@ -617,7 +663,6 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Find a need and focus on it - solve peoples problems. 
 - Travel often
 
-
 # September 15, 2018
 
 - Follow what excites you. 
@@ -630,7 +675,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 # September 11, 2018
 
-- Core components of making a dream come true: having a clear vision, making actionable goals, leveraging your connections, and getting out of your comfort zone to make that dream come true. 
+- Core components of making a dream come true: having a clear vision, making actionable goals, leveraging and building networks, and getting out of your comfort zone to make that dream come true. 
 - Take MASSIVE action.
 - Risks aren't that scary once you take them. 
 > "I am an old man and have known a great many troubles, but most of them never happened."- Mark Twain
@@ -640,7 +685,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 # September 4, 2018
 
-- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. I have these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day I just love the process.
+- While the ambition of changing the world and inspiring creators and everyday people to follow their dreams is an important driving force - I just love a challenge. Life is one big challenge to me. I’m in a competition with myself every single day. I do it to prove to myself that I can. I have these businesses and this vision for each of them and what I want to be able to accomplish with them and the people we want to impact, but at the end of the day just love the process.
 - My life is dedicated to teaching people how to create freedom and happiness and stability in their lives. Escape the status quo.
 
 
@@ -652,7 +697,6 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 # March 25, 2018
 
-- Qualify leads first - see if they are in the market for what you're selling. 
 - Your self worth doesn't come from what you earn, it comes from what you create. Create something - don't just own something. 
 - Always be who you are. Never give up your identity to fit into society. 
 - Stay crazy - it's the crazy ones who change the world. 
@@ -660,7 +704,6 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Find happiness inside you. Be at peace with yourself. 
 - Learn to navigate the gray. Life is full of black and white, new and different situations. It's ok to not know the answers, make the decision you think is best and feels right to you. This means you are growing.
 - Stay close to anything that makes you glad you are alive. 
-- If your motivations can't get you to work, let your worst nightmares motivate you. 
 
 # March 22, 2018
 
