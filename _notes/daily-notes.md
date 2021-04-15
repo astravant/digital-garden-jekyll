@@ -2,6 +2,67 @@
 title: Daily Notes
 ---
 
+# April 14, 2021 
+
+> All you should be doing is talking to customers and building stuff. 
+> What’s the least code with the most payoff?
+> Always think about adding one more zero to whatever you’re doing, but never think beyond that.
+> The future is already here—it’s just not very evenly distributed.
+
+- Early on take the smartest money you can get (ideally past founders/CEOs). 
+
+# April 12, 2021 
+
+- The highest level performers are very conscious of their time and energy bank accounts. Eliminate the drama, focus intensely on your daily goals and objectives. 
+
+
+
+# April 3, 2021
+
+## [How to Start a New Country](https://1729.com/how-to-start-a-new-country/)
+1) Build a community in the cloud
+2) Organize economy around remote work
+3) Enforce laws with smart contracts
+4) Practice in-person norms of civility
+5) Simulate architecture in VR
+6) Eventually, crowdfund territory - And materialize city into the real world
+
+> "game engines will be the primary way people will have interfaces with the Internet.” 
+- is this true? 
+
+# April 2, 2021 
+
+- You are being challenged for a reason. Without challenges or challengers we remain weak and incapable of accomplishing our destiny.
+- Be very careful what you attach your identity to - this is the ego at play. It wants to be attached to things (anything) to feel a sense of identity.
+
+# March 31, 2021
+
+[The Network State and Informational Politics](http://felix.openflows.com/pdf/004.pdf)
+
+
+# March 26, 2021
+
+- Focus on talent density, lead by inspiration not fear. 
+- When you feel like you are ahead, push harder - never celebrate early. 
+
+# March 25, 2021
+
+- find investors who are able to make yes/no decisions and move on - don't let yourself be strung along by firms. 
+- if you only have one point of contact a firm, a deal is much less likely to happen. 
+- Successful fundraising is largely a matter of momentum: it starts out very difficult, and then as commitments accumulate you eventually reach a tipping point where new investors start pitching you for the opportunity to participate.
+- Fundraising can be hugely distracting. Especially when it’s drawn out over a long time period, it can really take focus off of product development. Be conscious of this and don’t let it derail progress.
+
+- A meta trend I see coming to fruition in the coming years is this - everyone will become exponential entrepreneurs - creators. 
+- Thesis - human beings create, technology shortens the amount of time to turn an idea into reality - the ultimate embodiment of this is instant materialization of ideas in the physical realm.
+
+> Your brain dreams up your whole universe.
+
+# March 22, 2021
+
+**Solve For Local Before You Can Go Global:** If you want to change the world with your company, start by changing your local community. Then expand to your local city, then your country, and then when you have a global brand, you can work on tackling global issues.
+
+> “I don’t believe you should do what you’re passionate about; I believe you should be passionate about what you do. Waiting for passion to show up means waiting for fear to go away, and fear is never going to go away.”
+
 # March 15, 2021
 - The whole universe is a computer. A cosmic information processing machine. 
 
