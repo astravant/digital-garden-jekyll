@@ -33,7 +33,7 @@ title: Daily Notes
 # April 2, 2021 
 
 - You are being challenged for a reason. Without challenges or challengers we remain weak and incapable of accomplishing our destiny.
-- Be very careful what you attach your identity to - this is the ego at play. It wants to be attached to things (anything) to feel a sense of identity.
+- Be very careful of what you attach your identity to - this is the ego at play. It wants to be attached to things (anything) to feel a sense of identity.
 
 # March 31, 2021
 
@@ -43,7 +43,8 @@ title: Daily Notes
 # March 26, 2021
 
 - Focus on talent density, lead by inspiration not fear. 
-- When you feel like you are ahead, push harder - never celebrate early. 
+- When you feel like you are ahead, push harder - never celebrate early.
+> After a victory, sharpen your sword. 
 
 # March 25, 2021
 
@@ -52,7 +53,7 @@ title: Daily Notes
 - Successful fundraising is largely a matter of momentum: it starts out very difficult, and then as commitments accumulate you eventually reach a tipping point where new investors start pitching you for the opportunity to participate.
 - Fundraising can be hugely distracting. Especially when it’s drawn out over a long time period, it can really take focus off of product development. Be conscious of this and don’t let it derail progress.
 
-- A meta trend I see coming to fruition in the coming years is this - everyone will become exponential entrepreneurs - creators. 
+- A meta trend I see coming to fruition in the coming years is this - everyone will become exponential entrepreneurs and creators. 
 - Thesis - human beings create, technology shortens the amount of time to turn an idea into reality - the ultimate embodiment of this is instant materialization of ideas in the physical realm.
 
 > Your brain dreams up your whole universe.
@@ -70,11 +71,11 @@ title: Daily Notes
 
 The laws of physics are the algorithms. 
 
-> History is the story of information becoming aware of itself. 
+> History is the story of information becoming aware of itself. - James Gleick
 
 # February 18, 2021
 
-> Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society Is to be as advanced as possible.
+> Human civilization is based on our full intellectual record - and our record should be as advanced as possible if society is to be as advanced as possible.
 
 # February 12, 2021
 - Mission should not change; ideas can change, process can change - and these two should change. You should always be seeking to build a more effective and efficient machine for achieving the objectives of the organization.
