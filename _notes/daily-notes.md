@@ -7,9 +7,9 @@ title: Daily Notes
 > All you should be doing is talking to customers and building stuff. 
 > What’s the least code with the most payoff?
 > Always think about adding one more zero to whatever you’re doing, but never think beyond that.
-> The future is already here—it’s just not very evenly distributed.
+> The future is already here— it’s just not very evenly distributed.
 
-- Early on take the smartest money you can get (ideally past founders/CEOs). 
+- If you're raising capital, take the smartest money you can get (ideally past founders/CEOs). 
 
 # April 12, 2021 
 
