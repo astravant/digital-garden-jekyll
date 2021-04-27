@@ -4,10 +4,10 @@ title: Daily Notes
 
 # April 14, 2021 
 
-> All you should be doing is talking to customers and building stuff. 
-> What’s the least code with the most payoff?
-> Always think about adding one more zero to whatever you’re doing, but never think beyond that.
-> The future is already here— it’s just not very evenly distributed.
+- All you should be doing is talking to customers and building stuff. 
+- What’s the least code with the most payoff?
+- Always think about adding one more zero to whatever you’re doing, but rarely think beyond that.
+> The future is already here — it’s just not very evenly distributed.
 
 - If you're raising capital, take the smartest money you can get (ideally past founders/CEOs). 
 
@@ -48,7 +48,7 @@ title: Daily Notes
 
 # March 25, 2021
 
-- find investors who are able to make yes/no decisions and move on - don't let yourself be strung along by firms. 
+- Find investors who are able to make yes/no decisions and move on - don't let yourself be strung along by firms. 
 - if you only have one point of contact a firm, a deal is much less likely to happen. 
 - Successful fundraising is largely a matter of momentum: it starts out very difficult, and then as commitments accumulate you eventually reach a tipping point where new investors start pitching you for the opportunity to participate.
 - Fundraising can be hugely distracting. Especially when it’s drawn out over a long time period, it can really take focus off of product development. Be conscious of this and don’t let it derail progress.
@@ -206,8 +206,6 @@ The convergence of four primary elements:
 - Read often 
 - Relentless learning
 - Conversations with intelligent, high-level individuals 
-- Supplements, vitamins, nootropics
-- Sauna, cryo/cold plunge
 
 # December 18, 2020
 
@@ -355,7 +353,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 - But, I think back to [Elon's list](https://www.businessinsider.com.au/elon-musk-on-startalk-with-neil-degrasse-tyson-2015-4) of the 5 biggest areas he thinks will have the most impact on the future of humanity and he has been dedicating his life to these ideas every since. 
 	- he first postulated on these ideas when he was around 20, in college. 
 
-- Personally, I am very interested in the future of work/education, biotechnology, blockchain/decentralization, metaverse/virtual worlds, gameb, startups, and technology - it is likely the following decades of my life will consist of these things - via working in startups/solving problems that correlate to these ideas.
+- Personally, I am very interested in the future of work/education, biotechnology, blockchain/decentralization, metaverse/virtual worlds, gameb, startups, and technology - it is likely the following decades of my life will consist of these things - via working in startups/solving problems that correlate to these areas.
 
 - Technology and startups feel like they're moving so fast, but any important companies or products take 10+ years to build. 
 	- all big things start small, all good things take time. 
@@ -401,6 +399,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 19, 2020
 > Be in a hurry to learn, not in a hurry to get validation. — Evan Williams
+
 - All we have in this life is time and energy, it is up to us to choose how we would like to invest each of these. 
 
 # November 16, 2020
@@ -414,12 +413,13 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 # November 11, 2020
 
 ## Thoughts
-- we currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
+- We currently live in a Game A system - in this system you are objectively 'rewarded' for pursuing domination, wealth, control, power, market share (insert any Game A vector)
 - Also, competition and rivalry are innate to human biology - there is no reason to feel guilty for pursuing wealth and success 
 - *Let the spirtual guide the individual*
 - So much fear and doubt - resulting in procrastination - exists in my life because I am a proponent of decentralization and power to the people so I want to work on projects which insert these ideas and types of ventures at a societal scale
 - But, as I am learning, it is difficult in today's world to reach a critical mass of people with these ideas
 - So, is the interim answer to pursue Game A projects in the near term - accumulate capital and power i.e. a vehicle (connections, reputation, capital) and then use this platform/vehicle to pursue projects I am passionate about?
+- At what cost?
 	
 ## Work
 - work is SO fascinating to me 
@@ -441,7 +441,7 @@ Notes & Quotes via [Why the Future Doesn't Need Us](https://www.wired.com/2000/0
 
 # November 9, 2020
 - Trying to outcompete rivals leads to mediocre performance, so companies should avoid competition and seek to create value instead of beating rivals. 
-- the Hindu [Vedas](https://en.wikipedia.org/wiki/Vedas) teach that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
+- The Hindu [Vedas](https://en.wikipedia.org/wiki/Vedas) teach that the world spins along an endless cycle: creation, rise, decline, destruction, and rebirth. Even if the cycle repeats for millions of years, it will continue to spin forever. 
 	- Nisbet argues that ancient people saw time as cyclical, and no idea has been more important to Western Civilization than the idea of progress. 
 	- Christian theology sees time as linear. It moves away from the Garden of Eden, and toward a day of judgement, justice, and the establishment of a divine, peace-filled kingdom. 
 - To Peter Thiel, short-term thinking is the essence of sin. Like The Bible, he advises us to make plans and sacrifice the present for the future. 
@@ -479,7 +479,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 	- In 2019, Microsoft Japan closed their offices every Friday, and saw a ~39% increase in YoY sales per employee.
 	- A 23-month study in Sweden found that nurses who worked a 6-hour workday had higher productivity levels and lower absentee rates than those with a longer workday
 
-## [The Streisand Effect: try to remove something from the internet publicly, more people will view it.](https://en.wikipedia.org/wiki/Streisand_effect)
+### [The Streisand Effect: try to remove something from the internet publicly, more people will view it.](https://en.wikipedia.org/wiki/Streisand_effect)
 
 - “Williams James knew that every man is “ready to be savage in some cause.” The distinction, he said, between good people and bad people is “the choice of the cause.”” (89)
 - “The essential trait of the successful man is not only perseverance but almost a perverse expectation of how difficult it is going to be. It is having redundancies on top of redundancies, so you can absorb the losses you eventually incur. One must not just steel one’s heart but also one’s spirit so that there is no such thing as an obstacle – just information. The earlier you spot and anticipate setbacks, the less demoralizing they will be. We want things to be easy. We want them to be clean. They rarely are.” (126)
@@ -495,21 +495,21 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
 ## Frameworks for Entrepreneurs
 - Instead of making a to-do list, ask what is the one highest impact thing I could do today?
 - Prioritize the rest of your tasks based on impact and urgency
-- What’s the most important thing you can be working on right now
+- What is the most important thing you can be working on right now?
 
 - Set clear measurable goals that are both ambitious and realistic
 	- Then set your anti-goals, the things you don’t want to happen along the way
 	- Run quick calculations on what it will take to succeed, then spring into action
 
-- Be impatient with action and patient with results
+> Be impatient with action and patient with results.
 
 - Always take action when you make a decision, get 1 hour of momentum
-	- For instance, talk to a customer or send a cold email 
+	- For instance, talk to a customer or send a cold email.
 
 - Become a person that just does the work
 - amateurs focus on outcomes, professionals focus on the process and strategy
 - motivation is the result of process, not the cause. 
-- example; the most successful entrepreneurs are not focused on 'grinding' or 'hustling' they are just doing what they do - they are focused on the process
+- example; the most successful entrepreneurs are not focused on 'grinding' or 'hustling' they are just doing what they do - they are focused on the process. They have built systems which become routine. 
 
 - as a CEO, the ultimate goal is to build a strategic machine that successfully accomplishes the outcomes and objectives of the organization 
 	- recruiting 
@@ -580,7 +580,7 @@ Greatness is like chess. Chess player José Raúl Capablanca said: “To begin y
   - idea: As the next generation of consumers spend increasingly more of their lives in some form of a digital realm, 3D avatars will likely be everywhere.
   - idea: Avatars are the next medium of expression, and 3D allows you to effectively operate and command virtual beings.
 
-question: How big is the digital goods opportunity?
+Question: How big is the digital goods opportunity?
 idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B in avatar skins.
 
 # October 21, 2020
@@ -590,14 +590,14 @@ idea: I’m very bullish on digital goods. Take Fortnite: Last year, it sold $1B
   - reverse engineer your desires and motives to get at the root of what interests you and what you believe is important for the future of humanity. 
   - typically, we have a dozen or more motives driving our actions, we are personally only aware of half of them, and we only publicly share 2-3 of them. 
 - Accept that the path for you will likely be dissimilar to the path pursued by the masses
-- The path being followed by the masses is not always the right path, find the right path for you. 
+- The path being followed by the masses is likely not the right path for you. 
 - Success is at the intersection of your strenghts, a topic that excites you, and self belief. 
 - Compare yourself to where you were yesterday, not to where someone else is today. 
 
 - Question: do you build a personal brand, corporate brand, or neither? 
   - I do not intend to build a personal brand at the moment. 
   - However, I do believe it to be critical for certain discussions in society to take place.
-  - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I thinnk urgently need to be spread. 
+  - If I see a lack of dialouge around a positive future, transparency, decentralization, etc. it may make sense to build a brand to share messages that I believe urgently need to be spread. 
   
 
 # August 5, 2020
@@ -622,17 +622,17 @@ Asheville, North Carolina
 
 # April 23, 2019
 ## Creativity
-Take ideas from one place and applying them to another. Even if it's totally different context. Study things that may seem totally unrelated to what you're currently doing. 
+Take ideas from one place and apply them to another. Even if it's totally different context. Study things that may seem totally unrelated to what you're currently doing. 
 
-It's easier to be a critic than a creator. 
+> It's easier to be a critic than a creator. 
 
-Creativity isn't about creating something totally new. It's about refashioning something that already exists. So - to be more creative read a lot of things in different contexts 
+Creativity isn't about creating something totally new. It's about refashioning something that already exists. So - to be more creative read a lot of things in different contexts. 
 
 What valuable market is no one going after?
 
 # April 15, 2019
 
-### We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're gonna make money, if you're gonna go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and used to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
+#### We're simply the by-product of millions of years of evolution and adaption. A few millennia ago, we didn't have the level of self-awareness and consciousness that we have today. The same stresses about life, work, finances, health, relationships. Life, as we know it today, has grown so complex. We're worried about our careers, how we're going to make money, if you're going to go out to lunch today, that guy that just cut you off on the highway, checking Snapchat or Instagram - these things didn't exist. We're so overwhelmed. We're just conditioned and accustomed to it. It's business as usual. What if we returned to the simplicity. The planet functions on cycles, as do societies. What will it take, to get that simplicity back? 
 
 # April 12, 2019
 
@@ -640,13 +640,13 @@ What valuable market is no one going after?
 > Your dream dies tomorrow. 
 - The planet has existed for 13.8 billion years. We have the opportunity to change what life has been like forever. The greatest change since the beginning of mankind. Creating something that has not existed in billions of years. 
 - Focus on something bigger. Focus on changing the universe forever. All of humanity as we know it. 
-Make a better Google. Everything is searchable. Education content. Email. Articles. Everything on one platform. Social media. 
+- Make a better Google. Everything is searchable. Education content. Email. Articles. Everything on one platform. Social media. 
 
 
 # April 5, 2019
 
 ## Scaling Ideas
-- Everything around us was once an idea in someone's head, but they're not the one who carries it out once the idea gets going.
+- Everything around us was once an idea in someone's head, but they're not the one who carry it out once the idea gets going.
 - An idea, once implemented, takes on a life of its own. 
 - This is why it is so important to share your ideas with the world. Because of what happens once they are out in the world.
 
@@ -673,7 +673,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 # February 20, 2019
 
 ## Idea
-- "Content autopilot" - a software that creates your email list or social media content and send it out to your subscribers and followers automatically. 
+- "Content autopilot" - a software that creates your email list or social media content and sends it out to your subscribers and followers automatically. 
 - People do not pay you because you have likes and followers, they pay because you serve them and provide value. 
 - What if social media didn't exist? 
 
@@ -686,7 +686,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 # February 4, 2019
 
 - One of the hardest parts of running a business in knowing what to do and what to focus on -- having clarity. Starting a new business or new endeavor can be overwhelming. 
-- Lack of knowledge or resources typically isn't the problem - it's just not knowing where to start. There's no shortage of information. 
+- Lack of knowledge or resources typically isn't the problem - it's lack of understanding of where to start. There's no shortage of information. 
 
 # January 13, 2019
 
@@ -727,7 +727,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - People don't value what they don't fight for.
 1. Love is everything 
 2. The secret to living is giving (to give you have to keep growing)
-3.  When your suffering you're obsessing about yourself, how you have less or lost love or a material thing. All suffering is about self, so shift your view and start appreciating things outside yourself. 
+3. When you're suffering you're obsessing about yourself, how you have less or lost love or a material thing. All suffering is about self, so shift your view and start appreciating things outside yourself. 
 > Some people are praying for the things you take for granted. 
 
 - Manage expectations 
@@ -752,7 +752,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Risks aren't that scary once you take them. 
 > "I am an old man and have known a great many troubles, but most of them never happened."- Mark Twain
 - We as humans fear the unknown and the "not yet." Live simply and be happy in the moment.
-- What we most fear doing is what we most need to do. Your success in life is determined by the number of uncomfortable situations your willing to put yourself into. Do one thing every day that you fear. 
+- What we most fear doing is what we most need to do. Your success in life is determined by the number of uncomfortable situations you're willing to put yourself into. Do one thing every day that you fear. 
 - 99% of people in the world are convinced that they are incapable of achieving great things so they aim for mediocre. The level of competition is thus fiercest for realistic goals. It is easier to raise $1M than $100K, it is easier to pick up the one 10 in a bar than the five 8s. If you're insecure, the rest of the world is too.
 
 # September 4, 2018
@@ -765,7 +765,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 
 ## Thoughts 
 
-- Few will act for the many, but many will act for the one. (Find one person or your family that you’re doing it for) 
+- Few will act for the many, but many will act for the one. (Find one person or your family that you’re doing it for.) 
 
 # March 25, 2018
 
@@ -774,7 +774,7 @@ Make a better Google. Everything is searchable. Education content. Email. Articl
 - Stay crazy - it's the crazy ones who change the world. 
 - Intellectual curiosity - never stop learning. 
 - Find happiness inside you. Be at peace with yourself. 
-- Learn to navigate the gray. Life is full of black and white, new and different situations. It's ok to not know the answers, make the decision you think is best and feels right to you. This means you are growing.
+- Learn to navigate the gray. Life is rarely black and white, it's full of 'gray area' i.e. new and different situations. It's ok to not know the answers, make the decision you think is best and feels right to you. This means you are growing.
 - Stay close to anything that makes you glad you are alive. 
 
 # March 22, 2018
