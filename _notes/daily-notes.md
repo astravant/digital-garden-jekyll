@@ -2,6 +2,87 @@
 title: Daily Notes
 ---
 
+# May 18, 2021 
+
+### On News
+- Quality content is at an all time low - news is not popular based on substance. 
+- the speed of delivery has increased - due to technology 
+- the cost to produce content has dropped significantly 
+- incentives for creating quality content is misaligned. News orgs answer to the advertisers, and are therefore incentivized to create click-bait content that get the most clicks. 
+
+- most of what we read online is pointless - it is not going to help you become a better person or make better decisions. 
+- It is important to be very conscious of the information you are feeding your brain.
+
+> A wealth of information creates a poverty of attention. We are drowning in information and starving for wisdom. 
+
+> Your focus is your reality. What we focus on we attract. Where focus goes, energy flows. 
+
+# May 17, 2021
+
+> It feels like we’re going through life in a state of “continuous partial attention.” We’re there but not really there. Unaware of where we place our attention. Unconscious about how we live.
+
+
+# May 16, 2021 
+
+- The key to getting what you want out of life is to identify how the world works and align yourself accordingly.
+
+> The best thing a human being can do is to help another human being know more. - Charlie Munger 
+
+> If existing institutions knew what they were doing we would not have startups. 
+
+- Success is not final, wealth is not final. These are mindsets, not destinations.
+
+# May 14, 2021 
+
+> Just as eating cow-meat doesn’t turn you into a cow, studying philosophy doesn’t make you wiser.
+
+# May 12, 2021 
+
+- For the perishable, every additional day in its life translates into a shorter additional life expectancy. For the nonperishable, every additional day implies a longer life expectancy.
+**So the longer a technology lives, the longer it is expected to live**
+
+# May 1, 2021
+
+### Quotes via [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/)
+
+> Bad things can happen fast, but almost all good things happen slowly.
+> We are not bodies that temporarily have souls. We are souls that temporarily have bodies.
+> The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
+> Train employees well enough they could get another job, but treat them well enough so they never want to.
+> Being wise means having more questions than answers.
+> When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”
+> Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.
+> Money is overrated. Truly new things rarely need an abundance of money. If that was so, billionaires would have a monopoly on inventing new things, and they don’t. Instead almost all breakthroughs are made by those who lack money, because they are forced to rely on their passion, persistence and ingenuity to figure out new ways. Being poor is an advantage in innovation.
+> Finite games are played to win or lose. Infinite games are played to keep the game going. Seek out infinite games because they yield infinite rewards.
+
+
+# April 27, 2021
+
+- By necessity, founders are rooted in the here and now required to launch a new startup BUT the great founders are also obsessed with what will endure 10, 20, 50 years from now.
+- What Can You Do Now, That Will Pay Off In 20 Years Or More? 
+
+> One of my goals is to listen to the technology, to listen to it, watching how people actually use the technology, versus what it was invented for. You can see how outlaws and kids use it. - Kevin Kelly
+
+
+# April 19, 2021
+
+> You can’t build a reputation on what you are going to do.
+
+>  “Decentralized governance and the ability to handle business differently is the ultimate game-changer” – Mark Cuban
+
+- New technology takes longer to adapt than most people think. Streaming was created in 1995 and 26 years later in 2021, people still watch traditional television.
+
+
+# April 16, 2021 
+
+Every time a notification, a phone call, a YouTube video distracts us, our neural networks get rewired. We become more distractible. Less able to focus. More addicted.
+
+
+# April 15, 2021 
+
+> Moral preferences are purely subjective. And change with time, culture and lots of other things.
+- Thinking that one of us, trivial collections of molecules that bump against each other, discovered an unshakable fundamental moral law of the universe seems naive.
+
 # April 14, 2021 
 
 - All you should be doing is talking to customers and building stuff. 
@@ -14,7 +95,6 @@ title: Daily Notes
 # April 12, 2021 
 
 - The highest level performers are very conscious of their time and energy bank accounts. Eliminate the drama, focus intensely on your daily goals and objectives. 
-
 
 
 # April 3, 2021
@@ -55,6 +135,7 @@ title: Daily Notes
 
 - A meta trend I see coming to fruition in the coming years is this - everyone will become exponential entrepreneurs and creators. 
 - Thesis - human beings create, technology shortens the amount of time to turn an idea into reality - the ultimate embodiment of this is instant materialization of ideas in the physical realm.
+- As more people wake up to exponential tech, fewer people are going to sleep as traditional employees.
 
 > Your brain dreams up your whole universe.
 
