@@ -9,11 +9,11 @@ title: Daily Notes
 
 ### On News
 - Quality content is at an all time low - news is not popular based on substance. 
-- the speed of delivery has increased - due to technology 
-- the cost to produce content has dropped significantly 
-- incentives for creating quality content is misaligned. News orgs answer to the advertisers, and are therefore incentivized to create click-bait content that get the most clicks. 
+- The speed of delivery has increased - due to technology 
+- The cost to produce content has dropped significantly 
+- Incentives for creating quality content is misaligned. News orgs answer to the advertisers, and are therefore incentivized to create click-bait content that get the most clicks. 
 
-- most of what we read online is pointless - it is not going to help you become a better person or make better decisions. 
+- Most of what we read online is pointless - it is not going to help you become a better person or make better decisions. 
 - It is important to be very conscious of the information you are feeding your brain.
 
 > A wealth of information creates a poverty of attention. We are drowning in information and starving for wisdom. 
@@ -48,12 +48,10 @@ title: Daily Notes
 
 ### Quotes via [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/)
 
-> Bad things can happen fast, but almost all good things happen slowly.
--
-> We are not bodies that temporarily have souls. We are souls that temporarily have bodies.
--
-> The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
--
+> - Bad things can happen fast, but almost all good things happen slowly.
+> - We are not bodies that temporarily have souls. We are souls that temporarily have bodies.
+> - The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
+---
 > Train employees well enough they could get another job, but treat them well enough so they never want to.
 -
 > Being wise means having more questions than answers.
