@@ -22,7 +22,7 @@ Additional reading on digital gardens:
 
 > The phrase "digital garden" is a metaphor for thinking about writing and creating that focuses less on the resulting "showpiece" and more on the process, care, and craft it takes to get there.
 
-Through writing you have the ability to make a massive impact on learning, reflecting, peace of mind, and worldview expansion. The objective of this digital garden is a multi-year project to curate, connect, and explore knowledge.
+The objective of this digital garden is a multi-year project to curate, connect, and explore knowledge. It also provides a way to reflect on past experiences while learning new things at the same time.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Here are the most recent <span style="font-weight: bold">[[daily notes]]</span> to get a feel for the space.
@@ -39,6 +39,7 @@ Through writing you have the ability to make a massive impact on learning, refle
 
 # [[Books]]
 
+- [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies/dp/0465096840/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by César Hidalgo
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?crid=2IDMYTLNEJ71D&dchild=1&keywords=the+innovators+walter+isaacson&qid=1615951892&s=books&sprefix=the+innov%2Cstripbooks%2C249&sr=1-1) by Walter Isaacson
 - [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=sr_1_1?crid=28IVIRI77PSAG&dchild=1&keywords=the+beginning+of+infinity&qid=1606881119&sprefix=the+begi%2Caps%2C224&sr=8-1) by David Deutsch
 - [Creating a World Without Poverty](https://www.amazon.com/Creating-World-Without-Poverty-Capitalism/dp/1586486675/ref=sr_1_1?crid=1YJBEULRHNQH1&dchild=1&keywords=creating+a+world+without+poverty&qid=1606881162&sprefix=creating+a+world+wi%2Caps%2C211&sr=8-1) by Muhammad Yunus
