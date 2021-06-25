@@ -18,6 +18,6 @@ You will find observations and essays on startups, technology, philosophy, produ
 
 > You can't use up creativity. The more you use the more you have.
 
-Get started by checking out [[books]], [[Mental Models]], or [[Daily Notes]]
+Get started by checking out [[Books]], [[Mental Models]], or [[Daily Notes]]
 
 Go forth, have fun, and learn new something every day! ✌️
