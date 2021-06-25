@@ -61,7 +61,7 @@ title: Daily Notes
 > - Finite games are played to win or lose. Infinite games are played to keep the game going. Seek out infinite games because they yield infinite rewards.
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
-  <span style="font-weight: bold">BEST OF APRIL 2021</span>
+  <span style="font-weight: bold">NOTES FROM APRIL '21</span>
  </p>
 # April 27, 2021
 
@@ -123,7 +123,7 @@ Every time a notification, a phone call, a YouTube video distracts us, our neura
 - Be very careful of what you attach your identity to - this is the ego at play. It wants to be attached to things (anything) to feel a sense of identity.
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
-  <span style="font-weight: bold">BEST OF MARCH 2021</span>
+  <span style="font-weight: bold">NOTES FROM MARCH '21</span>
  </p>
 
 # March 31, 2021
