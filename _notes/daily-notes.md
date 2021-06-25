@@ -2,7 +2,7 @@
 title: Daily Notes
 ---
 
- <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 2px;">
+ <p style="padding: 2em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">MAY 2021</span>
  </p>
 # May 18, 2021 
