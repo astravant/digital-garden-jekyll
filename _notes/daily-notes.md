@@ -53,11 +53,9 @@ title: Daily Notes
 > - The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
 > - Train employees well enough they could get another job, but treat them well enough so they never want to.
 > - Being wise means having more questions than answers.
--
 > - When a child asks an endless string of “why?” questions, the smartest reply is, “I don’t know, what do you think?”
 > - Show me your calendar and I will tell you your priorities. Tell me who your friends are, and I’ll tell you where you’re going.
 > - Money is overrated. Truly new things rarely need an abundance of money. If that was so, billionaires would have a monopoly on inventing new things, and they don’t. Instead almost all breakthroughs are made by those who lack money, because they are forced to rely on their passion, persistence and ingenuity to figure out new ways. Being poor is an advantage in innovation.
--
 > - Finite games are played to win or lose. Infinite games are played to keep the game going. Seek out infinite games because they yield infinite rewards.
 
 <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
