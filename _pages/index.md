@@ -25,7 +25,7 @@ Additional reading on digital gardens:
 The objective of this digital garden is a multi-year project to curate, connect, and explore knowledge. It also provides a way to reflect on past experiences while learning new things at the same time.
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Here are the most recent <span style="font-weight: bold">[[daily notes]]</span> to get a feel for the space.
+  Here are the most recent <span style="font-weight: bold">[[Daily Notes]]</span> to get a feel for the space.
  </p>
 
 # Recent Reading
