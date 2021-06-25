@@ -5,7 +5,7 @@ title: Daily Notes
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM MAY '21</span>
  </p>
-# May 18, 2021 
+## May 18, 2021 
 
 ### On News
 - Quality content is at an all time low - news is not popular based on substance. 
