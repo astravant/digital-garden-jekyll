@@ -3,7 +3,7 @@ title: Daily Notes
 ---
 
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
-  <span style="font-weight: bold">BEST OF MAY 2021</span>
+  <span style="font-weight: bold">NOTES FROM MAY '21</span>
  </p>
 # May 18, 2021 
 
