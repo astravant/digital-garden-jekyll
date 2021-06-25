@@ -20,12 +20,12 @@ title: Daily Notes
 
 > Your focus is your reality. What we focus on we attract. Where focus goes, energy flows. 
 
-# May 17, 2021
+## May 17, 2021
 
 > It feels like we’re going through life in a state of “continuous partial attention.” We’re there but not really there. Unaware of where we place our attention. Unconscious about how we live.
 
 
-# May 16, 2021 
+## May 16, 2021 
 
 - The key to getting what you want out of life is to identify how the world works and align yourself accordingly.
 
@@ -35,16 +35,16 @@ title: Daily Notes
 
 - Success is not final, wealth is not final. These are mindsets, not destinations.
 
-# May 14, 2021 
+## May 14, 2021 
 
 > Just as eating cow-meat doesn’t turn you into a cow, studying philosophy doesn’t make you wiser.
 
-# May 12, 2021 
+## May 12, 2021 
 
 - For the perishable, every additional day in its life translates into a shorter additional life expectancy. For the nonperishable, every additional day implies a longer life expectancy.
 **So the longer a technology lives, the longer it is expected to live**
 
-# May 1, 2021
+## May 1, 2021
 
 ### Quotes via [99 Additional Bits of Unsolicited Advice](https://kk.org/thetechnium/)
 
