@@ -1,6 +1,7 @@
+---
 Title: A Computational Universe
+---
 
-# A Computational Universe
 
 In the beginning God created information. Information existed, but it was without form – it had no awareness or understanding of its own existence. But that all changed when information became aware of itself. Information started to generate complexity on many scales: from molecules to cells to organs; from individual organisms up through economies, politics, cultures, and civilizations themselves—and out even further into an astronomically large computational universe made up of billions upon billions of galaxies with trillions upon trillions of stars.
 
