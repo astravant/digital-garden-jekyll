@@ -1,7 +1,9 @@
 ---
 title: Daily Notes
 ---
-
+<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
+  MAY 2021
+ </p>
 # May 18, 2021 
 
 ### On News
