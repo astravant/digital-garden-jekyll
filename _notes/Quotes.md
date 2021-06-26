@@ -18,7 +18,7 @@ Title: Quotes
 
 > Life is a succession of lessons which must be lived to be understood.
 
-> “People do not seem to realize that their opinion of the world is also a confession of character.” Your judgment, opinions, and words say more about you than the person or thing you are talking about.
+> “People do not seem to realize that their opinion of the world is also a confession of character.” Your judgment, opinions, and words say a lot about you.
 
 > A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
 
