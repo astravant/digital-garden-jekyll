@@ -1,4 +1,6 @@
+---
 Title: The 2ND Law
+---
 
 Entropy is always lurking. It is the second law of thermodynamics after all, and one that seems inherently inevitable - the second you order something into being, it starts to fall apart. We are constantly fighting against entropy with everything from human striving to life itself.
 
