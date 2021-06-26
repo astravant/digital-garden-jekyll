@@ -62,6 +62,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Future]]
   - [[Philosophy]]
   - [[Productivity]]
+  - [[The Universal Algorithm]]
 
 
 <style>
