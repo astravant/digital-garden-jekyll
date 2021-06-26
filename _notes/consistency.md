@@ -1,7 +1,8 @@
 ---
-title: Consistency is key
+title: Consistency is Key
 ---
 
 Show up. Do the work. Be consistent.
 
-Then go take a look at the [first note](/your-first-note){: .internal-link}.
+Do something every day to make progress towards your goals.
+
