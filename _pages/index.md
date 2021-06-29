@@ -58,6 +58,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Ideas]]
   - [[A Computational Universe]]
   - [[Mental Models]]
+  - [[Metaverse]]
   - [[Startups]]
   - [[Future]]
   - [[Philosophy]]
