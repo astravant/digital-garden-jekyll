@@ -2,7 +2,7 @@
 title: Hip-Hop Philosophy
 --- 
 
-Advice from a culture that symbolizes authentic expression, rebellion, and a constant challenge to the status quo. 
+Advice from a culture that expresses authenticity, rebellion, and a constant challenge to the status quo. 
 
 > “We can’t change the world until we change ourselves.” – Biggie Smalls
 
