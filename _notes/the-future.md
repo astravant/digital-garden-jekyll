@@ -6,7 +6,11 @@ The future is going to be different than the present, but it will be rooted in t
 
 ## Longevity 
 
+[Lifespan: Why We Age―and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 
+> It s a seemingly undeniable truth that aging is inevitable. But what if everything we ve been taught to believe about aging is wrong? What if we could choose our lifespan?
+
+[FOUNTAIN OF YOUTH?](https://www.diamandis.com/blog/fountain-of-youth)
 
 
 ## Space
@@ -16,7 +20,9 @@ The future is going to be different than the present, but it will be rooted in t
 
 ## Education
 
+[DREAMSCAPE: 21ST CENTURY EDUCATION](https://www.diamandis.com/blog/science-age-reversal-0)
 
+> Dreamscape Learn, a Los Angeles-based company that merges the power of Hollywood storytelling and immersive VR technology to disrupt how we teach and learn.
 
 
 
@@ -55,6 +61,10 @@ The future is going to be different than the present, but it will be rooted in t
 
 [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos) by Packy McCormick
 
+> DAOs, or Decentralized Autonomous Organizations
+
+> DAOs sit a level above NFTs -- DAOs can own NFTs and create NFTs, plus do a whole lot of other non-NFT things -- and have more transformative potential than NFTs. 
+
 [Blockchain Can Wrest the Internet From Corporations' Grasp](https://www.wired.com/story/how-blockchain-can-wrest-the-internet-from-corporations/)
 
 > It's time to restore the open source, community-led ethos of the original internet—with crypto.
@@ -68,6 +78,10 @@ The future is going to be different than the present, but it will be rooted in t
 ## Metaverse
 
 [The Value Chain of the Open Metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse) by Packy McCormick
+
+[Power to the Person - The Creator Economy, NFTs, and the Rise of the Solo Corporation](https://www.notboring.co/p/power-to-the-person)
+
+[The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
 
 
 
