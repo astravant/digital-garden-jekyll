@@ -7,7 +7,10 @@ The future is going to be different than the present, but it will be rooted in t
 ## Longevity 
 
 
+
+
 ## Space
+
 
 
 
@@ -15,7 +18,11 @@ The future is going to be different than the present, but it will be rooted in t
 
 
 
+
+
 ## Future of Work
+
+
 
 
 
@@ -23,8 +30,19 @@ The future is going to be different than the present, but it will be rooted in t
 
 
 
+
+
 ## Artifical Intelligence/Machine Learning
 
+
+
+
+## DeFi/Blockchain
+
+
+
+
+## Metaverse
 
 
 
