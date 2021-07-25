@@ -13,17 +13,11 @@ The future is going to be different than the present, but it will be rooted in t
 [FOUNTAIN OF YOUTH?](https://www.diamandis.com/blog/fountain-of-youth)
 
 
-## Space
-
-
-
-
 ## Education
 
 [DREAMSCAPE: 21ST CENTURY EDUCATION](https://www.diamandis.com/blog/science-age-reversal-0)
 
 > Dreamscape Learn, a Los Angeles-based company that merges the power of Hollywood storytelling and immersive VR technology to disrupt how we teach and learn.
-
 
 
 ## Future of Work
@@ -44,20 +38,16 @@ The future is going to be different than the present, but it will be rooted in t
 
 - Ronald Coase wrote about the firm’s ability to minimize transaction costs in 1937
 
-## Mental Health
-
-
-
-
-
-## Artifical Intelligence/Machine Learning
-
-
-
 
 ## Blockchain/DeFi
 
 [Own the Internet - A Bull Case for Ethereum](https://www.notboring.co/p/own-the-internet) by Packy McCormick
+
+> It’s one of the most fascinating and compelling assets in the world, but its story is obfuscated by complexity and the specter of crypto. 
+
+> Bitcoin is easy. It’s digital gold. It’s a Store of Value (SoV). It just kind of sits there. 
+
+> Ethereum is so much more than a cryptocurrency. It’s a “world computer,” and the “value layer” of the internet. It lets people build apps and products with money baked into the code. 
 
 [The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos) by Packy McCormick
 
@@ -79,7 +69,15 @@ The future is going to be different than the present, but it will be rooted in t
 
 [The Value Chain of the Open Metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse) by Packy McCormick
 
+> If one central company gains control of this, they will become more powerful than any government and be a god on Earth. - Tim Sweeney, CEO, Epic Games
+
+> “Cryptonetworks combine the best features of the first two internet eras: community-governed, decentralized networks with capabilities that will eventually exceed those of the most advanced centralized services.” - Chris Dixon
+
 [Power to the Person - The Creator Economy, NFTs, and the Rise of the Solo Corporation](https://www.notboring.co/p/power-to-the-person)
+
+> The Creator Economy and NFTs are massive human potential unlocks. Even if certain assets are in a short-term bubble, we are on an inexorable march towards individuals mattering more than institutions. 
+
+> We’re on the precipice of a creative explosion, fueled by putting power, and the ability to generate wealth, in the hands of the people. 
 
 [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
 
