@@ -16,6 +16,10 @@ title: Buckmister Fuller
 
 [Grunch of Giants](https://www.amazon.com/Grunch-of-Giants-audiobook/dp/B0743KZ1PM/ref=sr_1_7?crid=2IV7M8VML0IKO&dchild=1&keywords=buckminster+fuller&qid=1627244574&sprefix=buckmi%2Caps%2C231&sr=8-7)
 
+<img src="/assets/Dymaxion-2gv6uxp.jpg"/>
+
+
+<img src="/assets/houses080623_560b.jpg"/>
 
 > I do know that technologically humanity now has the opportunity, for the first time in its history, to operate our planet in such a manner as to support and accommodate all humanity at a substantially more advanced standard of living than any humans have ever experienced.
 
