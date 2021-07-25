@@ -22,7 +22,9 @@ The future is going to be different than the present, but it will be rooted in t
 
 ## Future of Work
 
+[We're Never Going Back - The future of work is remote, and companies don't really have a choice.](https://www.notboring.co/p/were-never-going-back) by Packy McCormick
 
+[The Slow Death of the Firm](https://thecontrol.co/the-slow-death-of-the-firm-1bd6cc81286b) by Nick Tomaino
 
 
 
@@ -37,12 +39,19 @@ The future is going to be different than the present, but it will be rooted in t
 
 
 
-## DeFi/Blockchain
+## Blockchain/DeFi
 
+[Own the Internet - A Bull Case for Ethereum](https://www.notboring.co/p/own-the-internet) by Packy McCormick
+
+[The Dao of DAOs](https://www.notboring.co/p/the-dao-of-daos) by Packy McCormick
+
+[Blockchain Can Wrest the Internet From Corporations' Grasp](https://www.wired.com/story/how-blockchain-can-wrest-the-internet-from-corporations/)
 
 
 
 ## Metaverse
+
+[The Value Chain of the Open Metaverse](https://www.notboring.co/p/the-value-chain-of-the-open-metaverse) by Packy McCormick
 
 
 
