@@ -8,8 +8,6 @@ Advice from a culture that symbolizes authentic expression, rebellion, and a con
 
 > “Remember one thing Through every dark night, there’s a bright day after that. So no matter how hard it get, stick your chest out. Keep your head up, and handle it.” – Tupac
 
-> Why do we try so hard to fit in, when we were born to stand out?” – Machine Gun Kelly
-
 > “If I woke up tomorrow and didn’t have a dolla, as long as I have my heart, I can get it all over.” – Wale
 
 > “Life without dreaming is a life without meaning.” – Wale
@@ -36,12 +34,6 @@ Advice from a culture that symbolizes authentic expression, rebellion, and a con
 
 > “Strength isn’t always shown in what you can hold on to, sometimes it’s shown in what you can let go of.” – Drake
 
-> “Life can always change, you have to adjust.” – Drake
-
-> “The moment I stop having fun with it, I’ll be done with it.” – Drake
-
-> “If you can’t do what you imagine, then what is imagination to you?” – Kid Cudi
-
 > “The sooner you realize things will never be the same, the sooner you can move on.” – Kid Cudi
 
 > “Love me or hate me, I stay hate free. They say we learn from mistakes well that’s why they mistake me.” – Lil Wayne
@@ -50,17 +42,11 @@ Advice from a culture that symbolizes authentic expression, rebellion, and a con
 
 > “Some of y’all are not where you want to be in life. Yet you party every weekend. What exactly are you celebrating?” – T.I
 
-> “God will take you through hell, just to get to heaven.” – T.I
-
 > “Never mind what hater’s say, ignore ’em till they fade away.” – T.I
-
-> “I’m going to always rise above the doubt that may exist about me.” – T.I
 
 > “How many people you bless, is how you measure success.” – Rick Ross
 
 > “Remind yourself, nobody’s built like you. You design yourself.” – Jay Z
-
-> “Be more concerned with your character than your reputation. Because your character is what you really are. While your reputation is what others merely think you are.” – Jay Z
 
 > “Don’t let the sadness from the past and the fear of the future ruin the happiness of the present.” – Wiz Khalifa
 
