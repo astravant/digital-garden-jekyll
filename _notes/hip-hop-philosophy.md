@@ -2,8 +2,6 @@
 title: Hip-Hop Philosophy
 --- 
 
-Advice from a culture that expresses authenticity, rebellion, and a constant challenge to the status quo. 
-
 > “We can’t change the world until we change ourselves.” – Biggie Smalls
 
 > “Remember one thing Through every dark night, there’s a bright day after that. So no matter how hard it get, stick your chest out. Keep your head up, and handle it.” – Tupac
