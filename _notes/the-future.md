@@ -30,6 +30,13 @@ The future is going to be different than the present, but it will be rooted in t
 
 [The Slow Death of the Firm](https://thecontrol.co/the-slow-death-of-the-firm-1bd6cc81286b) by Nick Tomaino
 
+> Most people think of Bitcoin as a digital asset, but it can be thought of as something more general than that: a decentralized organization.
+
+> This new organizational structure has resulted in [more than $500B](https://coinmarketcap.com/currencies/bitcoin/) worth of value creation (today the total market value of Bitcoin is now larger than the market capitalization of Goldman Sachs).
+
+[The Nature of the Firm](https://onlinelibrary.wiley.com/doi/full/10.1111/j.1468-0335.1937.tb00002.x) by Ronald Coase
+
+- Ronald Coase wrote about the firm’s ability to minimize transaction costs in 1937
 
 ## Mental Health
 
