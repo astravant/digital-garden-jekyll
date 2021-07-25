@@ -8,17 +8,17 @@ Title: Quotes
 
 > People are more complicated than the masks they wear in public. - Robert Greene
 
-> Stay close to anything that makes you glad you are alive. If there comes a time when you can no longer have proximity to that thing, do not wallow in regret or wish it never happened - regret nothing that once made you smile. 
+> Stay close to anything that makes you glad you are alive. If there comes a time when you can no longer have proximity to that thing, do not wallow in regret or wish it never happened. We must regret nothing that once made us smile. 
 
 > We remember the times of suffering the most, not the wins. Negativity lingers. Positivity fades away quickly. 
 
 > You could be good today. But instead you choose tomorrow. - Marcus Aurelius
 
-> We are never tired, so long as we can see far enough.
+> We are never tired, so long as we can see far enough. - Ralph Waldo Emerson
 
 > Life is a succession of lessons which must be lived to be understood.
 
-> “People do not seem to realize that their opinion of the world is also a confession of character.” Your judgment, opinions, and words say a lot about you.
+> People do not seem to realize that their opinion of the world is also a confession of character. Your judgment, opinions, and words say a lot about you.
 
 > A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. - Confucius
 
