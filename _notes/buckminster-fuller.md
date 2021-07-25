@@ -8,7 +8,7 @@ title: Buckmister Fuller
 
 [Pattern-Thinking](https://www.amazon.com/R-Buckminster-Fuller-Pattern-Thinking/dp/3037786094/ref=sr_1_2?crid=2IV7M8VML0IKO&dchild=1&keywords=buckminster+fuller&qid=1627244574&sprefix=buckmi%2Caps%2C231&sr=8-2)
 
-[Operating Manual for Spaceship Earth](Operating Manual for Spaceship Earth)
+[Operating Manual for Spaceship Earth](https://www.amazon.com/Operating-Manual-Spaceship-Buckminster-Fuller/dp/3037781262/ref=sr_1_1?crid=3OYDWQIB5ZWQS&dchild=1&keywords=operating+manual+for+spaceship+earth+by+r.+buckminster+fuller&qid=1627244794&sprefix=operating+manual%2Caudible%2C214&sr=8-1)
 
 [Critical Path](https://www.amazon.com/Critical-Path-Kiyoshi-Kuromiya/dp/0312174918/ref=sr_1_4?crid=2IV7M8VML0IKO&dchild=1&keywords=buckminster+fuller&qid=1627244574&sprefix=buckmi%2Caps%2C231&sr=8-4)
 
