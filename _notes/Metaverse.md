@@ -9,6 +9,6 @@ _Ever since Neal Stephenson’s 1992 science fiction novel, Snow Crash, geeks, d
 
 [The Metaverse](https://www.matthewball.vc/the-metaverse) by Matthew Ball
 
-[Metaverse Powerpoint](https://projector.com/story/9e144b85-e2bb-4ba4-89f2-08bf5d4994dc?scene=43cef51)
-
 [Tencent’s Dreams](https://www.notboring.co/p/tencents-dreams) by Packy McCormick
+
+[Metaverse Powerpoint](https://projector.com/story/9e144b85-e2bb-4ba4-89f2-08bf5d4994dc?scene=43cef51)
