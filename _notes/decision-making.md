@@ -34,6 +34,21 @@ title: Decision Making
 
 > Seek out information from someone as close to the source as possible, because they’ve earned their knowledge and have an understanding that you don’t.
 
+[Don’t Follow Your Gut (and What to Do Instead)](https://www.nirandfar.com/follow-your-gut/)
+
+> My conviction that the omnipresent advice to “follow your gut” was hollow grew stronger as I came of age during the dotcom boom and bust and the fraudulent accounting scandals around the turn of the millennium. 
+
+> A related problem is the optimism bias, our tendency to look at life through rose-colored glasses.
+
+> CEOs or entrepreneur-founders — are especially likely to be excessively optimistic about their success, which harms their ability to make effective strategic plans.
+
+[Common Probability Errors to Avoid](https://fs.blog/category/decision-making/page/3/)
+
+> If you’re trying to gain a rapid understanding of a new area, one of the most important things you can do is to identify common mistakes people make, then avoid them.
+
+> Amateurs tend to focus on seeking brilliance. Professionals often know that it’s far more effective to avoid stupidity. Side-stepping typical blunders is the simplest way to get ahead of the crowd.
+
+> We’re all pattern-matching creatures. We find randomness hard to process and look for meaning in chaotic events.
 
 
 
