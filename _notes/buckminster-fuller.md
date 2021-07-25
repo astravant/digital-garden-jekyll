@@ -2,9 +2,7 @@
 title: Buckmister Fuller
 ---
 
-### Introduction
-
-[Buckminster Fuller was a 20th century inventor and visionary who did not limit himself to one field but worked as a 'comprehensive anticipatory design scientist' to solve global problems. Fuller's ideas and work continue to influence new generations of designers, architects, scientists and artists working to create a sustainable planet.](https://www.bfi.org/).
+[Buckminster Fuller](https://www.bfi.org/) was a 20th century inventor and visionary who did not limit himself to one field but worked as a 'comprehensive anticipatory design scientist' to solve global problems. Fuller's ideas and work continue to influence new generations of designers, architects, scientists and artists working to create a sustainable planet.
 
 - Fuller was an apostle of [comprehensive thinking](http://encyclopedia.uia.org/en/strategy/208262) - thinking about the whole not just the parts. 
 
