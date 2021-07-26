@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi, I'm Brandon.
+Hi, Brandon Spiess here.
 
 I work in technology. I focus on innovation around artifical intelligence, blockchain, and the future of work.
 
