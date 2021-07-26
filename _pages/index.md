@@ -39,6 +39,10 @@ The objective of this digital garden is a multi-year project to curate, connect,
 
 # [[Books]]
 
+ <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 6px;">
+  <span style="font-weight: bold">[[The Sovereign Individual]] by James Dale Davidson and William Rees-Mogg [[The 50th Law]] by Robert Greene [[Life After Google]] by George Gilder</span>
+ </p>
+
 - [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies/dp/0465096840/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by César Hidalgo
 - [The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution](https://www.amazon.com/Innovators-Hackers-Geniuses-Created-Revolution/dp/1476708703/ref=sr_1_1?crid=2IDMYTLNEJ71D&dchild=1&keywords=the+innovators+walter+isaacson&qid=1615951892&s=books&sprefix=the+innov%2Cstripbooks%2C249&sr=1-1) by Walter Isaacson
 - [The Beginning of Infinity](https://www.amazon.com/Beginning-Infinity-Explanations-Transform-World/dp/0143121359/ref=sr_1_1?crid=28IVIRI77PSAG&dchild=1&keywords=the+beginning+of+infinity&qid=1606881119&sprefix=the+begi%2Caps%2C224&sr=8-1) by David Deutsch
