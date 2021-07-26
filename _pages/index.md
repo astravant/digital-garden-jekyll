@@ -40,7 +40,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
 # [[Books]]
 
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 6px;">
-  <span style="font-weight: bold">[[The Sovereign Individual]] by James Dale Davidson and William Rees-Mogg [[The 50th Law]] by Robert Greene [[Life After Google]] by George Gilder</span>
+  <span style="font-weight: bold">[[The Sovereign Individual]] Summary [[The 50th Law]] Summary [[Life After Google]] Summary</span>
  </p>
 
 - [Why Information Grows: The Evolution of Order, from Atoms to Economies](https://www.amazon.com/Why-Information-Grows-Evolution-Economies/dp/0465096840/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=) by César Hidalgo
