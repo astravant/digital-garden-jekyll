@@ -25,8 +25,6 @@ title: Daily Notes
 
 - A lot of upward mobility exists in Asia at the moment due to factory jobs and manufacturing. As we begin to shift to 3D printing, workers in Asia and India may lose their jobs leading to greater inequality. 
 
-- A lot of upward mobility exists in Asia at the moment due to factory jobs and manufacturing. As we begin to shift to 3D printing, workers in Asia and India may lose their jobs leading to greater inequality. 
-
 ## June 9, 2021 
 
 - Over time, the rewards for most creative work will become governed by power laws. A smaller group of winners will collect a higher share of the rewards. And over time, algorithms will play a bigger role in determining those winners, shifting power away from old power brokers and hitmakers.
