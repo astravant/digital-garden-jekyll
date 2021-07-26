@@ -51,7 +51,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
 # Garden Index
  
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <span style="font-weight: bold">[[The Future]] [[Crypto Resources]] [[Metaverse]] [[Decision Making]] [[Creativity]]</span>
+  <span style="font-weight: bold">[[The Future]] [[Crypto Resources]] [[Metaverse]] [[Decision Making]] [[Creativity]] [[Startups]]</span>
  </p>
 
   - [[Books]]
@@ -61,7 +61,6 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Ideas]]
   - [[A Computational Universe]]
   - [[Mental Models]]
-  - [[Startups]]
   - [[Philosophy]]
   - [[Productivity]]
 
