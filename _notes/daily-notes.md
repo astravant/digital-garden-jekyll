@@ -1,6 +1,106 @@
 ---
 title: Daily Notes
 ---
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM JUNE '21</span>
+ </p>
+
+## June 28, 2021
+
+- The most important civilization-saving missions are not in the realms of material technology and "innovation", or markets and finance, but in the areas of social technology: new (and better) patterns of society conducive to production, law, governance, and moral order.
+
+
+## June 27, 2021 
+
+- Ancient Athens had 300,000 residents. Renaissance Florence had 80,000. Countless forgotten cities were far larger. The greatness of a city has little to do with its population, and everything to do with its populace.
+
+## June 20, 2021 
+
+> 2020 was the first year of the 21st century. We have been talking about telecommuting and WFH since the 90s, now we have had a wake up call. - Peter Thiel 
+
+## June 19, 2021 
+
+> In life, and in business, the person with the fewest number of blind spots wins. 
+> The quality of your thinking depends on the mental models in your head. 
+
+- A lot of upward mobility exists in Asia at the moment due to factory jobs and manufacturing. As we begin to shift to 3D printing, workers in Asia and India may lose their jobs leading to greater inequality. 
+
+- A lot of upward mobility exists in Asia at the moment due to factory jobs and manufacturing. As we begin to shift to 3D printing, workers in Asia and India may lose their jobs leading to greater inequality. 
+
+## June 9, 2021 
+
+- Over time, the rewards for most creative work will become governed by power laws. A smaller group of winners will collect a higher share of the rewards. And over time, algorithms will play a bigger role in determining those winners, shifting power away from old power brokers and hitmakers.
+
+- In such a scenario, every career becomes a pyramid scheme. If you can attract enough people to buy your tokens, and they can attract enough people to buy even more tokens, the whole enterprise will continue to increase in value. This increase will happen regardless of how much revenue you can generate from _doing your actual job_. And it will continue until you run out of stories to tell, or until you run out of people to tell stories to.
+
+## June 8, 2021 
+
+[Your Life is Driven by Network Effects](https://www.nfx.com/post/your-life-network-effects/)
+
+> We all think we make these choices ourselves. It certainly feels like we’re in full control. But it turns out that our choices — both in our startups and in our lives — are more constrained than we think.
+
+> The unseen hand in them all is the networks that surround us and the powerful math they exert on us.
+
+- Optimize your network to be around ambitious people pursuing the types of projects that you want to be involved in. 
+- Dunbar's Law - meant to be in groups of 150
+- Humans are nodes on a network - nodes exchange more information when in proximity with one another. 
+
+Most things that happen in society are multi-turn and repetitive. These are called [**preferential attachment processes**](https://en.wikipedia.org/wiki/Preferential_attachment) which happen when something (such as money, status, fame, punishment) is distributed based on how much is already possessed. Most social processes are preferential attachment. For example, if two Founders each tweet out the same great idea at the same time, the one with more status will be given credit for the idea.
+
+What’s fascinating is that this is because of math. Nodes that are “ahead” get picked more often by the other nodes because they are ahead and thus offer the nodes choosing them less friction and more benefit. When this gets repeated many times, it systematically directs more resources to the nodes that already have relatively more.
+
+## June 7, 2021 
+
+The AI revolution will generate enough wealth for everyone to have what they need, if we as a society manage it responsibly.
+
+The best way to increase societal wealth is to decrease the cost of goods.
+
+## June 4, 2021 
+
+Write down everything that needs to be accomplished - get to the root. It is easier to look at it brick by brick vs. the whole wall - or you will never start as you'll overwhelmed 
+
+1) Break down the individual tasks into as much detail as possible by reverse engineering from the ultimate vision/goal/what you are looking to accomplish.
+2) Next to each task, write a conservative time estimate in number of hours it will take to complete the task. 
+3) Now, you make a day by day plan to check each of the tasks off. 
+4) In my experience, actually writing down the facts of what needs to get done and how much time it will take is a much better way of tackling big projects because it brings clarity to where there was overwhelm.
+
+## June 3, 2021 
+
+### David Lykken 
+
+The mind consists of genetically-determined hardware and experientially-determined software. The hardware components are not constructed by genes working either individually or additively but, rather, by groups of genes working sequentially and configurally. Each human mating produces at least some gene configurations that are unique, having never occurred previously. This is why, among other things, human genius often occurs uniquely in an otherwise undistinguished family line.
+
+The quality of one's intellectual productions is a function of the product of talent (e.g., intelligence) times mental energy. Although there are many and varied tests for assessing intelligence, psychologists have not as yet even attempted to construct a measure of individual differences in mental energy.
+
+
+### Myers' Law of Self-Perception
+
+Most people see themselves as better than average.
+
+Nine in ten managers rate themselves as superior to their average peer. Nine in ten college professors rated themselves as superior to their average colleague. And six in ten high school seniors rate their "ability to get along with others" as in the top 10 percent. Most drivers–even most drivers who have been hospitalized after accidents–believe themselves more skilled than the average driver. "The one thing that unites all human beings, regardless of age, gender, religion, economic status or ethnic background," observes Dave Barry, "is that deep down inside, we all believe that we are above average drivers." Excess humility is an uncommon flaw.
+
+When you have the beginnings of an idea about something, the worst thing to do is to consult "the literature" before you get started to work on it. You are sure to assimilate your potentially original idea to something that is already out there.
+
+## June 1, 2021 
+
+O'Donnell's Law of History
+
+There are no true stories.
+
+> Story-tellers are in the iron grip of readers' expectations. Stories have beginnings, middles, ends, heroes, villains, clarity, resolution. Life has none of those things, so any story gets to be a story (especially if it's a good story) by edging away from what really happened (which we don't know in anywhere near enough detail anyway) towards what makes a good story. Historians exist to wrestle with the story temptation the way Laocoon wrestled with the snakes. But at the end of the day, to tell anybody anything, you'll probably tell a story, so then be sure to follow:
+
+Luther's Law
+
+Pecca fortiter.
+
+> Literally, "Sin bravely." His idea was that you're going to make a mess of things anyway, so you might as well do so boldly, confidently, with a little energy and imagination, rather than timidly, fearfully, half-heartedly.
+
+John Allen Paulos
+_professor of mathematics at Temple University_
+[Paulos' Law of Coincidence]
+
+People often note some unlikely conjunction of events and marvel at the coincidence. Could anything be more wonderfully improbable, they wonder. The answer is Yes. The most amazing coincidence of all would be the complete absence of coincidence.
+
 
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM MAY '21</span>
