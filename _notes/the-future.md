@@ -38,6 +38,14 @@ The future is going to be different than the present, but it will be rooted in t
 
 - Ronald Coase wrote about the firm’s ability to minimize transaction costs in 1937
 
+[The Blockchain Man](https://www.ribbonfarm.com/2017/10/10/the-blockchain-man/)
+
+> Blockchains are the hard technology that will take the lifestyle business and free agent economy across the chasm, making it mainstream in the way The Organization Man was mainstream beginning in the 1950s and 60s.
+
+> Instead of a paycheck, The Blockchain Man’s income will be a large number of micropayments from past projects. The tokens from different projects will appreciate or depreciate based on the success of the project (and perhaps pay dividends).
+
+> The emergence of blockchains will force The Organization Man to reckon with his own agency. How he deals with that reckoning will be the primary determinant of his life outcomes.
+
 
 ## Blockchain/DeFi
 
