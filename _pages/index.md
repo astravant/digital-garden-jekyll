@@ -51,13 +51,9 @@ The objective of this digital garden is a multi-year project to curate, connect,
 - [The End of Power](https://www.amazon.com/End-Power-Boardrooms-Battlefields-Churches/dp/0465065694/ref=sr_1_1?dchild=1&keywords=the+end+of+power&qid=1609530007&sr=8-1) by Moisés Naím
 - [Life After Google](https://www.amazon.com/Life-After-Google-Blockchain-Economy/dp/1621575764/ref=sr_1_1?crid=2ED89QCOK825T&dchild=1&keywords=life+after+google&qid=1609530109&sprefix=life+after+google%2Caps%2C220&sr=8-1) by George Gilder
 - [The Information: A History, A Theory, A Flood](https://www.amazon.com/Information-History-Theory-Flood/dp/1400096235) by James Gleick
-
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Here are the most recent <span style="font-weight: bold">[[Daily Notes]]</span> to get a feel for the space.
- </p>
  
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  <span style="font-weight: bold">[[Decision Making]]</span>
+  <span style="font-weight: bold">[[Decision Making]]    [[Crypto Resources]]    [[Metaverse]]</span>
  </p>
 
 # Garden Index
