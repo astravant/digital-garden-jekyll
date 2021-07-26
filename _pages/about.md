@@ -4,7 +4,7 @@ title: About
 permalink: /about
 ---
 
-Hi, my name is Brandon.
+Hi, I'm Brandon.
 
 I work in technology. I focus on innovation around artifical intelligence, blockchain, and the future of work.
 
