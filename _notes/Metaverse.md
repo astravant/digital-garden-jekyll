@@ -11,7 +11,7 @@ _Ever since Neal Stephenson’s 1992 science fiction novel, Snow Crash, geeks, d
 
 [The Metaverse](https://www.matthewball.vc/the-metaverse) by Matthew Ball
 
->> ‘The Metaverse is an expansive network of persistent, real-time rendered 3D worlds and simulations that support continuity of identity, objects, history, payments, and entitlements, and can be experienced synchronously by an effectively unlimited number of users, each with an individual sense of presence’.
+> ‘The Metaverse is an expansive network of persistent, real-time rendered 3D worlds and simulations that support continuity of identity, objects, history, payments, and entitlements, and can be experienced synchronously by an effectively unlimited number of users, each with an individual sense of presence’.
 
 [Tencent’s Dreams](https://www.notboring.co/p/tencents-dreams) by Packy McCormick
 
