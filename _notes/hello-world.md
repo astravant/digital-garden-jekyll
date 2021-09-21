@@ -12,8 +12,8 @@ I have been doing some thinking about how long-form content should be written. T
 
 You will find observations and essays on startups, technology, philosophy, productivity, and more. 
 
-> You can't use up creativity. The more you use the more you have.
+> Look for how things flow, ask how they can flow better.
 
-Get started by checking out [[Books]], [[Mental Models]], or [[Daily Notes]]
+Get started by checking out [[Books]], [[Mental Models]], [[Daily Notes]], [[The Future]], [[Startups]]
 
 Go forth, have fun, and learn new something every day! ✌️
