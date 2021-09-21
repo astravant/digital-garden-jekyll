@@ -16,4 +16,8 @@ You will find observations and essays on startups, technology, philosophy, produ
 
 Get started by checking out [[Books]], [[Mental Models]], [[Daily Notes]], [[The Future]], [[Startups]]
 
+ <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 6px;">
+  <span style="font-weight: bold">[[Books]], [[Mental Models]], [[Daily Notes]], [[The Future]], [[Startups]]</span>
+ </p>
+
 Go forth, have fun, and learn new something every day! ✌️
