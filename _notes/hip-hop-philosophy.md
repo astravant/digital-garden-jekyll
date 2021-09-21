@@ -1,6 +1,7 @@
 ---
 title: Hip-Hop Philosophy
 --- 
+See [[Quotes]]
 
 > “We can’t change the world until we change ourselves.” – Biggie Smalls
 
