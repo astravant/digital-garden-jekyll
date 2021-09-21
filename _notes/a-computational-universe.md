@@ -17,3 +17,5 @@ Information is something like magic. It determines how well economies grow or fa
 One thing is clear: nature rewards systems that maximize the flow of information. 
 
 But…
+
+[[The Second Law]]
