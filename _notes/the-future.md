@@ -2,7 +2,9 @@
 title: The Future
 ---
 
-The future is going to be different than the present, but it will be rooted in the present. I look at the future as a set of potential paths, each with a different probability of becoming reality based on our actions as a society and individually. Below are the industries, trends, and topics I am most excited about in the coming decades.
+The future is going to be different than the present, but it will be rooted in the present. I look at the future as a set of potential outcomes, each with a different probability of becoming true based on our actions as a society and individually. Below are the industries, trends, and topics I am most excited about in the coming decades.
+
+For more, check out [[Startups]]
 
 ## Longevity 
 
@@ -10,14 +12,24 @@ The future is going to be different than the present, but it will be rooted in t
 
 > It s a seemingly undeniable truth that aging is inevitable. But what if everything we ve been taught to believe about aging is wrong? What if we could choose our lifespan?
 
+[Longevity VC](https://www.longevity.vc/)
+
+[Precision Biosciences](https://precisionbiosciences.com/)
+
+[Loyal](https://loyalfordogs.com/)
+
 [FOUNTAIN OF YOUTH?](https://www.diamandis.com/blog/fountain-of-youth)
 
 
 ## Education
 
-[DREAMSCAPE: 21ST CENTURY EDUCATION](https://www.diamandis.com/blog/science-age-reversal-0)
+> A small increase in the learning output of education systems across the globe would have an enormous impact on human productivity and economic growth.
 
-> Dreamscape Learn, a Los Angeles-based company that merges the power of Hollywood storytelling and immersive VR technology to disrupt how we teach and learn.
+[Outschool](https://outschool.com/)
+
+[Skillshare](https://www.skillshare.com/?via=header)
+
+[edX](https://www.edx.org/)
 
 
 ## Future of Work
@@ -25,8 +37,6 @@ The future is going to be different than the present, but it will be rooted in t
 [We're Never Going Back - The future of work is remote, and companies don't really have a choice.](https://www.notboring.co/p/were-never-going-back) by Packy McCormick
 
 > Choosing to Return to the way things were is like choosing not to adopt software a decade or two ago. It’s an option, but one that will doom a company to mediocrity. 
-
-> COVID triggered a rush to remote work, and proponents quickly prophesied a remote-only future in which everyone lives and works from anywhere -- the Peak of Inflated Expectations. 
 
 [The Slow Death of the Firm](https://thecontrol.co/the-slow-death-of-the-firm-1bd6cc81286b) by Nick Tomaino
 
@@ -71,7 +81,7 @@ The future is going to be different than the present, but it will be rooted in t
 
 > As companies like Google, Twitter, and Facebook built software and services that surpassed the capabilities of open protocols, users migrated to these more sophisticated platforms.
 
-
+See [[Crypto Resources]]
 
 ## Metaverse
 
@@ -88,6 +98,8 @@ The future is going to be different than the present, but it will be rooted in t
 > We’re on the precipice of a creative explosion, fueled by putting power, and the ability to generate wealth, in the hands of the people. 
 
 [The Metaverse Primer](https://www.matthewball.vc/the-metaverse-primer)
+
+See [[Metaverse]]
 
 
 
