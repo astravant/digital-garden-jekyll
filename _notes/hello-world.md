@@ -14,8 +14,6 @@ You will find observations and essays on startups, technology, philosophy, produ
 
 > Look for how things flow, ask how they can flow better.
 
-Get started by checking out [[Books]], [[Mental Models]], [[Daily Notes]], [[The Future]], [[Startups]]
-
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 6px;">
   <span style="font-weight: bold">[[Books]], [[Mental Models]], [[Daily Notes]], [[The Future]], [[Startups]]</span>
  </p>
