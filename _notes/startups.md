@@ -6,6 +6,14 @@ title: Startups
 
 > The very best startup ideas tend to have three things in common: they're something the founders themselves want, that they themselves can build, and that few others realize are worth doing. Microsoft, Apple, Yahoo, Google, and Facebook all began this way.
 
+[What Should You Do with Your Life? Directions and Advice](https://guzey.com/personal/what-should-you-do-with-your-life/)
+
+## Project Ideas
+
+[Y Combinator’s Requests for Startups](https://www.ycombinator.com/rfs/)
+
+[Daniel Gross’s Markets To Build In (2019)](https://pioneer.app/blog/2019-frontier-markets/)
+
 [Startups]
 - The world needs this, it won’t happen any time soon if we don’t do it, and we are much less likely to succeed if you don’t join.
 - Let yourself become more ambitious—figure out the most interesting version of where what you’re working on could go.  Then talk about that big vision and work relentlessly towards it, but always have a reasonable next step. You don’t want step one to be incorporating the company and step two to be going to Mars.
