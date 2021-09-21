@@ -116,6 +116,8 @@ See [[Metaverse]]
 
 #### I believe in a world increasingly run by artificial intelligence, blockchain, IoT, etc. the governance structures and bureaucracies that serve us today will begin to fail to provide the services their populations need, so we will see the spread of startup cities and cloud communities. 
 
+See [[The Sovereign Individual]]
+
 
 
 
