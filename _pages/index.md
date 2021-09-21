@@ -62,11 +62,17 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Daily Notes]]
   - [[GameB]]
   - [[Health]]
+  - [[Hip-Hop Philosophy]]
   - [[Ideas]]
   - [[A Computational Universe]]
   - [[Mental Models]]
   - [[Philosophy]]
   - [[Productivity]]
+  - [[DAO's]]
+  - [[Decentralized Autonomous Organizations (DAO)]]
+  - [[Creativity]]
+  - [[Dataism]]
+  - [[The Data Religion]]
 
 
 <style>
