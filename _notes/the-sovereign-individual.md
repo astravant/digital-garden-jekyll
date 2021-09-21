@@ -21,3 +21,5 @@ The information age will require new mechanisms of representation and government
 Major transitions always involve a cultural revolution, and usually entail clashes between adherents of the old and new values.
 
 The technology of the information age will make it easier to create assets outside the reach of typical forms of coercion, government or otherwise.
+
+See [[Books]] 
