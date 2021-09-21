@@ -2,6 +2,8 @@
 Title: Quotes
 ---
 
+See [[Hip-Hop Philosophy]]
+
 > Stop letting people who do so little for you control so much of your emotions, energy, and feelings.
 
 > We are good lawyers for our own mistakes, and good judges for the mistakes of others - Paulo Coelho
