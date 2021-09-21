@@ -50,6 +50,8 @@ title: Crypto Resources
 
 [Mental models for understanding tokens](https://a16z.com/2018/01/21/mental-models-tokens-crypto-trends/) by Nick Tomaino and Chris Dixon
 
+See [[Metaverse]] [[The Future]]
+
 
 
 
