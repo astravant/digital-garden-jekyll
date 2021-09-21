@@ -21,8 +21,8 @@ _Ever since Neal Stephenson’s 1992 science fiction novel, Snow Crash, geeks, d
 
 > The Metaverse isn’t science fiction, it’s an inevitability even if its final form is unclear. 
 
-[Metaverse Powerpoint](https://projector.com/story/9e144b85-e2bb-4ba4-89f2-08bf5d4994dc?scene=43cef51)
-
 [Power to the Person - The Creator Economy, NFTs, and the Rise of the Solo Corporation](https://www.notboring.co/p/power-to-the-person) by Packy McCormick
 
 > The Creator Economy and NFTs are massive human potential unlocks. Even if certain assets are in a short-term bubble, we are on an inexorable march towards individuals mattering more than institutions. 
+
+[Metaverse Powerpoint](https://projector.com/story/9e144b85-e2bb-4ba4-89f2-08bf5d4994dc?scene=43cef51)
