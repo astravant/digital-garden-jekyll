@@ -23,3 +23,5 @@ We can realize a **new age of online security with technologies such as bitcoin 
 As Caltech’s Carver Mead tells us, “listen to the technology and find out what it is telling us.”
 
 “As Peter Drucker said, “It is less important to do things right than to do the right things” Effectiveness is more important than efficiency.
+
+See [[Books]]
