@@ -9,3 +9,5 @@ In a physical system, information is the opposite of entropy, as it involves unc
 We have more power than ever before over information--that is what makes this moment so exciting. But with great power comes great responsibility: without a careful eye towards how all these changes will affect society at every level from individuals up through regional economies down to microbes; there might be unintended negative consequences that cannot just be undone.
 
 So… 
+
+[[What's Next]]
