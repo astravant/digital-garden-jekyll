@@ -19,3 +19,5 @@ title: The 50th Law by Robert Greene
 “Understand: the real secret, the real formula for power in this world, lies in accepting the ugly reality that learning requires a process, and this in turn demands patience and the ability to endure drudge work.”
 
 “PEOPLE FOLLOW THOSE WHO KNOW WHERE THEY ARE GOING, SO CULTIVATE AN AIR OF CERTAINTY AND BOLDNESS.”
+
+See [[Books]]
