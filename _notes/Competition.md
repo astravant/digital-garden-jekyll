@@ -15,5 +15,3 @@ Title: On Competition
 > "Companies need to go beyond competing. To seize new profit and growth opportunities, they also need to create blue oceans."
 
 > "Effective blue ocean strategy should be about risk minimization and not risk taking."
-
-> "Just as blue oceans can often be created by looking across alternative industries,so can they be unlocked by looking across strategic groups. The term refers to a group of companies within an industry that pursue a similar strategy. In most industries, the fundamental strategic differences among industry players are captured by a small number of strategic groups."
