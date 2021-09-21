@@ -8,9 +8,11 @@ For more, check out [[Startups]]
 
 ## Longevity 
 
+> We spend billions of dollars a year researching diseases of aging like cancer and heart disease, but only a tiny fraction of that researching aging itself.
+
 [Lifespan: Why We Age―and Why We Don't Have To](https://www.amazon.com/Lifespan-Why-Age_and-Dont-Have/dp/1501191977)
 
-> It s a seemingly undeniable truth that aging is inevitable. But what if everything we ve been taught to believe about aging is wrong? What if we could choose our lifespan?
+> It s a seemingly undeniable truth that aging is inevitable. But what if everything we've been taught to believe about aging is wrong? What if we could choose our lifespan?
 
 [Longevity VC](https://www.longevity.vc/)
 
@@ -20,10 +22,17 @@ For more, check out [[Startups]]
 
 [FOUNTAIN OF YOUTH?](https://www.diamandis.com/blog/fountain-of-youth)
 
+[David Sinclair](https://twitter.com/davidasinclair?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor): Harvard professor working to extend healthy life for people & other animals. Author of Lifespan.
+
+[Laura Deming](https://twitter.com/LauraDeming): VC at [Longevity VC](https://www.longevity.vc/)
+
+[Celine Halioua](https://twitter.com/celinehalioua): Founder and CEO at [Loyal](https://loyalfordogs.com/)
 
 ## Education
 
 > A small increase in the learning output of education systems across the globe would have an enormous impact on human productivity and economic growth.
+
+> Human brain power is vastly underutilized on this planet because most people lack access to a good education. Strong education systems lead to greater social mobility, better workers, better citizens, and more and better startups.
 
 [Outschool](https://outschool.com/)
 
@@ -33,6 +42,8 @@ For more, check out [[Startups]]
 
 
 ## Future of Work
+
+> Jobs will look very different 25 years from now.
 
 [We're Never Going Back - The future of work is remote, and companies don't really have a choice.](https://www.notboring.co/p/were-never-going-back) by Packy McCormick
 
@@ -101,6 +112,9 @@ See [[Crypto Resources]]
 
 See [[Metaverse]]
 
+## Startup Cities
+
+I believe in a world increasingly run by artificial intelligence, blockchain, IoT, etc. the governance structures and bureaucracies that serve us today will begin to fail to provide the services their populations need, so we will see the spread of startup cities and cloud communities. 
 
 
 
