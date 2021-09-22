@@ -5,6 +5,9 @@ title: Shower Thoughts
 The current political and economic structures are not organic systems. These are human-made and designed. What does this mean? If we are unhappy with the current structures and paradigms of society, we have the ability to change them. 
 ---
 
+Those who display externally are suffering internally.
+--- 
+
 The path you are meant to take you will have to fight to create. The stars will never align. We have this idea that one day we’re going to do it, follow the dream, start the business - that never happens. Start now - momentum will carry you.
 ---
 
