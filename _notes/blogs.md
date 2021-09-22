@@ -1,6 +1,7 @@
 ---
 title: Blog List
 --- 
+## [Big Think](https://bigthink.com/)
 
 ## [Sam Altman](https://blog.samaltman.com/)
 
