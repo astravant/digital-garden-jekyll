@@ -74,6 +74,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Mental Models]]
   - [[Philosophy]]
   - [[Productivity]]
+  - [[Shower Thoughts]]
   - [[The Data Religion]]
 
 
