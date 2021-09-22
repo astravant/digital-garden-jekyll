@@ -8,6 +8,9 @@ The path you are meant to take you will have to fight to create. The stars will 
 The current political and economic structures are not organic systems. These are human-made and designed. What does this mean? If we are unhappy with the current structures and paradigms of society, we have the ability to change them. 
 ---
 
+Save the world and savor the world. 
+---
+
 People are more complicated than the masks they wear in public. Never be distracted by people’s glamorous portraits of themselves and their lives. We show to the world what we want people to see, only sometimes does it come crashing down - this is when we see who people really are. 
 ---
 
@@ -15,13 +18,17 @@ Everything is a vehicle - political, economic, and social structures, technologi
 ---
 
 Universal Operating System: a singular operating system for all of humanity to understand each other.
-===
+---
  
 It is clear to me, the universe rewards systems which maximize the spread of information, ideas, and knowledge. 
-===
+---
  
 All wealth is the product of knowledge, the more knowledge which exists in a society, the more successful it will be
-=== 
+---
  
 We are always pursuing labels, constructs of the human mind.
-===
+---
+
+Ask people and ask the world how you can help, the most successful people are the most selfless, they view life from the lens of others, not themselves. Instead of asking, “how can I make a million dollars?” ask “how can I help other people make millions of dollars, how can I build a platform that helps other people make millions?” How can you serve? Life is about growth and giving. 
+--- 
+
