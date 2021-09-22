@@ -15,3 +15,4 @@ title: Philosophy
 
 > “The only thing I know is that I know nothing” – Socrates
 
+See [[Hip-Hop Philosophy]]
