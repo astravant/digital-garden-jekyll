@@ -26,7 +26,7 @@ Universal Operating System: a singular operating system for all of humanity to u
 It is clear, the universe rewards systems which maximize the spread of information, ideas, and knowledge. 
 ---
  
-All wealth is the product of knowledge, the more knowledge which exists in a society, the more successful it will be
+All wealth is the product of knowledge, the more knowledge which exists in a society, the more successful it will be.
 ---
  
 We are always pursuing labels, constructs of the human mind.
