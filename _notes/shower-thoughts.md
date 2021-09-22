@@ -8,7 +8,7 @@ The current political and economic structures are not organic systems. These are
 Those who display externally are suffering internally.
 --- 
 
-The path you are meant to take you will have to fight to create. The stars will never align. We have this idea that one day we’re going to do it, follow the dream, start the business - that never happens. Start now - momentum will carry you.
+The path you are meant to take you will have to fight to create. The stars will never align. We have this idea that one day we’re going to do it, follow the dream, start the business - that never happens. Start now.
 ---
 
 Save the world and savor the world. 
@@ -18,9 +18,6 @@ Are humans capable? Perhaps human intelligence is not capable of solving the mos
 ---
 
 People are more complicated than the masks they wear in public. Never be distracted by people’s glamorous portraits of themselves and their lives. We show to the world what we want people to see, only sometimes does it come crashing down - this is when we see who people really are. 
----
-
-Universal Operating System: a singular operating system for all of humanity to understand each other.
 ---
  
 It is clear, the universe rewards systems which maximize the spread of information, ideas, and knowledge. 
