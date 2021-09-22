@@ -12,6 +12,8 @@ title: Blog List
 
 ## [Edge](https://www.edge.org/)
 
+## [Kevin Kelly](https://kk.org/thetechnium/)
+
 ## [Vitalik Buterin's website](https://vitalik.ca/)
 
 ## [Patrick Collison](https://patrickcollison.com/)
