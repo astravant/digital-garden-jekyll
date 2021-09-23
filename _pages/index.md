@@ -71,6 +71,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
   - [[Health]]
   - [[Hip-Hop Philosophy]]
   - [[Ideas]]
+  - [[Life Advice]]
   - [[Mental Models]]
   - [[Philosophy]]
   - [[Productivity]]
