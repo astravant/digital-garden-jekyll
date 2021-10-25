@@ -1,9 +1,173 @@
 ---
 title: Daily Notes
 ---
+
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM SEPTEMBER '21</span>
+ </p>
+
+## September 29, 2021
+
+- Our prime objective as a species is to create a nation that can enable coordination on a large enough scale so that we can begin to work collectively towards a common goal.
+- Not all nations are good at organizing people, and nations that are inefficient at scaling trust will ultimately succumb to ones that are better at that function. This is the natural march of evolution and progress.
+
+
+## September 24, 2021
+
+### [Why the world is going crazy—and how to win back our minds](https://bigthink.com/series/the-big-think-interview/collapse-of-meaning)
+
+> If you took all of life on Earth and you compressed it into one 24-hour day, anatomically modern man shows up at four seconds before midnight, cave paintings at one second before midnight. We've been playing at civilization for a fraction of a second.
+> Everything is going into exponential change, from education to quantum computing, to cryptocurrency, to transport, to macroeconomics, to geopolitics, to climate crisis, to everything. It's breaking our brains. We're overwhelmed, we're collapsing in grief.
+
+
+## September 22, 2021
+
+> If you take a human being and upgrade them to like 10,000 IQ the outcome might not be what you want, because you’ve got a motivational system and an emotional system that basically evolved in prehuman animals. Whereas if you architect a system where **rationality and empathy** play a deeper role in the architecture then as its intelligence ramps way up we may find a more beneficial outcome.
+
+- Preference falsification theory states people will broadly lie about their true preferences (thus keeping a public set of preference and a private set of preferences)
+- You do not want to become too much like any particular group- being different is a positive, not a negative. But due to our preanimal programming we do not believe this to be the case.
+ 
+## September 21, 2021 
+
+### [The Merge](https://blog.samaltman.com/the-merge)
+
+
+> unless we destroy ourselves first, superhuman AI is going to happen, genetic enhancement is going to happen, and brain-machine interfaces are going to happen.
+> It is a failure of human imagination and human arrogance to assume that we will never build things smarter than ourselves.
+> We will be the first species ever to design our own descendants.
+> My guess is that we can either be the biological bootloader for digital intelligence and then fade into an evolutionary tree branch, or we can figure out what a successful merge looks like.
+
+### [How to make friends over the internet](https://guzey.com/how-to-make-friends-over-the-internet/)
+
+- **90% of meeting people is reaching out,** so, unless you’re already very well-known, most of your network building will consist of actively initiating conversations.
+- Those with the most number of friends are those who spend the most time reaching out to people and maintaining relationships.
+- **_any_ platform that allows you to send private messages to people is a platform where you can make friends.**
+
+
+# September 20, 2021 
+
+- The internet has made it easy to distribute creative work to millions of people, but no one has figured out how to help creatives make a sustainable living.
+
+# September 14, 2021
+
+> Man's progress is not measured by the reaches of his science but by the limits of his superstition. The truth is known. But the truth is unpopular.
+
+# September 13, 2021
+
+### [How to Raise Money for your DeFi Startup](https://defiweekly.substack.com/p/how-to-raise-money-for-your-defi)
+
+> Build slowly and learn what the market wants/needs. Some of Ethereum’s biggest success stories start off as side projects the founders built slowly.
+> Spend a few months on the idea and iterate through it by having as many conversations as possible with people to better understand the problem space.
+> My high level recommendation is to **be as crypto native as you possibly can.** The more ties you make into meatspace the slower you’ll move and spend time on problems that aren’t crucial to your product and customers.
+
+- Also ask them what their LPs let them do with the money (can they yield farm) and will they provide liquidity for your network? Those that do are much more value add since they’ll use your product and risk large sums of capital in your network.
+
+> Building up your circle of founder friends is something any entrepreneur should do, just make sure they’re roughly at the same stage so you can provide useful advice to each other.
+> Everyone should invest on the same terms for the same round. No special exceptions.
+
+### Questions to Ask 
+- “given what we’re doing, what are the primary challenges you see and how can we think about them better”,
+- “what sort of hiring pipelines have you built up to help portfolio companies”
+- Asking how they get their money, what they’ve promised their investors and what their objectives are are important. Not all money is created equal and you want to know what kind you’re dealing with.
+
+
+# September 10, 2021
+
+> Work to become, not to acquire. 
+
+### If creating new things required an abundance of money, billionaires would have a monopoly on creating new things. But most breakthroughs are made by those who lack capital. Being poor can be advantage in innovation.
+
+# September 9, 2021
+- Humans want to belong to groups, we find self-worth, purpose, identity with such attachments.
+- It is a common misunderstanding that the only type of intelligence is human intelligence. We tend to measure intelligence by how close it is to ours. 
+
+- A lot of bad ideas are necessary for one great idea. 
+	- it is about output, how much are you producing?
+
+
+# September 8, 2021
+
+>  The Universe will pay you back what you give it. 
+
+- Why do we work so much? In the West we have been conditioned to think that we are not enough (ref. Edward Bernays) we must pursue objects external from us to feel validated.
+- Life in the world is a gift - our natural state is gratitude. We did not create the sun, we did not earn our mother taking care of us when we were younger, we did not earn the ability of plants to grow. Our purpose as lifeforms is to serve and contribute.
+
+- If you want to do big things, it is going to require big sacrifices. 
+	- You don't change the world on 40 hours a week.
+
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM AUGUST '21</span>
+ </p>
+ 
+## August 26, 2021
+
+[Thread](https://twitter.com/1ahmedh1/status/1430757633875595265)
+
+A. Believe in change Most fortunes across history were built from change. These days we confuse technology with change, but if you look at entrepreneurs and billionaires like Ford, Soros, Rothschild and Schwarzmann, they aren’t tech investors, they are change investors.
+
+Each one of them saw, understood and invested in change. All of them understood changes in their economies, industries and adapted. That’s how they made their money. You don’t need to be able to code to be a billionaire today anymore than you needed to do it a century ago.
+
+B. Play for the big bucks They think much bigger, and act bolder. They are thinking in multiples rather than %. While us mortals focus on the 20%, they focus on and find the 10x. One way they get to play for a multiple is that they think yrs in advance.
+
+**One question, I try to ask myself weekly is: How can I 10x my life ? Then: what are the skills and people I need to know to 10x my life.**
+
+C. Build an Edge Every single ultra-rich person I have met understands their edge, what they are good at, and then what they aren’t good at, and therefore should pay to get done. They are very effective at this, to the point that they can extract the greatest economies of scale.
+
+They focus their energy on where they have the greatest competitive advantage and then leave the rest for someone else to do. What are the 20% of activities that are responsible for 80% of the positive outcomes? Once they have found their edge they make sure to exploit it.
+
+You'll see them double and triple down on their most valuable activities, and keep investing in them and ignore everything where they don't have an edge. Make sure to find your edge and invest in it, and say "NO" to everything else.
+
+D. Network Their best opportunities come from their network. They know they aren’t going to come up with opportunities on their own. They listen to the experts in their network, ask questions, find more experts and keep digging until they can unearth the best opportunities.
+
+They aren’t satisfied with the first answer they get or the first opportunity they come across. **They know that the best ideas and opportunities need to be discovered.**
+
+E. Live in the Present They aren’t trapped in the past and what they did last yr. They are pragmatic and practical. They focus on the reality of where they stand now and don’t do things just because they have done them for the last decade or year. **They go where others aren’t.**
+
+Henry Ford wasn’t inventing the next horse drawn carriage. Jeff Bezos wasn’t starting the next hedge fund when he left D.E. Shaw. **Based on what I know today, what is the best use of my time, and what am I doing now that doesn't need to be done?**
+ 
+## August 24, 2021
+
+- To bootstrap a new blockchain or app, you need to convince people that other people will also use that blockchain or app. The best blockchain technology in the world is useless without people building on top of it. 
+- The name of the game is to convince as many people as possible to build on your protocol.
+- Then, it’s about those developers attracting and properly incentivizing users.
+ 
+## August 23, 2021 
+
+> What you get by achieving your goals is not as important as what you become by achieving your goals. 
+> The greatest rewards come from working on something that nobody has a name for. If you possibly can, work where there are no words for what you do.
+
+## August 22, 2021 
+ 
+### Productivity is for robots, creativity is for humans.
+
+## August 20, 2021 
+
+- GDP is a poor way to account for everything in a society. Companies are valued based on future cash flows. We should think of countries in the same way. If you’re innovating and building and have a lot of assets as a country - perhaps it’s okay to be printing money to fund new projects.
+
+- The best entrepreneurs are paranoid - FOMO. The world moves very quickly. 
+
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM JULY '21</span>
+ </p>
+
+## July 22, 2021
+
+### If you could achieve any long term goal you wanted, what would you be working on?
+
+
+## July 12, 2021
+
+> Reporting good news can make a person look bad. If we look anxious to reveal good news, our listeners assume that we don’t come by good news very often. Or perhaps our listeners believe we consider the good news a stroke of marvelous luck. Did Michael Jordan need to tell his friends every time he scored thirty points in a game?
+
+- If someone hears our good news through the grapevine, they’re far more likely to be impressed. Clearly we must have so much good news that we don’t even bother sharing it.
+
+
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM JUNE '21</span>
  </p>
+ 
+## June 30, 2021
+Q: what if people outside of the early adopter set just don’t really care about decentralization?
 
 ## June 28, 2021
 
