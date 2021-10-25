@@ -8,7 +8,7 @@ title: Daily Notes
 
 ## September 29, 2021
 
-- Our prime objective as a species is to create a nation that can enable coordination on a large enough scale so that we can begin to work collectively towards a common goal.
+- Our prime objective as a species is to create a nation that can enable coordination on a large enough scale so that we can begin to work collectively towards common goals.
 - Not all nations are good at organizing people, and nations that are inefficient at scaling trust will ultimately succumb to ones that are better at that function. This is the natural march of evolution and progress.
 
 
