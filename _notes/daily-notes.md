@@ -1,6 +1,90 @@
 ---
 title: Daily Notes
 ---
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span>
+ </p>
+## November 20, 2021 
+
+- What happens after the metaverse? The metaverse is being framed as the 'singularity' moment for the world - what happens next? Have we not dreamed beyond this? It will likely not be a utopia...
+ 
+## November 9, 2021
+
+- DAO's are coordination vehicles fit for the 21st century
+- People will cede increasingly more control to AI as they see the results and begin to develop trust with AIs. They will understand us more than we understand ourselves. 
+
+Re: Naval on Ferriss podcast - perhaps web3 is not simply porting over web2 concepts and decentralizing them, but creating new types of companies and doing things we have not even imagined yet. Web2 may have its place w/ social media platforms, search, etc. As some of these use cases really benefit from centralization. What models would work well in a web3 world?
+ 
+## November 6, 2021
+
+> _Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it’s the only thing that ever has._ – **Margaret Mead**
+
+> You've got to think about big things while you're doing small things, so that all the small things go in the right direction.
+
+> We live in a world where our social system is old, our language is old, the way we acquire goods and services is outdated, our cities are detrimental to our health, chaotic and a tremendous waste of resource, and most of all our politics and values no longer serve us.
+
+## November 3, 2021
+
+### Future fortunes will favor those that prepare for this inevitable upheaval and embrace a digitally immersive future.
+
+> The Sovereign Individual emphasizes self-ownership, rational thought over fatalism, and does not accept the one size fits all approach of mass consumption society.
+
+> The internet ended the monopoly that the credentialed class had on valuable information.
+
+## November 2, 2021
+
+> Social media as a social control mechanism - like in ORWELL'S 1984, 2 minutes of hate. People at boring jobs spew hate on twitter for 2 minutes then go back to their boring jobs. Social media is a substitute to revolution, not a complement.
+
+> Once an experiment starts, real-world feedback is often by far the most useful variable to determine how the experiment should be adjusted in the future.
+
+## November 1, 2021
+
+> It is quite possible that the feature of being human that has made us the intelligent, most powerful creatures on the planet, is our ability to distill external information into internal knowledge.
+
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM OCOTOBER '21</span>
+ </p>
+ 
+## October 27, 2021
+- Corporations are just people and unstructured data - this is true for all coordination vehicles 
+
+## October 24, 2021
+
+> Real power comes from undetectable influence
+
+> He brings up the example of the agricultural revolution which resulted in a lower quality of life and shorter lifespans for neolithic societies. No society or individual deliberately chose this technology that fostered disease and misery. Yet they had no chance to go back, as agricultural societies’ population flourished, the hunter-gatherer way of life was marginalized.
+
+> We are now in a new techno-economic paradigm which revolves around blockchains. Blockchains allow for something called social scalability: the ability to coordinate large swathes of people without increasing centralization.
+
+> Making a handful of good uncorrelated bets that are balanced and leveraged well is the surest way of having a lot of upside without being exposed to unacceptable downside.
+
+> Think of yourself as a machine operating within a machine and know that you have the ability to alter your machines to produce better outcomes.
+
+## October 20, 2021
+
+- Government is a compromise among men in which some measure of individual freedom is exchanged for security.
+> As the human is individual in nature, rather than hive-oriented as are some species of insect, true collective decision making is beyond our biological ability.
+
+> To develop a theory of change, you need to start at the end and repeatedly ask yourself, “Concretely, how does one achieve that?”
+
+## October 19, 2021
+
+> Web3 is changing the way we work
+
+AI in the future: Terminator-style killer bots or conversational agents that are your friends and mentors on the internet?
+
+> The fundamentals of many of today’s algorithms have been around for over 30 years. But it’s really only now, in the last 5 to 8 years, that we have had enough data and enough computation to make those technologies work.
+
+What happens to advertisers when you allow your AI to purchase products and services on your behalf?
+
+> if you’re an ambitious entrepreneur interested in AI, there’s never been a better time to get involved.
+
+> we are unable to process all the data entering through our senses.
+	> Because of that, our brains take shortcuts called “heuristics” that unfortunately introduce a number of (sometimes dangerous) cognitive biases.
+
+> Seneca: “There is nothing wrong with changing a plan when the situation has changed.”
+
+> Huxley: “Facts do not cease to exist because they are ignored.”
 
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM SEPTEMBER '21</span>
