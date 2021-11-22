@@ -4,6 +4,7 @@ title: Daily Notes
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span>
  </p>
+
 ## November 20, 2021 
 
 - What happens after the metaverse? The metaverse is being framed as the 'singularity' moment for the world - what happens next? Have we not dreamed beyond this? It will likely not be a utopia...
