@@ -29,6 +29,7 @@ The objective of this digital garden is a multi-year project to curate, connect,
  </p>
 
 # Recent Reading
+- [Gaby's Web3 Reading List](https://www.notion.so/f7050e62461143d49345e7b46eb5576b)
 - [A Journey To GameB](https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - [There Could Be a Real Solution to Our Broken Economy. It’s Called ‘Universal Basic Assets.’](https://medium.com/institute-for-the-future/universal-basic-assets-abb08ca2f0fc)
 - [Defund (and redesign) everything.](https://medium.com/deep-code/defund-and-redesign-everything-d1b9d674a45d)
