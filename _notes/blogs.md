@@ -28,3 +28,15 @@ title: Blog List
 ## [Paul Graham](http://www.paulgraham.com/)
 
 ## [Fred Ehrsam](https://fehrsam.xyz/)
+
+## [Marginal Revolution](https://marginalrevolution.com/)
+
+## [TheMoneyIllusion](https://www.themoneyillusion.com/)
+
+## [Slate Star Codex](https://slatestarcodex.com/)
+
+## [Econlib](https://www.econlib.org/) 
+
+## [LESSWRONG](https://www.lesswrong.com/)
+
+## [80,000 Hours](https://80000hours.org/latest/)
