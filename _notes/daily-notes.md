@@ -4,6 +4,9 @@ title: Daily Notes
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span>
  </p>
+## November 22, 2021 
+
+- In a world of persistent normalcy, will creativity exist? 
 
 ## November 20, 2021 
 
