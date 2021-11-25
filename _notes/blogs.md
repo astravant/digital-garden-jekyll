@@ -3,6 +3,8 @@ title: Blog List
 --- 
 ## [Big Think](https://bigthink.com/)
 
+## [WAIT BUT WHY](https://waitbutwhy.com/archive)
+
 ## [Sam Altman](https://blog.samaltman.com/)
 
 ## [Not Boring Co by Packy McCormick](https://www.notboring.co/)
