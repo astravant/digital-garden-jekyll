@@ -1,9 +1,61 @@
 ---
 title: Daily Notes
 ---
+ 
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM DECEMBER '21</span>
+ </p>
+
+## December 10, 2021 
+
+> No one “builds a house.” They lay one brick again and again and again and the end result is a house. Procrastinators are great visionaries—they love to fantasize about the beautiful mansion they will one day have built—but what they need to be are gritty construction workers, who methodically lay one brick after the other, day after day, without giving up, until a house is built.
+
+## December 5, 2021 
+
+- As Rabbi **Moses ben Maimon** (1135–1204), commonly known as Maimonides, said: “Teach thy tongue to say I do not know, and thou shalt progress.”
+- Focus on questions where effort will pay off the most.
+- When the problem is big and seemingly intractable, break it down into crude smaller components.
+- As we are prone to look at things from the inside out, remember to ask the outside-in questions.
+- We are never 100 percent confident, update your beliefs as new information becomes available.
+- There is always more than one side to problems. Understanding the counterarguments is the key to having an informed opinion.
+- Remove as much uncertainty as you can.
+- Rushing to judgment can be as harmful as taking too long to make a decision.
+- There are levels to learning. Learning from your failures is good. Learning from others’ failures is better. But learning from success is key.
+- When teams make decisions, managing the process is critical.
+- No amount of book smarts will help you, you have to practice. 
+ 
+ 
+## December 5, 2021 
+ 
+ > There is a difference between knowledge and action.
+ > By what I call the narrative fallacy, the media distorts our mental map of the world by feeding us what can be made into a story that can be squeezed into our minds.
+ > People focus on role models; it is more effective to find antimodels—people you don’t want to resemble when you grow up.
+ 
+## December 1, 2021 
+
+- Obsession, winning, and balance do not belong in the same sentence. 
+- It's a question of ambition and obsession. What are your goals? If you are focused on becoming a master of your craft, changing the world, building a billion dollar business - these things do not happen on 40 hours a week - they take sacrifice and obsession. People will look at you like you are crazy, they will question you, this is normal - it can be a sign you are on the right track.
+- Winning is not glamorous.  
+- Extreme people get extreme results. 
+- Do not view competitiveness as a negative trait - humans are competitive creatures. Embrace your competitive nature. 
+- How do we balance competition as a necessity and being an original, and looking for spaces and niches others have not yet found?
+ 
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span>
  </p>
+
+## November 29, 2021 
+
+> New tools equal new perceptions.
+
+- Is there a possibility that solutions take longer in the crypto space because of the focus on decentralization? The nature of decentralization rejects any centralized solutions. 
+
+## November 28, 2021 
+
+> Intelligence without imagination: a deadly combination.
+
+> The public observes the external signs of wealth without even having a glimpse at the source.
+
 ## November 22, 2021 
 
 - In a world of persistent normalcy, will creativity exist? 
