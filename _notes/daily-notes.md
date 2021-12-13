@@ -27,9 +27,9 @@ title: Daily Notes
  
 ## December 5, 2021 
  
- > There is a difference between knowledge and action.
- > By what I call the narrative fallacy, the media distorts our mental map of the world by feeding us what can be made into a story that can be squeezed into our minds.
- > People focus on role models; it is more effective to find antimodels—people you don’t want to resemble when you grow up.
+> There is a difference between knowledge and action.
+> By what I call the narrative fallacy, the media distorts our mental map of the world by feeding us what can be made into a story that can be squeezed into our minds.
+> People focus on role models; it is more effective to find antimodels—people you don’t want to resemble when you grow up.
  
 ## December 1, 2021 
 
