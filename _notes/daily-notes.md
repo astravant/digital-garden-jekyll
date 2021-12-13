@@ -186,15 +186,15 @@ What happens to advertisers when you allow your AI to purchase products and serv
 - **_any_ platform that allows you to send private messages to people is a platform where you can make friends.**
 
 
-# September 20, 2021 
+## September 20, 2021 
 
 - The internet has made it easy to distribute creative work to millions of people, but no one has figured out how to help creatives make a sustainable living.
 
-# September 14, 2021
+## September 14, 2021
 
 > Man's progress is not measured by the reaches of his science but by the limits of his superstition. The truth is known. But the truth is unpopular.
 
-# September 13, 2021
+## September 13, 2021
 
 ### [How to Raise Money for your DeFi Startup](https://defiweekly.substack.com/p/how-to-raise-money-for-your-defi)
 
@@ -213,13 +213,13 @@ What happens to advertisers when you allow your AI to purchase products and serv
 - Asking how they get their money, what they’ve promised their investors and what their objectives are are important. Not all money is created equal and you want to know what kind you’re dealing with.
 
 
-# September 10, 2021
+## September 10, 2021
 
 > Work to become, not to acquire. 
 
 ### If creating new things required an abundance of money, billionaires would have a monopoly on creating new things. But most breakthroughs are made by those who lack capital. Being poor can be advantage in innovation.
 
-# September 9, 2021
+## September 9, 2021
 - Humans want to belong to groups, we find self-worth, purpose, identity with such attachments.
 - It is a common misunderstanding that the only type of intelligence is human intelligence. We tend to measure intelligence by how close it is to ours. 
 
@@ -227,7 +227,7 @@ What happens to advertisers when you allow your AI to purchase products and serv
 	- it is about output, how much are you producing?
 
 
-# September 8, 2021
+## September 8, 2021
 
 >  The Universe will pay you back what you give it. 
 
