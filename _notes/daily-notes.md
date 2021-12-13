@@ -41,7 +41,7 @@ title: Daily Notes
 - How do we balance competition as a necessity and being an original, and looking for spaces and niches others have not yet found?
  
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
-  <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span>
+  <span style="font-weight: bold">NOTES FROM NOVEMBER '21</span> 
  </p>
 
 ## November 29, 2021 
