@@ -47,6 +47,8 @@ The objective of this digital garden is a multi-year project to curate, connect,
 - [[Artifical Intelligence]]
 - [[Metaverse]]
 - [[Open Access Economy]]
+- [[Internet of Things]]
+- [[Moneyless Society]]
 
 # [[Books]]
 
