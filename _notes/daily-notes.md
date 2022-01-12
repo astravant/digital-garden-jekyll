@@ -6,6 +6,20 @@ title: Daily Notes
   <span style="font-weight: bold">NOTES FROM DECEMBER '21</span>
  </p>
 
+
+
+## December 29, 2021
+
+- The concept of the 'double thank you' has really clicked with me - by paying others to do things that are not your core competence, you are stimulating the economy and helping people.
+
+## December 14, 2021
+
+- Update the programming in your brain if you are not happy with the way things are. Reprogram your mind, habits, thoughts, creativity, perspective, mindset, etc. 
+
+## December 11, 2021 
+
+> “If you woke up tomorrow morning and found out you had ten years to live, what would you stop doing?”
+
 ## December 10, 2021 
 
 > No one “builds a house.” They lay one brick again and again and again and the end result is a house. Procrastinators are great visionaries—they love to fantasize about the beautiful mansion they will one day have built—but what they need to be are gritty construction workers, who methodically lay one brick after the other, day after day, without giving up, until a house is built.
