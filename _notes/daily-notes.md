@@ -71,7 +71,7 @@ In 2022, food, transportation, and especially housing prices will rise, and whil
 
 ## December 31, 2021
 
-Earn with your mind, not your time. So, if this the case you want to optimize your mind the best that you can. 
+Earn with your mind, not your time. 
 
 I believe the future lies in the convergence of AI and crypto. 
 
