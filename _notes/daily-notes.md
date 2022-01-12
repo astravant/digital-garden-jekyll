@@ -3,9 +3,77 @@ title: Daily Notes
 ---
  
  <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
+  <span style="font-weight: bold">NOTES FROM JANUARY '22</span>
+ </p>
+
+## January 8, 2022
+
+- When does wisdom of crowds become madness of crowds?
+
+- Democracy should provide checks and balances on the elites - how good of a job are they doing? 
+
+- We are all prone to evil. 
+- There is a saying that the line between good and evil is not a line between classes of people or political parties - but a line that passes through the hearts of each and every one of us.
+
+>Nobody’s smart enough to design a society; you’ve got to experiment.
+
+If we can connect brains to an AGI (+ our quantified body data), will they know better than us what we should do?
+
+- Perhaps there is less patriotism today bc/ the current generations have not had to sacrifice anything for the country. It sounds counterintuitive but if you make sacrifices and give things up for someone or something, we feel more drawn to and connected to that thing.
+
+
+## January 6, 2022
+
+> How can we accelerate coordination? How can we better coordinate ourselves, to inspire better coordination mechanisms in the world?
+
+Improving coordination means better resource allocation, less corruption, and more symmetry between value created and value captured.
+
+## January 3, 2022
+
+> And so, although the present generation lives in the most prosperous period in human history, it’s plausibly also the most dangerous.
+
+_“You never change things by fighting the existing reality. To change something, build a new model that makes the existing model obsolete.” — Buckminster Fuller_
+
+## January 2, 2022
+
+### Goal Setting via [How I set and execute 50-year goals](https://hackernoon.com/how-i-set-and-execute-50-year-goals-why-i-see-cutting-in-lines-as-morally-right-f4d0ce28574f)
+
+
+1.  **Clear, ~permanent long-term vision**. I hold my vision very firmly, change it very rarely, and see it as infinite. It is the core of my identity, the center of who I am, and my reason to get out of bed in the morning.
+2.  **Thread that converts my long-term vision to tractable daily actions**. Long-term vision => decade themes => year OKRs => quarter OKRs=> weekly/daily actions.
+3.  **Minimize bullshit that does not advance my long-term vision**. I delegate, pay, ignore etc.; doesn’t matter as long as I just don’t do it.
+
+## January 1, 2022
+
+When long-term goal setting, I am learning it's more important to optimize for skills, systems, and traits - opposed to objects or simple pass fail metrics. Focus on becoming a person with skills that will simply attract the 'things you want.' Focus on systems and processes versus things and objects.
+
+_"With a system, you are less likely to miss one opportunity because you were too focused on another. With a system, you are always scanning for any opportunity."_
+
+Instead of 'I want a billion dollar company' - what systems, processes, R&D, workflows, etc.  do billion dollar companies have? Focus on building these and the 'billion dollar company' will occur as a by-product. 
+
+Instead of 'I want to be a millionaire' - what traits, skills, and habits do millionaires have? Focus on upgrading your mindset via books, conferences, networking, optimize your mind, practice persuasion, writing, influence, invest in assets, acquire new skills, learn accounting, work ethic, travel to expand perspective, build a business, etc. and you will become a millionaire as a by-product. 
+
+Visualize the type of person you want to become in 1 year, 5 years, 10 years...what traits and skills does this person have, what do they invest their time and energy into? And reverse engineer this to the present day and begin.
+
+> "Goals determine your direction. Systems determine your progress."
+
+In 2022, food, transportation, and especially housing prices will rise, and while many people will receive the of pay raises, they will be significantly poorer in real relative wealth.
+
+> When governments launch their own [Central Bank Digital Currencies](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp) (CBDCs) — as some have already done — expect them to fully ban cryptocurrency and pair their CBDCs with [Orwellian social credit systems](https://survivingtomorrow.org/are-you-ready-for-americas-social-credit-system-8f31a96a1fd0) and under-the-skin surveillance.
+
+- As the rich leave states like New York and California for laissez-faire regimes like Texas, we’ll witness a collapse in tax revenue.
+- Tax revenue erosion will soon be a common phrase in city council chambers across the country.
+
+
+ <p style="padding: 1em 1em; background: #f5f7ff; border-radius: 2px;">
   <span style="font-weight: bold">NOTES FROM DECEMBER '21</span>
  </p>
 
+## December 31, 2021
+
+Earn with your mind, not your time. So, if this the case you want to optimize your mind the best that you can. 
+
+I believe the future lies in the convergence of AI and crypto. 
 
 
 ## December 29, 2021
