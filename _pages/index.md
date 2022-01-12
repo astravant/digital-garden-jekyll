@@ -38,6 +38,16 @@ The objective of this digital garden is a multi-year project to curate, connect,
 - [The Creative Process](https://openspaceofdemocracy.files.wordpress.com/2017/01/baldwin-creative-process.pdf) by James Baldwin
 - [The Lily: Evolution, Play, and the Power of a Free Society](https://books.google.com/books/about/The_Lily.html?id=tF4rocKg4egC) by Daniel Cloud
 
+# 2100
+
+- [[Universal Basic Assets]]
+- [[Anarchy]]
+- [[Effective Altruism]]
+- [[Resource-based Economy]]
+- [[Artifical Intelligence]]
+- [[Metaverse]]
+- [[Open Access Economy]]
+
 # [[Books]]
 
  <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 6px;">
