@@ -57,7 +57,7 @@ Visualize the type of person you want to become in 1 year, 5 years, 10 years...w
 
 > "Goals determine your direction. Systems determine your progress."
 
-In 2022, food, transportation, and especially housing prices will rise, and while many people will receive the of pay raises, they will be significantly poorer in real relative wealth.
+In 2022, food, transportation, and especially housing prices will rise, and while many people will receive pay raises, they will be significantly poorer in real relative wealth.
 
 > When governments launch their own [Central Bank Digital Currencies](https://www.investopedia.com/terms/c/central-bank-digital-currency-cbdc.asp) (CBDCs) — as some have already done — expect them to fully ban cryptocurrency and pair their CBDCs with [Orwellian social credit systems](https://survivingtomorrow.org/are-you-ready-for-americas-social-credit-system-8f31a96a1fd0) and under-the-skin surveillance.
 
