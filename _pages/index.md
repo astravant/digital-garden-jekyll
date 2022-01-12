@@ -40,7 +40,13 @@ The objective of this digital garden is a multi-year project to curate, connect,
 
 # 2100
 
-- Universal Basic Assets
+- [[Universal Basic Assets]]
+- [[Anarchy]]
+- [[Effective Altruism]]
+- [[Resource-based Economy]]
+- [[Artifical Intelligence]]
+- [[Metaverse]]
+- [[Open Access Economy]]
 
 # [[Books]]
 
