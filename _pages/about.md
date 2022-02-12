@@ -11,3 +11,5 @@ I work in technology and focus on innovation around artifical intelligence, bloc
 I have interests ranging across biology, economics, technology, longevity, crypto, and others.
 
 [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
+
+[Twitter](https://twitter.com/brandonspiess)
