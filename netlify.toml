@@ -1,7 +1,3 @@
 [build]
-<<<<<<< HEAD
   command = "jekyll build --trace"
-=======
-  command = "jekyll build --trace"
->>>>>>> 1e3cf79ff04f3da77fdd2fab4078b205c524ab01
   publish = "_site"
