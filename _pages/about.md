@@ -12,4 +12,4 @@ I have interests ranging across biology, economics, technology, longevity, crypt
 
 [LinkedIn](https://www.linkedin.com/in/brandonspiess/)
 
-[Twitter](https://twitter.com/brandonspiess)
+[Twitter](https://twitter.com/brandonspiess) hi
